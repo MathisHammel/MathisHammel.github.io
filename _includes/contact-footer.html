@@ -1,0 +1,40 @@
+<!-- begin contact footer -->
+<div class="row">
+  <div class="col col-12">
+
+    <div class="form-box">
+      <div class="contact-head">
+        {% if site.data.settings.contact__settings.contact__title %}
+          <h2 class="contact-title">{{ site.data.settings.contact__settings.contact__title }}</h2>
+        {% endif %}
+        {% if site.data.settings.contact__settings.contact__description %}
+          <p class="contact-description"><span id="ityped-footer"></span></p>
+        {% endif %}
+        <div class="copy-container">
+          <p class="contact-email">contact@mathishammel.com</p>
+          <span class="copy-to-clipboard" id="copy-to-clipboard-footer"><i class="ion ion-md-copy clipboard-icon"></i><span class="clipboard-text">Copier</span></span>
+          <span class="copied-to-clipboard" id="copied-to-clipboard-footer" style="display: none;"><i class="ion ion-md-checkmark-circle-outline clipboard-icon"></i><span class="clipboard-text">Copié</span></span>
+        </div>
+      </div>
+      <form class="form" action="{% if site.data.settings.contact__settings.formspree__id %}https://formspree.io/{{site.data.settings.contact__settings.formspree__id}}{% else %}#{% endif %}" method="POST">
+        <div class="form__group">
+          <label class="form__label screen-reader-text" for="form-name">Votre nom</label>
+          <input class="form__input" id="form-name" type="text" name="name" placeholder="Votre nom" required>
+        </div>
+        <div class="form__group">
+          <label class="form__label screen-reader-text" for="form-email">Votre email</label>
+          <input class="form__input" id="form-email" type="email" name="_replyto" placeholder="Votre adresse email" required>
+        </div>
+        <div class="form__group">
+          <label class="form__label screen-reader-text" for="form-text">Votre message</label>
+          <textarea class="form__input" id="form-text" name="text" rows="8" placeholder="Votre message" required></textarea>
+        </div>
+        <div class="form__group form__group-button">
+          <button class="button button--middle" type="submit">Envoyer <i class="ion ion-ios-paper-plane"></i></button>
+        </div>
+      </form>
+    </div>
+
+  </div>
+</div>
+<!-- end contact footer -->

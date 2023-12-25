@@ -1,0 +1,120 @@
+#-------------------------------
+# Site Settings
+
+title: Mathis Hammel
+logo: # You can add own logo. For example '/images/logo.png'.
+description: Mathis Hammel - consultant indépendant
+
+menu__settings:
+  menu__items:
+    - title: 'Accueil'
+      url: '/'
+    - title: 'Prestations'
+      url: '/projects/'
+    - title: 'Blog'
+      url: '/blog/'
+
+# Call to action button
+cta__button__text: Contactez-moi
+
+# Add global cover image (This field adds a background to the top and bottom of the site.)
+cover__image: '/images/topcover.jpg'
+
+
+#-------------------------------
+# Author Settings
+
+author:
+  name: Mathis Hammel
+  title: Mathis Hammel
+  bio: Consultant indépendant depuis 2018, je suis passionné de vulgarisation et de compétitions techniques.<br><br>Mes domaines de spécialisation sont <b>la cybersécurité, l'IA et l'algorithmique</b>. Je propose des formations sur ces sujets à destination des développeurs·es.
+  image: '/images/avatar_full.jpg'
+  avatar: '/images/avatar_small.jpg'
+  button__text: Mes prestations
+
+
+#-------------------------------
+# Projects Settings
+
+projects__settings:
+  projects__title: Catalogue de <span class="text-span">Prestations</span> # Add a 'text-span' class to highlight text.
+  projects__description: Quelques sujets sur lesquels je peux apporter à votre équipe l'expertise dont elle a besoin.
+
+
+#-------------------------------
+# Testimonials Section
+
+testimonial__title: Mes <span class="text-span">Clients</span> # Add a 'text-span' class to highlight text.
+
+testimonial-items:
+  - name: "Zaire Baptista"
+    image: "/images/client-1.jpg"
+    designation : "Traveler"
+    content : "Quamquam id quidem, infinitum est in hac urbe, Ita multo sanguine profuso in laetitia et in victoria est mortuus. Atqui pugnantibus et contrariis consiliisque."
+
+  - name: "Ann Philips"
+    image: "/images/client-2.jpg"
+    designation : "Designer"
+    content : "Quamquam id quidem, infinitum est in hac urbe, Ita multo sanguine profuso in laetitia et in victoria est mortuus. Atqui pugnantibus et contrariis consiliisque."
+
+  - name: "Roger Bergson"
+    image: "/images/client-3.jpg"
+    designation : "CEO, Founder"
+    content : "Quamquam id quidem, infinitum est in hac urbe, Ita multo sanguine profuso in laetitia et in victoria est mortuus. Atqui pugnantibus et contrariis consiliisque."
+
+  - name: "Julie Arnold"
+    image: "/images/client-4.jpg"
+    designation : "Full stack developer"
+    content : "Quamquam id quidem, infinitum est in hac urbe, Ita multo sanguine profuso in laetitia et in victoria est mortuus. Atqui pugnantibus et contrariis consiliisque."
+
+
+#-------------------------------
+# Blog Section
+
+blog__settings:
+  blog__title: <span class="text-span">Articles</span> Récents # Add a 'text-span' class to highlight text.
+  blog__description:
+
+
+#-------------------------------
+# Contact Settings
+
+contact__settings:
+  contact__email: contact@mathishammel.com # Add your email for contact form
+  formspree__id: meqwyvrk
+  contact__title: <span class="text-span">Contactez-moi</span> # Add a title to your form
+  contact__description: Une idée de projet ? Un besoin de formation technique ? # Add a description to your form
+
+# NOTE
+# Avenco comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want.
+
+
+#-------------------------------
+# Newsletter Settings
+mailchimp__settings:
+  mailchimp__title: <span class="text-span">Join</span> my mailing list # Add your title
+  mailchimp__text: " 'Une idée de projet ?', 'Un besoin de formation technique ?', 'Une question à propos d\\'un article ?' " # Add descriptions to the form by wrapping the text in single quotes. If you want to use more than one sentence, be sure to separate them with a comma.
+  mailchimp__identifier: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
+  mailchimp__button__text: Subscribe # Add your button text
+
+
+#-------------------------------
+# Comment Section (Disqus)
+disqus-identifier: # add your shortname for Disqus Comment. For example anvodstudio-demo
+
+
+#-------------------------------
+# Google Analytics
+google-analytics: G-4C5ZQK539B # Add your identifier. For example UA-99631805-1.
+
+
+#-------------------------------
+# Footer Settings
+# Social Links
+# Example of adding a new link to the footer - {icon: "ion-logo-facebook", link: "https://facebook.com"}
+# Other icons can be found at https://ionicons.com/v4/
+social:
+- {icon: "ion-logo-twitter", link: "https://twitter.com/MathisHammel"}
+- {icon: "ion-logo-linkedin", link: "https://www.linkedin.com/in/mathis-hammel"}
+- {icon: "ion-logo-github", link: "https://github.com/MathisHammel"}
+- {icon: "ion-logo-twitch", link: "https://twitch.tv/MathisHammel"}
