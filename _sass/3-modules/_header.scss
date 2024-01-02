@@ -51,7 +51,7 @@
     z-index: -1;
     opacity: 0;
     overflow: auto;
-    background: $white;
+    background: $dark;
     transition: all .25s ease;
 
     &.is-open {

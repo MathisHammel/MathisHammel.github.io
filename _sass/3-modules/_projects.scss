@@ -2,7 +2,7 @@
 .project {
   margin-bottom: 32px;
   transition: transform .2s ease;
-  background-color: $background-color;
+  //background-color: $background-color;
 
   &:hover {
 
@@ -147,7 +147,7 @@
     border-radius: 16px;
 
     .project__image img {
-      border-radius: 16px;
+      border-radius: 16px 16px 0px 0px;
     }
   }
 }

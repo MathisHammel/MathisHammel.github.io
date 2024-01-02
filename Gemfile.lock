@@ -75,6 +75,7 @@ DEPENDENCIES
   jekyll-paginate
   jekyll-sitemap
   jekyll-tagging
+  kramdown-parser-gfm
 
 BUNDLED WITH
    2.3.26

@@ -44,8 +44,8 @@ $mq: ( $mobile:$columns, $tablet:$columns, $desktop:$columns );
   flex: 0 1 auto;
   flex-direction: row;
   box-sizing: border-box;
-  margin-left: ($base-spacing-unit * -1);
-  margin-right: ($base-spacing-unit * -1);
+  // margin-left: ($base-spacing-unit * -1);
+  // margin-right: ($base-spacing-unit * -1);
 }
 
 .col {

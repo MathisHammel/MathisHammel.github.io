@@ -159,8 +159,6 @@ window.addEventListener("load", function(){
       onFinished: function(){}
     }
 
-    console.log(options);
-
     ityped.init('#ityped-footer', options);
   }
 
@@ -176,8 +174,6 @@ window.addEventListener("load", function(){
       cursorChar: "|",
       onFinished: function(){}
     }
-
-    console.log(options);
 
     ityped.init('#ityped-modal', options);
   }

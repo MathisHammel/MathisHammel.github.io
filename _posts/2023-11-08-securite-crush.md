@@ -12,7 +12,7 @@ J'y ai découvert un réseau de sociétés fictives qui récolte activement les 
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/securite-crush/1722318972605903241-F-bmZzOWwAAHWt3.png" draggable="false">
+  <img src="/images/blog/securite-crush/1722318972605903241-F-bmZzOWwAAHWt3.png" draggable="false">
   </div>
 </div>
 
@@ -28,7 +28,7 @@ Dans un autre onglet, vous pouvez savoir ce que les gens ont répondu sur vous, 
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/securite-crush/1722318977555194056-F-bmjR_W8AAxL-P.png" draggable="false">
+  <img src="/images/blog/securite-crush/1722318977555194056-F-bmjR_W8AAxL-P.png" draggable="false">
   </div>
 </div>
 
@@ -44,7 +44,7 @@ L'âge n'est **jamais vérifié**, j'ai pu créer un profil sans souci et envoye
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/securite-crush/1722318984362578131-F-bmpYhXgAApvSI.jpg" draggable="false">
+  <img src="/images/blog/securite-crush/1722318984362578131-F-bmpYhXgAApvSI.jpg" draggable="false">
   </div>
 </div>
 
@@ -54,7 +54,7 @@ On peut tout de même récupérer quelques infos (prénom, photo de profil, etc.
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/securite-crush/1722318989097935147-F-bm4j9XUAADzQZ.jpg" draggable="false">
+  <img src="/images/blog/securite-crush/1722318989097935147-F-bm4j9XUAADzQZ.jpg" draggable="false">
   </div>
 </div>
 
@@ -70,7 +70,7 @@ En résumé : j'ai extrait 64 endpoints du code de l'appli, aucun ne présente d
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/securite-crush/1722318994970206260-F-bm-tmWAAEUnYH.jpg" draggable="false">
+  <img src="/images/blog/securite-crush/1722318994970206260-F-bm-tmWAAEUnYH.jpg" draggable="false">
   </div>
 </div>
 
@@ -88,7 +88,7 @@ Comme beaucoup d'entre vous, j'ai entendu parler de Crush via le thread de <a hr
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/securite-crush/1722319002834276501-F-bnFV1XIAE9Hsn.png" draggable="false">
+  <img src="/images/blog/securite-crush/1722319002834276501-F-bnFV1XIAE9Hsn.png" draggable="false">
   </div>
 </div>
 
@@ -98,7 +98,7 @@ Marc est un joueur accompli de pipeau sur LinkedIn, et visiblement dev qui sait 
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/securite-crush/1722319005900238989-F-bfNdGXAAAImyS.jpg" draggable="false">
+  <img src="/images/blog/securite-crush/1722319005900238989-F-bfNdGXAAAImyS.jpg" draggable="false">
   </div>
 </div>
 
@@ -110,7 +110,7 @@ Première étape, on va voir dans la politique de confidentialité de l'appli : 
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/securite-crush/1722319011025654116-F-bnU8fW8AAItm7.jpg" draggable="false">
+  <img src="/images/blog/securite-crush/1722319011025654116-F-bnU8fW8AAItm7.jpg" draggable="false">
   </div>
 </div>
 
@@ -120,7 +120,7 @@ Cependant, **le numéro d'immatriculation est faux** (il correspond à une autre
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/securite-crush/1722319013710041118-F-bnYjiXAAAiaDL.jpg" draggable="false">
+  <img src="/images/blog/securite-crush/1722319013710041118-F-bnYjiXAAAiaDL.jpg" draggable="false">
   </div>
 </div>
 
@@ -130,8 +130,8 @@ En effet, les conditions de confidentialité de Comin sont quasi identiques, et 
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/securite-crush/1722319016365056489-F-bndZ2XQAAk_Nt.png" draggable="false">
-  <img style="height:350px; object-fit:cover" src="/images/blog/securite-crush/1722319016365056489-F-bnkvTWQAAzVO6.png" draggable="false">
+  <img src="/images/blog/securite-crush/1722319016365056489-F-bndZ2XQAAk_Nt.png" draggable="false">
+  <img src="/images/blog/securite-crush/1722319016365056489-F-bnkvTWQAAzVO6.png" draggable="false">
   </div>
 </div>
 
@@ -143,7 +143,7 @@ Vous connaissez la chanson, **aucune trace** administrative n'existe à ce nom.
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/securite-crush/1722319021842842009-F-bnqq1W4AEI2Wk.png" draggable="false">
+  <img src="/images/blog/securite-crush/1722319021842842009-F-bnqq1W4AEI2Wk.png" draggable="false">
   </div>
 </div>
 
@@ -151,7 +151,7 @@ Je pense qu'on pourrait facilement creuser d'autres pistes pour trouver d'autres
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/securite-crush/1722319024644595714-F-bn7cCXUAAekiy.png" draggable="false">
+  <img src="/images/blog/securite-crush/1722319024644595714-F-bn7cCXUAAekiy.png" draggable="false">
   </div>
 </div>
 
