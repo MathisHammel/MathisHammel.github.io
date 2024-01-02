@@ -212,7 +212,7 @@ Et une petite preuve que ma reconstitution fonctionne, parmi nos deux choix poss
   </div>
 </div>
 
-Tout ce thread était une grosse excuse pour apprendre comment fonctionne 2D-DOC et son support Datamatrix. J'espère quand même que vous retiendrez et partagerez que même flouté/gribouillé, il est dangereux de partager son pass sanitaire !
+Tout ce post était une grosse excuse pour apprendre comment fonctionne 2D-DOC et son support Datamatrix. J'espère quand même que vous retiendrez et partagerez que même flouté/gribouillé, il est dangereux de partager son pass sanitaire !
 
 (Enfin bon, je pense que les gens qui lisent jusqu'au bout un article sur les spécifications de Datamatrix et les gens qui postent leur QR sur internet sont deux populations strictement distinctes, bravo à vous qui lisez ceci)
 

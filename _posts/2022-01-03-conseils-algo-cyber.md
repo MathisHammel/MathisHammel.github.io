@@ -8,7 +8,7 @@ tags:   [Algo, Cybersécurité, Compétitions]
 
 Et si votre bonne résolution pour 2022 c'était de vous mettre à l'**algorithmique** ou la **cybersécurité** ?
 
-Dans ce thread, je vous livre les secrets qui m'ont permis de rejoindre tout en m'amusant le top 10 compétitif en France sur ces deux disciplines. (et un job chez Google !) 
+Dans cet article, je vous livre les secrets qui m'ont permis de rejoindre tout en m'amusant le top 10 compétitif en France sur ces deux disciplines. (et un job chez Google !) 
 
 <div class="gallery-box">
   <div class="gallery">
@@ -221,7 +221,7 @@ Et si vous préparez des entretiens pour un poste de dev (notamment chez les GAF
   </div>
 </div>
 
-Passons maintenant à la deuxième partie de ce thread, on va parler challenges de hacking ! On appelle ça un **Capture The Flag**, elles sont souvent organisées par des associations ou en parallèle de conférences de sécurité informatique. 
+Passons maintenant à la deuxième partie de ce post, on va parler challenges de hacking ! On appelle ça un **Capture The Flag**, elles sont souvent organisées par des associations ou en parallèle de conférences de sécurité informatique. 
 
 Ici, pas question de pirater des sites ou des comptes réels : on a entre 10 et 50 services volontairement vulnérables dans un environnement **fictif** (mais réaliste) créé par les organisateurs. Si on arrive à trouver et exploiter la faille, on marque des points ! 
 

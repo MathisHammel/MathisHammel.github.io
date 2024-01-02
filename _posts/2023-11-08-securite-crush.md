@@ -159,6 +159,6 @@ En conclusion : les données privées de vos enfants sont récupérées par un g
 
 C'est le moment de faire un peu de ménage sur les téléphones :)
 
-Si vous appréciez mes threads, n'hésitez pas à me suivre sur Twitter ou BlueSky !
+Si vous appréciez mes articles, n'hésitez pas à me suivre sur Twitter, Threads ou BlueSky !
 
 Pour lire une autre de mes enquêtes, je vous invite à découvrir [comment j'ai découvert un réseau d'entreprises fictives sur LinkedIn](/blog/reseau-entreprises-fictives).

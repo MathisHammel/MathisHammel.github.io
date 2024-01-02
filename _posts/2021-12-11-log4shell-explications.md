@@ -56,7 +56,7 @@ Heureusement, il est facile de se protéger, je vous fais une petite liste.
 - Utilisez les versions de JRE supérieures à 6u211, 7u201, 8u191, et 11.0.1 (qui désactivent la politique par défaut à l'origine du bug)
 - Filtrez et surveillez les flux sortants de vos serveurs
 
-Pour la prochaine fois, si vous voulez découvrir les vulnérabilités en direct histoire de pouvoir les corriger rapidement (et pas le lendemain via un de mes threads lol), je vous invite à suivre <a href="https://twitter.com/ANSSI_FR" target="_blank">@ANSSI_FR</a> et <a href="https://twitter.com/CERT_FR" target="_blank">@CERT_FR</a>.
+Pour la prochaine fois, si vous voulez découvrir les vulnérabilités en direct histoire de pouvoir les corriger rapidement (et pas le lendemain via un de mes posts lol), je vous invite à suivre <a href="https://twitter.com/ANSSI_FR" target="_blank">@ANSSI_FR</a> et <a href="https://twitter.com/CERT_FR" target="_blank">@CERT_FR</a>.
 
 Précision : utiliser une JRE à jour ne suffit pas pour être protégé, seulement contre la payload la plus courante. Merci <a href="https://twitter.com/gouttegd" target="_blank">@gouttegd</a> pour l'info ! 
 

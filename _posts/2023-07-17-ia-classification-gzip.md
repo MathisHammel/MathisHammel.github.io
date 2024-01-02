@@ -198,7 +198,7 @@ Et même si BERT semble tout de même plus efficace que notre technique magique 
 - Aucun pré-entraînement nécessaire
 - Une bonne performance dans toutes les langues
 
-Avant de terminer ce thread, je vous propose **deux petites curiosités de code** liées à ce papier.
+Avant de terminer cet article, je vous propose **deux petites curiosités de code** liées à ce papier.
 
 La première est une erreur algorithmique que j'ai trouvée dans le code publié : un calcul pourrait être optimisé, voyez-vous lequel ? (indice : c'est dans les 3 dernières lignes) 
 

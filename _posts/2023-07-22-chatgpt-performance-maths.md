@@ -74,7 +74,7 @@ Une belle leçon à tirer de cette histoire : **si vous lisez "selon une étude 
 
 Ici, il aurait fallu dire "étude sans validation par peer-review, co-écrite par un étudiant de Stanford". Pas ouf.
 
-J'espère que ce thread improvisé vous aidera à vous protéger contre les articles aux airs faussement scientifiques qui racontent n'importe quoi 😉
+J'espère que cet article improvisé vous aidera à vous protéger contre les articles aux airs faussement scientifiques qui racontent n'importe quoi 😉
 
 Et si l'IA vous intéresse, voici un autre [article de vulgarisation](/blog/fonctionnement-dall-e-2) sur le fonctionnement de DALL·E 2 qui pourrait vous plaire !
 

@@ -6,7 +6,7 @@ image:  '/images/blog/panne-facebook/header.png'
 tags:   [Divers]
 ---
 
-THREAD : Hier, une panne massive a affecté Facebook et plein de ses services (Instagram, WhatsApp, Messenger, ...)
+Hier, une panne massive a affecté Facebook et plein de ses services (Instagram, WhatsApp, Messenger, ...)
 
 Mais **il s'est passé quoi** au juste ?
 

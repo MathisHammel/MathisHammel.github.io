@@ -144,11 +144,11 @@ Pour conclure, les seuls nombres validés par notre expression régulière sont 
   </div>
 </div>
 
-J'espère que ce mini-thread improvisé vous a plu 😁
+J'espère que ce mini-article improvisé vous a plu 😁
 
 Quelques ressources complémentaires :
 - Si vous voulez expérimenter avec les regex, je recommande fortement le site Regexr‍.com : [https://regexr.com/7ft33](https://regexr.com/7ft33)
-- Et pour faire les jolis visuels de code dans mes threads, j'utilise [http://carbon.now.sh](http://carbon.now.sh) 😊
+- Et pour faire les jolis visuels de code dans mes posts, j'utilise [http://carbon.now.sh](http://carbon.now.sh) 😊
 - Une autre excellente recommandation pour apprendre les expressions régulières, c'est [http://RegexCrossword.com](http://RegexCrossword.com) ! 
 
 <div class="gallery-box">

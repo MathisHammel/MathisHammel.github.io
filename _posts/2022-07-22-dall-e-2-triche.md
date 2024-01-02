@@ -8,7 +8,7 @@ tags:   [IA]
 
 Cette semaine, la société **OpenAI** a déployé une mise à jour de son célèbre réseau de neurones **DALL·E** pour améliorer la diversité des images générées par celui-ci, mais... ils ont triché !
 
-Dans ce thread, on va parler des biais algorithmiques dans l'intelligence artificielle. 🧵 
+Dans cet article, on va parler des biais algorithmiques dans l'intelligence artificielle. 🧵 
 
 <div class="gallery-box">
   <div class="gallery">

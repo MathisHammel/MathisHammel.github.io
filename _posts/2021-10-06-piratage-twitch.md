@@ -113,7 +113,7 @@ Pour aller un cran plus loin, on peut utiliser des fonctions telles que bcrypt o
 
 Ok, on peut donc stocker les mots de passe de ses utilisateurs de manière sécurisée, et c'est probablement ce que fait Twitch.
 
-Mais alors pourquoi je vous ai dit en début de thread que ça posait un risque de changer son mdp sur Twitch ? 🤔
+Mais alors pourquoi je vous ai dit en début d'article que ça posait un risque de changer son mdp sur Twitch ? 🤔
 
 Utiliser un hachage fort protège effectivement si la base de données fuite.
 

@@ -33,7 +33,7 @@ Comme je le rappelais en réaction à un titre d'article un peu trop clickbait, 
   <a href="https://twitter.com/MathisHammel/status/1423573926240739329"></a>
 </blockquote>
 
-Le protocole est bien construit, il s'appuie sur trois composants principaux qui assurent une protection de la vie privée, malgré cette intrusion assez directe dans les données perso. J'ai cependant identifié quelques problèmes sur lesquels je reviendrai en fin de thread.
+Le protocole est bien construit, il s'appuie sur trois composants principaux qui assurent une protection de la vie privée, malgré cette intrusion assez directe dans les données perso. J'ai cependant identifié quelques problèmes sur lesquels je reviendrai en fin de cet article.
 
 N.B. : on ne se penchera pas sur le 2e mécanisme de protection de l'enfance annoncé par Apple, à savoir la détection de nudité dans les photos envoyées vers/depuis des appareils soumis au contrôle parental. Je n'ai pas la légitimité d'expert en vie privée pour cette analyse. 
 

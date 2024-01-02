@@ -12,7 +12,7 @@ On entend parler tous les jours de ces bases de données décentralisées qui so
 
 Les blockchains ont été inventées fin 2008 via le Bitcoin, dans un papier signé par "**Satoshi Nakamoto**". On ne sait rien de cette personne, qui est peut-être un collectif.
 
-Même s'il existe plein de types de blockchain, ce thread va se concentrer sur le fonctionnement de Bitcoin. 
+Même s'il existe plein de types de blockchain, cet article va se concentrer sur le fonctionnement de Bitcoin. 
 
 <div class="gallery-box">
   <div class="gallery">

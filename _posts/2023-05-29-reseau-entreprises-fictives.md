@@ -36,7 +36,7 @@ Et là, énorme surprise : parmi les 43 employés de l'entreprise, la quasi-tota
   </div>
 </div>
 
-Même si vous avez encore un doute, je vous donnerai une preuve irréfutable un peu plus bas dans ce thread.
+Même si vous avez encore un doute, je vous donnerai une preuve irréfutable un peu plus bas dans cet article.
 
 Mais pour le moment, regardez un peu ce beau trombinoscope : 
 

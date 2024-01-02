@@ -84,7 +84,7 @@ N'hésitez pas à partager cet article pour ruiner la semaine de vos amis RSSI e
 Merci à deux amis qui ont indirectement contribué :
 
 - <a href="https://twitter.com/GuillaumeAssier" target="_blank">@GuillaumeAssier</a> qui a tweeté sur le sujet et m'a fait découvrir cette actu
-- <a href="https://twitter.com/louanben" target="_blank">@louanben</a>, le créateur d'@EmojiMashupBot que j'ai utilisé pour l'illustration du thread
+- <a href="https://twitter.com/louanben" target="_blank">@louanben</a>, le créateur d'@EmojiMashupBot que j'ai utilisé pour l'illustration de l'article
 
 Allez follow sans hésiter !
 

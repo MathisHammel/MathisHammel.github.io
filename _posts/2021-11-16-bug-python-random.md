@@ -170,4 +170,4 @@ En effet, le module random de Python doit respecter la **reproductibilité** : p
 
 Pour conclure, ce bug assez spécifique ne permet pas de justifier un tel changement, et le bug devra donc rester éternellement dans Python. Mais ça n'a pas été peine perdue, le bug que j'ai ouvert a engendré un refactoring et un nouveau fonctionnement interne à getrandbits :)
 
-Voilà, j'espère que ce thread vous a plu et que vous saurez briller en société avec vos nouvelles connaissances sur les tirages par sélection/rejet et sur les internals de Python ;)
+Voilà, j'espère que cet article vous a plu et que vous saurez briller en société avec vos nouvelles connaissances sur les tirages par sélection/rejet et sur les internals de Python ;)
