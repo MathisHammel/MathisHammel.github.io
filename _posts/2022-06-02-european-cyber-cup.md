@@ -12,7 +12,7 @@ Dans cet article, on va parler de quelques outils fondamentaux d'IA, puis je vou
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/european-cyber-cup/1532248695865057284-FUOS64RWUAAeeSc.jpg" draggable="false">
+  <img src="/images/blog/european-cyber-cup/1532248695865057284-FUOS64RWUAAeeSc.jpg" draggable="false">
   </div>
 </div>
 
@@ -20,7 +20,7 @@ Tout d'abord, le principe du challenge : à partir d'un **très grand volume de 
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/european-cyber-cup/1532248699736363008-FUOUXJ-XsAAptYs.png" draggable="false">
+  <img src="/images/blog/european-cyber-cup/1532248699736363008-FUOUXJ-XsAAptYs.png" draggable="false">
   </div>
 </div>
 
@@ -30,7 +30,7 @@ Ce genre d'application de l'IA à la cybersécurité est hyper intéressant dans
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/european-cyber-cup/1532248703960072192-FUOU0d-WIAAgJsD.png" draggable="false">
+  <img src="/images/blog/european-cyber-cup/1532248703960072192-FUOU0d-WIAAgJsD.png" draggable="false">
   </div>
 </div>
 
@@ -51,7 +51,7 @@ Lorsque le machine learning est dit "supervisé", c'est quand on dispose de plei
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/european-cyber-cup/1532248710045900803-FUOV_gDXsAEXDHV.png" draggable="false">
+  <img src="/images/blog/european-cyber-cup/1532248710045900803-FUOV_gDXsAEXDHV.png" draggable="false">
   </div>
 </div>
 
@@ -61,7 +61,7 @@ En fait, on a un exemple très simple parmi tant d'autres : le **clustering**.
 
 <div class="gallery-box">
   <div class="gallery">
-<video style="height:350px; object-fit:cover" autoplay loop>  <source src="/images/blog/european-cyber-cup/1532248717457334272-FUOkFb6X0AQshN_.mp4" type="video/mp4"></video>  </div>
+<video autoplay loop>  <source src="/images/blog/european-cyber-cup/1532248717457334272-FUOkFb6X0AQshN_.mp4" type="video/mp4"></video>  </div>
 </div>
 
 Sur l'épreuve d'IA de l'EC2, chaque utilisateur était étiqueté (inoffensif ou malveillant), ce qui nous permettait donc un apprentissage supervisé.
@@ -70,7 +70,7 @@ Le roi de cette discipline, vous le connaissez sûrement, c'est le **réseau de 
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/european-cyber-cup/1532248722012360704-FUOWrZTXwAAJsGS.jpg" draggable="false">
+  <img src="/images/blog/european-cyber-cup/1532248722012360704-FUOWrZTXwAAJsGS.jpg" draggable="false">
   </div>
 </div>
 
@@ -78,7 +78,7 @@ Un réseau de neurones, c'est quoi ? Perso j'ai longtemps cru que c'était une p
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/european-cyber-cup/1532248725493628930-FUOYQJHWAAA0RGl.jpg" draggable="false">
+  <img src="/images/blog/european-cyber-cup/1532248725493628930-FUOYQJHWAAA0RGl.jpg" draggable="false">
   </div>
 </div>
 
@@ -88,7 +88,7 @@ Je ne vais pas entrer dans plus de détails, mais si ça vous intéresse d'en ap
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/european-cyber-cup/1532248730337959937-FUOYhpfX0AAHEdT.jpg" draggable="false">
+  <img src="/images/blog/european-cyber-cup/1532248730337959937-FUOYhpfX0AAHEdT.jpg" draggable="false">
   </div>
 </div>
 
@@ -100,7 +100,7 @@ Voici par exemple un arbre de décision qui détermine à quel âge vous avez le
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/european-cyber-cup/1532248735668809729-FUOYzuGXwAI_dup.jpg" draggable="false">
+  <img src="/images/blog/european-cyber-cup/1532248735668809729-FUOYzuGXwAI_dup.jpg" draggable="false">
   </div>
 </div>
 
@@ -112,7 +112,7 @@ Les arbres de décision sont super faciles à implémenter sous forme de program
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/european-cyber-cup/1532248741008351232-FUOZB9rWUAA9reZ.jpg" draggable="false">
+  <img src="/images/blog/european-cyber-cup/1532248741008351232-FUOZB9rWUAA9reZ.jpg" draggable="false">
   </div>
 </div>
 
@@ -134,7 +134,7 @@ On appelle ça du "**feature engineering**".
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/european-cyber-cup/1532248746993541122-FUOdrCcXsAEcRDG.jpg" draggable="false">
+  <img src="/images/blog/european-cyber-cup/1532248746993541122-FUOdrCcXsAEcRDG.jpg" draggable="false">
   </div>
 </div>
 
@@ -146,7 +146,7 @@ Ce processus d'apprentissage est assez compliqué et pourrait faire l'objet d'un
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/european-cyber-cup/1532248751938621441-FUOeqGiWQAEhAhj.png" draggable="false">
+  <img src="/images/blog/european-cyber-cup/1532248751938621441-FUOeqGiWQAEhAhj.png" draggable="false">
   </div>
 </div>
 
@@ -158,7 +158,7 @@ Pour l'apprentissage, toujours en Python, j'utilise le package **Scikit-learn** 
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/european-cyber-cup/1532248756393062400-FUOgNkvWQAA06TB.jpg" draggable="false">
+  <img src="/images/blog/european-cyber-cup/1532248756393062400-FUOgNkvWQAA06TB.jpg" draggable="false">
   </div>
 </div>
 
@@ -172,7 +172,7 @@ Pour un même ensemble de données, on aura **plein de configurations** possible
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/european-cyber-cup/1532248761132621824-FUOhUc4XEAIr-i7.jpg" draggable="false">
+  <img src="/images/blog/european-cyber-cup/1532248761132621824-FUOhUc4XEAIr-i7.jpg" draggable="false">
   </div>
 </div>
 
@@ -182,7 +182,7 @@ Ce grand nombre de configurations possibles est en réalité une force : en pren
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/european-cyber-cup/1532249602103058432-FUOkQ9rWIAAeo5d.jpg" draggable="false">
+  <img src="/images/blog/european-cyber-cup/1532249602103058432-FUOkQ9rWIAAeo5d.jpg" draggable="false">
   </div>
 </div>
 
@@ -190,7 +190,7 @@ Ce type de classificateur s'appelle une **random forest**, et on peut le mettre 
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/european-cyber-cup/1532249605416570880-FUOkiySWIAIuQ5p.jpg" draggable="false">
+  <img src="/images/blog/european-cyber-cup/1532249605416570880-FUOkiySWIAIuQ5p.jpg" draggable="false">
   </div>
 </div>
 
@@ -202,7 +202,7 @@ Le sujet de cette première édition était vraiment cool, avec une thématique 
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/european-cyber-cup/1532249613536833536-FUOkqSBWYAAuJyz.jpg" draggable="false">
-  <img style="height:350px; object-fit:cover" src="/images/blog/european-cyber-cup/1532249613536833536-FUOkq4NWAAErvJz.jpg" draggable="false">
+  <img src="/images/blog/european-cyber-cup/1532249613536833536-FUOkqSBWYAAuJyz.jpg" draggable="false">
+  <img src="/images/blog/european-cyber-cup/1532249613536833536-FUOkq4NWAAErvJz.jpg" draggable="false">
   </div>
 </div>

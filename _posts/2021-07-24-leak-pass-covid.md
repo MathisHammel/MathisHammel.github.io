@@ -12,8 +12,8 @@ Je vous propose un petit exemple avec cet article sur le site de France 3, on va
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/leak-pass-covid/1418846453590544396-E7Avnz1XoAUebrF.jpg" draggable="false">
-  <img style="height:350px; object-fit:cover" src="/images/blog/leak-pass-covid/1418846453590544396-E7BFPKIXsAUXS79.png" draggable="false">
+  <img src="/images/blog/leak-pass-covid/1418846453590544396-E7Avnz1XoAUebrF.jpg" draggable="false">
+  <img src="/images/blog/leak-pass-covid/1418846453590544396-E7BFPKIXsAUXS79.png" draggable="false">
   </div>
 </div>
 
@@ -21,7 +21,7 @@ Saluons avant de commencer le courage de <a href="https://twitter.com/Jefffrey68
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/leak-pass-covid/1418846458946674691-E7AqJ5-WYAMPqbH.png" draggable="false">
+  <img src="/images/blog/leak-pass-covid/1418846458946674691-E7AqJ5-WYAMPqbH.png" draggable="false">
   </div>
 </div>
 
@@ -35,7 +35,7 @@ On commence par l'emballage : un Datamatrix est forcément entouré d'une barre 
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/leak-pass-covid/1418846467586920449-E7BBgFWWQAYkJi9.png" draggable="false">
+  <img src="/images/blog/leak-pass-covid/1418846467586920449-E7BBgFWWQAYkJi9.png" draggable="false">
   </div>
 </div>
 
@@ -45,7 +45,7 @@ Ici, je mets un point rouge sur le bit de poids faible pour mettre en évidence 
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/leak-pass-covid/1418846469478567936-E7BCKJqXsAMNZrY.jpg" draggable="false">
+  <img src="/images/blog/leak-pass-covid/1418846469478567936-E7BCKJqXsAMNZrY.jpg" draggable="false">
   </div>
 </div>
 
@@ -53,7 +53,7 @@ Une fois ce découpage effectué, on peut commencer à décoder les **octets bru
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/leak-pass-covid/1418846473282899977-E7BDbA5WUAcTjQl.png" draggable="false">
+  <img src="/images/blog/leak-pass-covid/1418846473282899977-E7BDbA5WUAcTjQl.png" draggable="false">
   </div>
 </div>
 
@@ -61,7 +61,7 @@ Tous les octets sont décodés dans un ordre de zigzag bien déterminé :
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/leak-pass-covid/1418846476973887488-E7BD4tDXMAMCSlE.png" draggable="false">
+  <img src="/images/blog/leak-pass-covid/1418846476973887488-E7BD4tDXMAMCSlE.png" draggable="false">
   </div>
 </div>
 
@@ -69,7 +69,7 @@ Une fois que tous les octets lisibles sont transcrits, il faut procéder à une 
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/leak-pass-covid/1418846480966770691-E7BFodJXoAQCvxG.png" draggable="false">
+  <img src="/images/blog/leak-pass-covid/1418846480966770691-E7BFodJXoAQCvxG.png" draggable="false">
   </div>
 </div>
 
@@ -83,7 +83,7 @@ Il y a plusieurs éléments à prendre en compte. Déjà, les caractères sont d
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/leak-pass-covid/1418846487014936582-E7BHN6CWYAAk7xe.png" draggable="false">
+  <img src="/images/blog/leak-pass-covid/1418846487014936582-E7BHN6CWYAAk7xe.png" draggable="false">
   </div>
 </div>
 
@@ -95,7 +95,7 @@ En lisant la doc, on peut lire que les valeurs 130 à 229 encodent **toutes les 
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/leak-pass-covid/1418846492006158340-E7BINVvX0AETkcO.png" draggable="false">
+  <img src="/images/blog/leak-pass-covid/1418846492006158340-E7BINVvX0AETkcO.png" draggable="false">
   </div>
 </div>
 
@@ -103,8 +103,8 @@ Le décodage se poursuit sans encombre, on arrive à récupérer le début du ce
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/leak-pass-covid/1418846495701446660-E7BKBrsXIAAZeVK.png" draggable="false">
-  <img style="height:350px; object-fit:cover" src="/images/blog/leak-pass-covid/1418846495701446660-E7BKIlVXMAAm3SY.png" draggable="false">
+  <img src="/images/blog/leak-pass-covid/1418846495701446660-E7BKBrsXIAAZeVK.png" draggable="false">
+  <img src="/images/blog/leak-pass-covid/1418846495701446660-E7BKIlVXMAAm3SY.png" draggable="false">
   </div>
 </div>
 
@@ -116,7 +116,7 @@ Par exemple, la paire d'octets 22 EB se lit comme un nombre de 16 bits 0x22EB (=
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/leak-pass-covid/1418846501229445120-E7BK-kGWQAM47J_.png" draggable="false">
+  <img src="/images/blog/leak-pass-covid/1418846501229445120-E7BK-kGWQAM47J_.png" draggable="false">
   </div>
 </div>
 
@@ -132,7 +132,7 @@ Et une compression encore assez efficace car on encode 3 octets en seulement 16 
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/leak-pass-covid/1418846506229112835-E7BMbvuXMAIi3-f.jpg" draggable="false">
+  <img src="/images/blog/leak-pass-covid/1418846506229112835-E7BMbvuXMAIi3-f.jpg" draggable="false">
   </div>
 </div>
 
@@ -142,7 +142,7 @@ Comme les zones sont parcourues en diagonale, seuls 2 octets à la fois sont cor
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/leak-pass-covid/1418846510448615425-E7BSJsqXMAMhuO9.png" draggable="false">
+  <img src="/images/blog/leak-pass-covid/1418846510448615425-E7BSJsqXMAMhuO9.png" draggable="false">
   </div>
 </div>
 
@@ -158,7 +158,7 @@ Comme on est repassés en mode texte, cette zone encode une paire de chiffres.
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/leak-pass-covid/1418846515322306562-E7BUCfEWQAAB-i8.png" draggable="false">
+  <img src="/images/blog/leak-pass-covid/1418846515322306562-E7BUCfEWQAAB-i8.png" draggable="false">
   </div>
 </div>
 
@@ -178,7 +178,7 @@ Ce qui nous permet d'éliminer le 29 mars qui ne correspond pas aux bits visible
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/leak-pass-covid/1418846520456122375-E7BVAVWXMAAh4ke.png" draggable="false">
+  <img src="/images/blog/leak-pass-covid/1418846520456122375-E7BVAVWXMAAh4ke.png" draggable="false">
   </div>
 </div>
 
@@ -190,7 +190,7 @@ On est encore bien tombés, car les deux octets qui nous manquent sont pile sur 
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/leak-pass-covid/1418846525946535937-E7BZuuFXoAIGImb.png" draggable="false">
+  <img src="/images/blog/leak-pass-covid/1418846525946535937-E7BZuuFXoAIGImb.png" draggable="false">
   </div>
 </div>
 
@@ -208,7 +208,7 @@ Et une petite preuve que ma reconstitution fonctionne, parmi nos deux choix poss
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/leak-pass-covid/1418846707476045825-E7DBjgRXIAEZj_Q.jpg" draggable="false">
+  <img src="/images/blog/leak-pass-covid/1418846707476045825-E7DBjgRXIAEZj_Q.jpg" draggable="false">
   </div>
 </div>
 
@@ -220,7 +220,7 @@ Pour conclure, là je suis allé un peu loin à me croire comme McGee dans NCIS 
 
 <div class="gallery-box">
   <div class="gallery">
-<video style="height:350px; object-fit:cover" autoplay loop>  <source src="/images/blog/leak-pass-covid/1418847096032083974-E7DB6NoX0AcTkht.mp4" type="video/mp4"></video>  </div>
+<video autoplay loop>  <source src="/images/blog/leak-pass-covid/1418847096032083974-E7DB6NoX0AcTkht.mp4" type="video/mp4"></video>  </div>
 </div>
 
 Et pour celles et ceux qui se posent plein de questions pertinentes sur la sécurité des attestations vaccinales, j'ai essayé de vulgariser tout ça dans [un autre article](/blog/crypto-pass-covid), publié à l'instant.

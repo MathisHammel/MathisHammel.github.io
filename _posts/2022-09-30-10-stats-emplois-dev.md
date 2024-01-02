@@ -16,7 +16,7 @@ En Europe, c'est la Suisse et le Royaume-Uni qui dominent.
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/10-stats-emplois-dev/1575767032179691520-Fd44x__WIAAACVa.jpg" draggable="false">
+  <img src="/images/blog/10-stats-emplois-dev/1575767032179691520-Fd44x__WIAAACVa.jpg" draggable="false">
   </div>
 </div>
 
@@ -28,7 +28,7 @@ En 23e et dernière place du classement, on retrouve l'Edge Computing avec 3% �
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/10-stats-emplois-dev/1575767189772111872-Fd443dZWIAEsdMe.png" draggable="false">
+  <img src="/images/blog/10-stats-emplois-dev/1575767189772111872-Fd443dZWIAEsdMe.png" draggable="false">
   </div>
 </div>
 
@@ -40,7 +40,7 @@ En dernière place on trouve le quantique avec 3%, pourcentage qui reste très p
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/10-stats-emplois-dev/1575767315039531008-Fd449jGXwAApf7h.png" draggable="false">
+  <img src="/images/blog/10-stats-emplois-dev/1575767315039531008-Fd449jGXwAApf7h.png" draggable="false">
   </div>
 </div>
 
@@ -50,7 +50,7 @@ Le nombre d'entreprises qui recrutent régulièrement des devs avec un parcours 
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/10-stats-emplois-dev/1575767336984137728-Fd45L0jWYAMmcYs.jpg" draggable="false">
+  <img src="/images/blog/10-stats-emplois-dev/1575767336984137728-Fd45L0jWYAMmcYs.jpg" draggable="false">
   </div>
 </div>
 
@@ -62,7 +62,7 @@ Et je fais partie de ce groupe 😁 Mon premier prof c'était <a href="https://t
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/10-stats-emplois-dev/1575767421830705154-Fd45jeJXoAEnXkf.png" draggable="false">
+  <img src="/images/blog/10-stats-emplois-dev/1575767421830705154-Fd45jeJXoAEnXkf.png" draggable="false">
   </div>
 </div>
 
@@ -72,7 +72,7 @@ Cette statistique assez douloureuse nous met devant les énormes défis d'inclus
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/10-stats-emplois-dev/1575767431402098688-Fd45slnWQAE9HpH.jpg" draggable="false">
+  <img src="/images/blog/10-stats-emplois-dev/1575767431402098688-Fd45slnWQAE9HpH.jpg" draggable="false">
   </div>
 </div>
 
@@ -84,7 +84,7 @@ Python, Go et Kotlin sont les progressions les plus fortes du classement.
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/10-stats-emplois-dev/1575767440197181441-Fd46CCdX0AIlpY2.jpg" draggable="false">
+  <img src="/images/blog/10-stats-emplois-dev/1575767440197181441-Fd46CCdX0AIlpY2.jpg" draggable="false">
   </div>
 </div>
 
@@ -94,7 +94,7 @@ Python, Go et Kotlin sont les progressions les plus fortes du classement.
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/10-stats-emplois-dev/1575767456127234049-Fd46IPKXgAA8-mY.jpg" draggable="false">
+  <img src="/images/blog/10-stats-emplois-dev/1575767456127234049-Fd46IPKXgAA8-mY.jpg" draggable="false">
   </div>
 </div>
 
@@ -106,7 +106,7 @@ L'équilibre vie pro/perso est mis en première priorité par 18% des devs, cont
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/10-stats-emplois-dev/1575767464574869504-Fd46L12WIAEmmcn.png" draggable="false">
+  <img src="/images/blog/10-stats-emplois-dev/1575767464574869504-Fd46L12WIAEmmcn.png" draggable="false">
   </div>
 </div>
 
@@ -116,7 +116,7 @@ La tech est l'un des domaines dans lequel les employés changent de boulot le pl
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/10-stats-emplois-dev/1575767471532912642-Fd46hZOXEAA9ZVD.png" draggable="false">
+  <img src="/images/blog/10-stats-emplois-dev/1575767471532912642-Fd46hZOXEAA9ZVD.png" draggable="false">
   </div>
 </div>
 
@@ -126,7 +126,7 @@ Prenons les USA par exemple. Certes, on y gagne deux fois plus qu'ici, mais on y
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/10-stats-emplois-dev/1575773043149795329-Fd5FOlRWYAA0UBq.jpg" draggable="false">
+  <img src="/images/blog/10-stats-emplois-dev/1575773043149795329-Fd5FOlRWYAA0UBq.jpg" draggable="false">
   </div>
 </div>
 

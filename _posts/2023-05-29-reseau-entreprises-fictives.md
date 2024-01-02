@@ -12,7 +12,7 @@ La semaine dernière, j'ai reçu une invitation LinkedIn de ce profil qui m'a to
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/reseau-entreprises-fictives/1663194877671120896-FxTMpmTWAAAwi_G.jpg" draggable="false">
+  <img src="/images/blog/reseau-entreprises-fictives/1663194877671120896-FxTMpmTWAAAwi_G.jpg" draggable="false">
   </div>
 </div>
 
@@ -22,7 +22,7 @@ L'indicateur le plus évident, c'est la position des yeux : certaines IA vont to
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/reseau-entreprises-fictives/1663194881290911751-FxTZt0eWIAEBwRM.jpg" draggable="false">
+  <img src="/images/blog/reseau-entreprises-fictives/1663194881290911751-FxTZt0eWIAEBwRM.jpg" draggable="false">
   </div>
 </div>
 
@@ -32,7 +32,7 @@ Et là, énorme surprise : parmi les 43 employés de l'entreprise, la quasi-tota
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/reseau-entreprises-fictives/1663194884671524866-FxTM-3eWAAEgUXn.jpg" draggable="false">
+  <img src="/images/blog/reseau-entreprises-fictives/1663194884671524866-FxTM-3eWAAEgUXn.jpg" draggable="false">
   </div>
 </div>
 
@@ -42,7 +42,7 @@ Mais pour le moment, regardez un peu ce beau trombinoscope :
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/reseau-entreprises-fictives/1663194888026857473-FxTNcEYWYAALpXt.jpg" draggable="false">
+  <img src="/images/blog/reseau-entreprises-fictives/1663194888026857473-FxTNcEYWYAALpXt.jpg" draggable="false">
   </div>
 </div>
 
@@ -52,7 +52,7 @@ Il suffit d'aller voir son site internet pour s'en rendre compte : aucun lien ne
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/reseau-entreprises-fictives/1663194893538263045-FxTNjzgXsAIihGW.png" draggable="false">
+  <img src="/images/blog/reseau-entreprises-fictives/1663194893538263045-FxTNjzgXsAIihGW.png" draggable="false">
   </div>
 </div>
 
@@ -60,7 +60,7 @@ Dans les (faux) articles de la page d'accueil, on voit d'ailleurs qu'ils ont pub
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/reseau-entreprises-fictives/1663194897455644672-FxTNy-7XgAEdQKY.jpg" draggable="false">
+  <img src="/images/blog/reseau-entreprises-fictives/1663194897455644672-FxTNy-7XgAEdQKY.jpg" draggable="false">
   </div>
 </div>
 
@@ -75,7 +75,7 @@ Mais il existe une magouille permettant de récupérer l'identifiant d'un compte
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/reseau-entreprises-fictives/1663194903151558665-FxTOR3IWcAUlqNk.jpg" draggable="false">
+  <img src="/images/blog/reseau-entreprises-fictives/1663194903151558665-FxTOR3IWcAUlqNk.jpg" draggable="false">
   </div>
 </div>
 
@@ -85,7 +85,7 @@ Pour éviter de faire ce scraping manuellement sur tous les comptes, on peut aut
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/reseau-entreprises-fictives/1663194907123523586-FxTOZm2X0AM2Uj_.jpg" draggable="false">
+  <img src="/images/blog/reseau-entreprises-fictives/1663194907123523586-FxTOZm2X0AM2Uj_.jpg" draggable="false">
   </div>
 </div>
 
@@ -93,7 +93,7 @@ Les résultats sont sans appel : la plupart des profils ont été créés récem
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/reseau-entreprises-fictives/1663194912140013570-FxTPtHQXgAIy60E.jpg" draggable="false">
+  <img src="/images/blog/reseau-entreprises-fictives/1663194912140013570-FxTPtHQXgAIy60E.jpg" draggable="false">
   </div>
 </div>
 
@@ -103,7 +103,7 @@ En demandant à des personnes qui ont créé leur compte récemment, j'ai aussi 
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/reseau-entreprises-fictives/1663194916501987329-FxTRAZkWwAEg3D7.jpg" draggable="false">
+  <img src="/images/blog/reseau-entreprises-fictives/1663194916501987329-FxTRAZkWwAEg3D7.jpg" draggable="false">
   </div>
 </div>
 
@@ -117,7 +117,7 @@ StyleGAN2 a été rendu célèbre grâce au site **ThisPersonDoesNotExist** qui 
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/reseau-entreprises-fictives/1663194923217084417-FxTRY4OXoAsIn-y.jpg" draggable="false">
+  <img src="/images/blog/reseau-entreprises-fictives/1663194923217084417-FxTRY4OXoAsIn-y.jpg" draggable="false">
   </div>
 </div>
 
@@ -133,8 +133,8 @@ Les photos originales sont croppées pour ne garder que le visage.
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/reseau-entreprises-fictives/1663194934843719685-FxTXqwlWcAAo7bp.jpg" draggable="false">
-  <img style="height:350px; object-fit:cover" src="/images/blog/reseau-entreprises-fictives/1663194934843719685-FxTXyCgWIAAGAVk.jpg" draggable="false">
+  <img src="/images/blog/reseau-entreprises-fictives/1663194934843719685-FxTXqwlWcAAo7bp.jpg" draggable="false">
+  <img src="/images/blog/reseau-entreprises-fictives/1663194934843719685-FxTXyCgWIAAGAVk.jpg" draggable="false">
   </div>
 </div>
 
@@ -144,7 +144,7 @@ Voici quelques images du dataset d'entraînement :
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/reseau-entreprises-fictives/1663194939512041477-FxTXTtjWAAImqan.jpg" draggable="false">
+  <img src="/images/blog/reseau-entreprises-fictives/1663194939512041477-FxTXTtjWAAImqan.jpg" draggable="false">
   </div>
 </div>
 
@@ -162,7 +162,7 @@ Parmi les employés de Digitize, on trouve un certain Alan Harris.
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/reseau-entreprises-fictives/1663194949553119232-FxTYHFlXsAAnPRm.png" draggable="false">
+  <img src="/images/blog/reseau-entreprises-fictives/1663194949553119232-FxTYHFlXsAAnPRm.png" draggable="false">
   </div>
 </div>
 
@@ -207,7 +207,7 @@ C'est un grand classique des attaques sur les réseaux sociaux. On se souviendra
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/reseau-entreprises-fictives/1663196024016457729-FxTbYI1XoAA6ekX.png" draggable="false">
+  <img src="/images/blog/reseau-entreprises-fictives/1663196024016457729-FxTbYI1XoAA6ekX.png" draggable="false">
   </div>
 </div>
 
@@ -223,7 +223,7 @@ Par exemple, en mars 2023, Google a révélé qu'un service de renseignement nor
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/reseau-entreprises-fictives/1663196029611659266-FxTblrIWIAEejbs.png" draggable="false">
+  <img src="/images/blog/reseau-entreprises-fictives/1663196029611659266-FxTblrIWIAEejbs.png" draggable="false">
   </div>
 </div>
 

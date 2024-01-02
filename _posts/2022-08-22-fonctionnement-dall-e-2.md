@@ -10,7 +10,7 @@ Aujourd'hui, je vais vous fais découvrir en 6 minutes le fonctionnement de DALL
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/fonctionnement-dall-e-2/1561628989453733889-FawB8aRWYAEeJUj.jpg" draggable="false">
+  <img src="/images/blog/fonctionnement-dall-e-2/1561628989453733889-FawB8aRWYAEeJUj.jpg" draggable="false">
   </div>
 </div>
 
@@ -18,7 +18,7 @@ Les réseaux de neurones peuvent paraître super mystiques avec un nom qui fait 
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/fonctionnement-dall-e-2/1561628993853571072-FawCTGRWYAAaI_z.jpg" draggable="false">
+  <img src="/images/blog/fonctionnement-dall-e-2/1561628993853571072-FawCTGRWYAAaI_z.jpg" draggable="false">
   </div>
 </div>
 
@@ -26,7 +26,7 @@ L'entraînement typique d'un réseau de neurones se fait en lui montrant énorm�
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/fonctionnement-dall-e-2/1561628998752411648-FawCWYVWIAAjhd1.jpg" draggable="false">
+  <img src="/images/blog/fonctionnement-dall-e-2/1561628998752411648-FawCWYVWIAAjhd1.jpg" draggable="false">
   </div>
 </div>
 
@@ -38,7 +38,7 @@ D'habitude, pour apprendre une tâche spécifique, le réseau de neurones a beso
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/fonctionnement-dall-e-2/1561629005626966019-FawCgOGX0AIYgmG.jpg" draggable="false">
+  <img src="/images/blog/fonctionnement-dall-e-2/1561629005626966019-FawCgOGX0AIYgmG.jpg" draggable="false">
   </div>
 </div>
 
@@ -50,7 +50,7 @@ Les modèles zero-shot sont ultra puissants : par exemple, là où un modèle cl
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/fonctionnement-dall-e-2/1561629012266557440-FawCsXPXoAIZdWT.jpg" draggable="false">
+  <img src="/images/blog/fonctionnement-dall-e-2/1561629012266557440-FawCsXPXoAIZdWT.jpg" draggable="false">
   </div>
 </div>
 
@@ -64,7 +64,7 @@ Ce hash est appelé "**embedding**", c'est un tableau de nombres.
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/fonctionnement-dall-e-2/1561629018692222976-FawC0yjWAAEJ0Yw.jpg" draggable="false">
+  <img src="/images/blog/fonctionnement-dall-e-2/1561629018692222976-FawC0yjWAAEJ0Yw.jpg" draggable="false">
   </div>
 </div>
 
@@ -79,7 +79,7 @@ Pour être utiles, il faut donc que les deux réseaux de neurones respectent des
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/fonctionnement-dall-e-2/1561629025856110593-FawC_umXgAAx2YP.jpg" draggable="false">
+  <img src="/images/blog/fonctionnement-dall-e-2/1561629025856110593-FawC_umXgAAx2YP.jpg" draggable="false">
   </div>
 </div>
 
@@ -95,7 +95,7 @@ En les comparant deux à deux, on obtient plus d'un milliard de paires d'entraî
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/fonctionnement-dall-e-2/1561629034651549696-FawDON-WYAAPUNR.jpg" draggable="false">
+  <img src="/images/blog/fonctionnement-dall-e-2/1561629034651549696-FawDON-WYAAPUNR.jpg" draggable="false">
   </div>
 </div>
 
@@ -109,7 +109,7 @@ Ensuite, on calcule **tous les embeddings des textes correspondant aux classes p
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/fonctionnement-dall-e-2/1561629041358159876-FawDUbwXgAAD_zn.jpg" draggable="false">
+  <img src="/images/blog/fonctionnement-dall-e-2/1561629041358159876-FawDUbwXgAAD_zn.jpg" draggable="false">
   </div>
 </div>
 
@@ -123,7 +123,7 @@ Ce qui fait toute la puissance de DALL·E 2, c'est l'introduction d'un **troisi�
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/fonctionnement-dall-e-2/1561629050636058627-FawDgeiXEAAlNlF.jpg" draggable="false">
+  <img src="/images/blog/fonctionnement-dall-e-2/1561629050636058627-FawDgeiXEAAlNlF.jpg" draggable="false">
   </div>
 </div>
 
@@ -133,7 +133,7 @@ Alors bien évidemment, unCLIP ne reproduit pas un résultat parfait (sinon, on 
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/fonctionnement-dall-e-2/1561629058412208131-FawDyTSWYAAzj4g.jpg" draggable="false">
+  <img src="/images/blog/fonctionnement-dall-e-2/1561629058412208131-FawDyTSWYAAzj4g.jpg" draggable="false">
   </div>
 </div>
 
@@ -141,7 +141,7 @@ Mais comme la représentation des embeddings contient quand même de l'informati
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/fonctionnement-dall-e-2/1561629063927799808-FawEABsXEAA9erY.jpg" draggable="false">
+  <img src="/images/blog/fonctionnement-dall-e-2/1561629063927799808-FawEABsXEAA9erY.jpg" draggable="false">
   </div>
 </div>
 
@@ -151,7 +151,7 @@ Et si on répète le processus en boucle, on peut créer de magnifiques animatio
 
 <div class="gallery-box">
   <div class="gallery">
-<video style="height:350px; object-fit:cover" controls>  <source src="/images/blog/fonctionnement-dall-e-2/1561629741651730432-Kn_22WEPat1RuiEg.mp4" type="video/mp4"></video>  </div>
+<video controls>  <source src="/images/blog/fonctionnement-dall-e-2/1561629741651730432-Kn_22WEPat1RuiEg.mp4" type="video/mp4"></video>  </div>
 </div>
 
 On peut aussi s'en servir pour **mélanger deux images** qui n'ont rien à voir !
@@ -160,7 +160,7 @@ Est-ce que vous vous êtes déjà demandés à quoi pouvait ressembler une image
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/fonctionnement-dall-e-2/1561629747725144065-FawEaXiX0AEsRCN.jpg" draggable="false">
+  <img src="/images/blog/fonctionnement-dall-e-2/1561629747725144065-FawEaXiX0AEsRCN.jpg" draggable="false">
   </div>
 </div>
 
@@ -170,7 +170,7 @@ Pour ça, il suffit à DALL·E 2 d'encoder le texte fourni, puis de décoder l'e
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/fonctionnement-dall-e-2/1561629752443772930-FawE57KWAAEyaR1.jpg" draggable="false">
+  <img src="/images/blog/fonctionnement-dall-e-2/1561629752443772930-FawE57KWAAEyaR1.jpg" draggable="false">
   </div>
 </div>
 
@@ -182,7 +182,7 @@ Envoyez-moi vos meilleures créations 🙂
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/fonctionnement-dall-e-2/1561630271241428994-FawGLOAXoAAPfQO.jpg" draggable="false">
+  <img src="/images/blog/fonctionnement-dall-e-2/1561630271241428994-FawGLOAXoAAPfQO.jpg" draggable="false">
   </div>
 </div>
 

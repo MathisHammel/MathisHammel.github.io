@@ -16,7 +16,7 @@ Chaque mois j'organise une session de talks "Brown Bag Lunch" (BBL).
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/emailing-ab-testing/1530071557539876864-FTvggj6X0AAtUzC.jpg" draggable="false">
+  <img src="/images/blog/emailing-ab-testing/1530071557539876864-FTvggj6X0AAtUzC.jpg" draggable="false">
   </div>
 </div>
 
@@ -26,7 +26,7 @@ Notre CEO m'a donné carte blanche totale sur le contenu, donc je me suis fait p
 
 <div class="gallery-box">
   <div class="gallery">
-<video style="height:350px; object-fit:cover" controls>  <source src="/images/blog/emailing-ab-testing/1530071610312605699-jvDezxU8UdNbXjZf.mp4" type="video/mp4"></video>  </div>
+<video controls>  <source src="/images/blog/emailing-ab-testing/1530071610312605699-jvDezxU8UdNbXjZf.mp4" type="video/mp4"></video>  </div>
 </div>
 
 Comme ces BBLs plaisaient bien, on a décidé d'essayer de les ouvrir au public. Ça implique un nouveau format (distanciel, anglais, durée courte) mais la préoccupation principale restait surtout de faire venir du monde.
@@ -37,7 +37,7 @@ J'ai récupéré le compte de CodinGame sur Meetup‍.com, qui nous avait servi 
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/emailing-ab-testing/1530071618009157634-FTvhHCCXEAErlSc.png" draggable="false">
+  <img src="/images/blog/emailing-ab-testing/1530071618009157634-FTvhHCCXEAErlSc.png" draggable="false">
   </div>
 </div>
 
@@ -61,7 +61,7 @@ Comme le premier BBL avait une conférence sur la théorie des graphes, on a env
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/emailing-ab-testing/1530071628847136771-FTvj0cVWYAAxJ9l.png" draggable="false">
+  <img src="/images/blog/emailing-ab-testing/1530071628847136771-FTvj0cVWYAAxJ9l.png" draggable="false">
   </div>
 </div>
 
@@ -77,7 +77,7 @@ Avouez que ça donne envie de cliquer non ?
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/emailing-ab-testing/1530071635700621312-FTvkMT1WYAEGPtO.jpg" draggable="false">
+  <img src="/images/blog/emailing-ab-testing/1530071635700621312-FTvkMT1WYAEGPtO.jpg" draggable="false">
   </div>
 </div>
 
@@ -101,7 +101,7 @@ Or bien souvent, on va se retrouver avec des intervalles bien plus grands que ce
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/emailing-ab-testing/1530071646521917440-FTvkxjpX0AA-qLS.png" draggable="false">
+  <img src="/images/blog/emailing-ab-testing/1530071646521917440-FTvkxjpX0AA-qLS.png" draggable="false">
   </div>
 </div>
 
@@ -117,7 +117,7 @@ Un exemple assez connu est le bouton en page d'accueil de Netflix :
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/emailing-ab-testing/1530071656827338752-FTvlA6bXEAAm2en.jpg" draggable="false">
+  <img src="/images/blog/emailing-ab-testing/1530071656827338752-FTvlA6bXEAAm2en.jpg" draggable="false">
   </div>
 </div>
 
@@ -125,7 +125,7 @@ Dans notre petite expérience scientifique, on doit donc composer deux versions 
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/emailing-ab-testing/1530071659666890752-FTvl2-gWAAABi2x.jpg" draggable="false">
+  <img src="/images/blog/emailing-ab-testing/1530071659666890752-FTvl2-gWAAABi2x.jpg" draggable="false">
   </div>
 </div>
 
@@ -137,7 +137,7 @@ Je voulais aussi voir à quel point le ciblage des destinataires compte. Au proc
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/emailing-ab-testing/1530071663584415744-FTvmYwkWIAEoWuN.jpg" draggable="false">
+  <img src="/images/blog/emailing-ab-testing/1530071663584415744-FTvmYwkWIAEoWuN.jpg" draggable="false">
   </div>
 </div>
 
@@ -159,7 +159,7 @@ Les résultats sont sans appel : le fait de choisir correctement la cible market
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/emailing-ab-testing/1530073011503738881-FTvoZaEWIAA1CvN.jpg" draggable="false">
+  <img src="/images/blog/emailing-ab-testing/1530073011503738881-FTvoZaEWIAA1CvN.jpg" draggable="false">
   </div>
 </div>
 
@@ -179,8 +179,8 @@ Ni celle de l'un des 3 conférenciers qui présentera le BBL en question 😅
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/emailing-ab-testing/1530073020596899840-FTvou0kXwAEihkG.png" draggable="false">
-  <img style="height:350px; object-fit:cover" src="/images/blog/emailing-ab-testing/1530073020596899840-FTvozd0WQAUXShb.png" draggable="false">
+  <img src="/images/blog/emailing-ab-testing/1530073020596899840-FTvou0kXwAEihkG.png" draggable="false">
+  <img src="/images/blog/emailing-ab-testing/1530073020596899840-FTvozd0WQAUXShb.png" draggable="false">
   </div>
 </div>
 
@@ -188,7 +188,7 @@ Ici encore, le résultat est bluffant : en changeant une seule phrase dans tout 
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/emailing-ab-testing/1530073025428738048-FTvo6J0X0AAfLK2.jpg" draggable="false">
+  <img src="/images/blog/emailing-ab-testing/1530073025428738048-FTvo6J0X0AAfLK2.jpg" draggable="false">
   </div>
 </div>
 
@@ -196,7 +196,7 @@ Pour finir, on va se convaincre que c'est pas un coup de chance et que nos résu
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/emailing-ab-testing/1530073030294216704-FTvo-i9XwAAMjWX.jpg" draggable="false">
+  <img src="/images/blog/emailing-ab-testing/1530073030294216704-FTvo-i9XwAAMjWX.jpg" draggable="false">
   </div>
 </div>
 
@@ -212,7 +212,7 @@ Les intervalles ne se recouvrent pas, on a donc un résultat fort avec une p-val
 
 <div class="gallery-box">
   <div class="gallery">
-<video style="height:350px; object-fit:cover" autoplay loop>  <source src="/images/blog/emailing-ab-testing/1530073040436056064-FTvpUV5WQAAVldD.mp4" type="video/mp4"></video>  </div>
+<video autoplay loop>  <source src="/images/blog/emailing-ab-testing/1530073040436056064-FTvpUV5WQAAVldD.mp4" type="video/mp4"></video>  </div>
 </div>
 
 Pour conclure sur ces deux expériences scientifiques : en combinant une bonne formulation des contenus avec un targeting adapté, on a donc pu passer le taux de clics de 2.45% à 5.81%, soit une efficacité **augmentée de +137%** sans effort !

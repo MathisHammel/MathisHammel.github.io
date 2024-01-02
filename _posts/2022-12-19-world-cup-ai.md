@@ -24,7 +24,7 @@ Comme beaucoup s'en sont doutés, les prédictions de <a href="https://twitter.c
 
 <div class="gallery-box">
   <div class="gallery">
-<video style="height:350px; object-fit:cover" autoplay loop>  <source src="/images/blog/world-cup-ai/1604842496043143169-FkWLvV9WQAA_EUH.mp4" type="video/mp4"></video>  </div>
+<video autoplay loop>  <source src="/images/blog/world-cup-ai/1604842496043143169-FkWLvV9WQAA_EUH.mp4" type="video/mp4"></video>  </div>
 </div>
 
 En fait, c'est super facile de tweeter le résultat d'un match en avance : il suffit de poster **tous les résultats possibles** et de supprimer a posteriori ceux qui étaient faux !
@@ -33,7 +33,7 @@ La finale d'hier par exemple, c'est 300 images comme ça sur mon disque dur :
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/world-cup-ai/1604842503261196289-FkWBQ5wXkAIsFJ9.jpg" draggable="false">
+  <img src="/images/blog/world-cup-ai/1604842503261196289-FkWBQ5wXkAIsFJ9.jpg" draggable="false">
   </div>
 </div>
 
@@ -41,7 +41,7 @@ Ce projet avait pour objectif de sensibiliser à un nouveau type de fraudes, qui
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/world-cup-ai/1604842509624131590-FkWEKY9WAAEbwlf.png" draggable="false">
+  <img src="/images/blog/world-cup-ai/1604842509624131590-FkWEKY9WAAEbwlf.png" draggable="false">
   </div>
 </div>
 

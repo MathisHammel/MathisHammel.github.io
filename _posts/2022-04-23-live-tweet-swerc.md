@@ -14,7 +14,7 @@ Je vais essayer de vous expliquer le principe et vous tenir au courant des résu
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/live-tweet-swerc/1517764916618436610-FRAvJCaXIAIVBGC.jpg" draggable="false">
+  <img src="/images/blog/live-tweet-swerc/1517764916618436610-FRAvJCaXIAIVBGC.jpg" draggable="false">
   </div>
 </div>
 
@@ -22,7 +22,7 @@ La cérémonie d'ouverture commence par un mini concert, je prendrai le temps de
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/live-tweet-swerc/1517765906386112513-FRAwCzmX0AApPoZ.jpg" draggable="false">
+  <img src="/images/blog/live-tweet-swerc/1517765906386112513-FRAwCzmX0AApPoZ.jpg" draggable="false">
   </div>
 </div>
 
@@ -30,7 +30,7 @@ Près de 60.000 participants cette année au niveau mondial représentant 3406 u
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/live-tweet-swerc/1517766525750501378-FRAwmy2XoAA2HNy.jpg" draggable="false">
+  <img src="/images/blog/live-tweet-swerc/1517766525750501378-FRAwmy2XoAA2HNy.jpg" draggable="false">
   </div>
 </div>
 
@@ -38,7 +38,7 @@ Chaque université peut envoyer jusqu'à 3 équipes de 3 personnes, pour ma part
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/live-tweet-swerc/1517767077054062594-FRAxGy7XsAAjbcY.jpg" draggable="false">
+  <img src="/images/blog/live-tweet-swerc/1517767077054062594-FRAxGy7XsAAjbcY.jpg" draggable="false">
   </div>
 </div>
 
@@ -46,7 +46,7 @@ Un mot de bienvenue de Huawei, sponsor de l'événement représenté aujourd'hui
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/live-tweet-swerc/1517767568819372032-FRAxjlxXIAEPLFd.jpg" draggable="false">
+  <img src="/images/blog/live-tweet-swerc/1517767568819372032-FRAxjlxXIAEPLFd.jpg" draggable="false">
   </div>
 </div>
 
@@ -58,7 +58,7 @@ C'est la première fois qu'on a des animations comme ça sur scène, un changeme
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/live-tweet-swerc/1517770754024255488-FRA0c0ZWQAAT0Xt.jpg" draggable="false">
+  <img src="/images/blog/live-tweet-swerc/1517770754024255488-FRA0c0ZWQAAT0Xt.jpg" draggable="false">
   </div>
 </div>
 
@@ -66,7 +66,7 @@ Le challenge est en plein essor sur les 10 dernières années, cette année à M
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/live-tweet-swerc/1517772366813794305-FRA16tIXwAYochT.jpg" draggable="false">
+  <img src="/images/blog/live-tweet-swerc/1517772366813794305-FRA16tIXwAYochT.jpg" draggable="false">
   </div>
 </div>
 
@@ -78,7 +78,7 @@ C'est l'heure de prendre les photos des équipes, alors on essaie de s'appliquer
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/live-tweet-swerc/1517781187217047552-FRA98BfXIAI0mIo.jpg" draggable="false">
+  <img src="/images/blog/live-tweet-swerc/1517781187217047552-FRA98BfXIAI0mIo.jpg" draggable="false">
   </div>
 </div>
 
@@ -88,7 +88,7 @@ Comme je vous le disais, c'est un challenge réservé aux étudiants, mais bon c
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/live-tweet-swerc/1517786705184665601-FRBCiQXXIAIm7gH.jpg" draggable="false">
+  <img src="/images/blog/live-tweet-swerc/1517786705184665601-FRBCiQXXIAIm7gH.jpg" draggable="false">
   </div>
 </div>
 
@@ -98,8 +98,8 @@ Si ça vous intéresse de voir à quoi ressemblent les sujets, voici les énonc�
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/live-tweet-swerc/1517788408009080834-FRBDK2OXEAAXO7Q.jpg" draggable="false">
-  <img style="height:350px; object-fit:cover" src="/images/blog/live-tweet-swerc/1517788408009080834-FRBDi4WXsAATC_I.jpg" draggable="false">
+  <img src="/images/blog/live-tweet-swerc/1517788408009080834-FRBDK2OXEAAXO7Q.jpg" draggable="false">
+  <img src="/images/blog/live-tweet-swerc/1517788408009080834-FRBDi4WXsAATC_I.jpg" draggable="false">
   </div>
 </div>
 
@@ -109,7 +109,7 @@ Les 98 équipes présentes ce weekend à Milan participent au SWERC (Southwester
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/live-tweet-swerc/1517790084229218304-FRBF83QWQAEYlsI.png" draggable="false">
+  <img src="/images/blog/live-tweet-swerc/1517790084229218304-FRBF83QWQAEYlsI.png" draggable="false">
   </div>
 </div>
 
@@ -119,7 +119,7 @@ Pour la région SWERC, c'est 2 à 5 équipes qui auront leur place en finale cet
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/live-tweet-swerc/1517791730661306368-FRBHajCXsAA5iX2.jpg" draggable="false">
+  <img src="/images/blog/live-tweet-swerc/1517791730661306368-FRBHajCXsAA5iX2.jpg" draggable="false">
   </div>
 </div>
 
@@ -129,7 +129,7 @@ On classe d'abord les équipes par nombre décroissant d'exercices résolus, la 
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/live-tweet-swerc/1517795121122750464-FRBH7SDX0AA4C94.png" draggable="false">
+  <img src="/images/blog/live-tweet-swerc/1517795121122750464-FRBH7SDX0AA4C94.png" draggable="false">
   </div>
 </div>
 
@@ -141,7 +141,7 @@ Passons à un peu de stratégie. Comment on fait pour coder efficacement quand o
 
 <div class="gallery-box">
   <div class="gallery">
-<video style="height:350px; object-fit:cover" autoplay loop>  <source src="/images/blog/live-tweet-swerc/1517796727859916800-FRBMEwHWUAEXL_J.mp4" type="video/mp4"></video>  </div>
+<video autoplay loop>  <source src="/images/blog/live-tweet-swerc/1517796727859916800-FRBMEwHWUAEXL_J.mp4" type="video/mp4"></video>  </div>
 </div>
 
 Déjà, il faut savoir que la première heure est de loin la plus déterminante, surtout pour les équipes qui résolvent 5 exos ou moins (soit environ 80% des équipes). Le départ est crucial, et on se prépare spécifiquement pour ça.
@@ -150,7 +150,7 @@ Quand on arrive dans la salle du concours, les sujets sont posés sur chaque tab
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/live-tweet-swerc/1517798330474151938-FRBNYs2WUAEqRTz.jpg" draggable="false">
+  <img src="/images/blog/live-tweet-swerc/1517798330474151938-FRBNYs2WUAEqRTz.jpg" draggable="false">
   </div>
 </div>
 
@@ -176,7 +176,7 @@ Mais les équipes ont le droit à un joker :
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/live-tweet-swerc/1517805292548935685-FRBROwPXIAADAsI.jpg" draggable="false">
+  <img src="/images/blog/live-tweet-swerc/1517805292548935685-FRBROwPXIAADAsI.jpg" draggable="false">
   </div>
 </div>
 
@@ -207,8 +207,8 @@ Après on a quand même des trucs extraterrestres et/ou pas hyper utiles dans le
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/live-tweet-swerc/1517809113115369472-FRBWzWvWUAEfunC.png" draggable="false">
-  <img style="height:350px; object-fit:cover" src="/images/blog/live-tweet-swerc/1517809113115369472-FRBXGMdXMAAL3Ol.jpg" draggable="false">
+  <img src="/images/blog/live-tweet-swerc/1517809113115369472-FRBWzWvWUAEfunC.png" draggable="false">
+  <img src="/images/blog/live-tweet-swerc/1517809113115369472-FRBXGMdXMAAL3Ol.jpg" draggable="false">
   </div>
 </div>
 
@@ -216,7 +216,7 @@ On part déjeuner (ils nous ont mis groupe C 😭), rdv cet après-midi pour la 
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/live-tweet-swerc/1517824123342368769-FRBk_ovXsAEVMw9.jpg" draggable="false">
+  <img src="/images/blog/live-tweet-swerc/1517824123342368769-FRBk_ovXsAEVMw9.jpg" draggable="false">
   </div>
 </div>
 
@@ -226,7 +226,7 @@ Ensuite, les étudiants se dirigeront vers les labs informatiques de l'universit
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/live-tweet-swerc/1517850080962920452-FRB8mazWUAAPhpL.jpg" draggable="false">
+  <img src="/images/blog/live-tweet-swerc/1517850080962920452-FRB8mazWUAAPhpL.jpg" draggable="false">
   </div>
 </div>
 
@@ -240,7 +240,7 @@ Les participants ne sont plus obligés de passer par l'interface web Domjudge, i
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/live-tweet-swerc/1517851675700170752-FRB-C_jXoAAluCj.jpg" draggable="false">
+  <img src="/images/blog/live-tweet-swerc/1517851675700170752-FRB-C_jXoAAluCj.jpg" draggable="false">
   </div>
 </div>
 
@@ -250,7 +250,7 @@ Les jeux de tests ne sont pas fournis, donc c'est difficile de débugger et il f
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/live-tweet-swerc/1517852596299612162-FRB-44sXEAEw9YU.jpg" draggable="false">
+  <img src="/images/blog/live-tweet-swerc/1517852596299612162-FRB-44sXEAEw9YU.jpg" draggable="false">
   </div>
 </div>
 
@@ -258,8 +258,8 @@ La session d'entraînement devrait commencer d'une seconde à l'autre, petit sou
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/live-tweet-swerc/1517866990987354112-FRCL9lFXoAEDejb.jpg" draggable="false">
-  <img style="height:350px; object-fit:cover" src="/images/blog/live-tweet-swerc/1517866990987354112-FRCL-d6XMAAK71z.jpg" draggable="false">
+  <img src="/images/blog/live-tweet-swerc/1517866990987354112-FRCL9lFXoAEDejb.jpg" draggable="false">
+  <img src="/images/blog/live-tweet-swerc/1517866990987354112-FRCL-d6XMAAK71z.jpg" draggable="false">
   </div>
 </div>
 
@@ -267,7 +267,7 @@ C'est réparé, on va commencer !
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/live-tweet-swerc/1517867334232420354-FRCMSwMWUAAkYla.jpg" draggable="false">
+  <img src="/images/blog/live-tweet-swerc/1517867334232420354-FRCMSwMWUAAkYla.jpg" draggable="false">
   </div>
 </div>
 
@@ -277,7 +277,7 @@ Aujourd'hui les coachs ont la permission d'aller voir les équipes, donc je tât
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/live-tweet-swerc/1517882926624649216-FRCaeMRWQAQJuI4.jpg" draggable="false">
+  <img src="/images/blog/live-tweet-swerc/1517882926624649216-FRCaeMRWQAQJuI4.jpg" draggable="false">
   </div>
 </div>
 
@@ -285,8 +285,8 @@ Les deux premiers problèmes du concours d'entraînement sont triviaux, ils serv
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/live-tweet-swerc/1517883643070496768-FRCa-C_WYAQOOhM.jpg" draggable="false">
-  <img style="height:350px; object-fit:cover" src="/images/blog/live-tweet-swerc/1517883643070496768-FRCbHtdXsAEPVfm.jpg" draggable="false">
+  <img src="/images/blog/live-tweet-swerc/1517883643070496768-FRCa-C_WYAQOOhM.jpg" draggable="false">
+  <img src="/images/blog/live-tweet-swerc/1517883643070496768-FRCbHtdXsAEPVfm.jpg" draggable="false">
   </div>
 </div>
 
@@ -296,7 +296,7 @@ Les coachs ont une plateforme dédiée pour jouer le challenge entre eux, j'ai s
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/live-tweet-swerc/1517884474909941761-FRCboenWYAAbdWg.jpg" draggable="false">
+  <img src="/images/blog/live-tweet-swerc/1517884474909941761-FRCboenWYAAbdWg.jpg" draggable="false">
   </div>
 </div>
 
@@ -304,8 +304,8 @@ Le problème C est nettement plus intéressant. On doit choisir chaque jour si l
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/live-tweet-swerc/1517885542930780161-FRCceg0XEAAlPNu.png" draggable="false">
-  <img style="height:350px; object-fit:cover" src="/images/blog/live-tweet-swerc/1517885542930780161-FRCc1lRXwAAJeJl.png" draggable="false">
+  <img src="/images/blog/live-tweet-swerc/1517885542930780161-FRCceg0XEAAlPNu.png" draggable="false">
+  <img src="/images/blog/live-tweet-swerc/1517885542930780161-FRCc1lRXwAAJeJl.png" draggable="false">
   </div>
 </div>
 
@@ -317,7 +317,7 @@ Exo validé en 30 minutes tout pile.
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/live-tweet-swerc/1517886278955675648-FRCdFhCWQAMx2Ks.jpg" draggable="false">
+  <img src="/images/blog/live-tweet-swerc/1517886278955675648-FRCdFhCWQAMx2Ks.jpg" draggable="false">
   </div>
 </div>
 
@@ -327,7 +327,7 @@ Le problème D est un problème de théorie des graphes : combien de chemins dif
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/live-tweet-swerc/1517887842772566017-FRCeOhQXoAAUYRV.png" draggable="false">
+  <img src="/images/blog/live-tweet-swerc/1517887842772566017-FRCeOhQXoAAUYRV.png" draggable="false">
   </div>
 </div>
 
@@ -337,7 +337,7 @@ Aucune équipe ne l'a encore validé.
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/live-tweet-swerc/1517888615560396802-FRCfoXpXMAEJYar.png" draggable="false">
+  <img src="/images/blog/live-tweet-swerc/1517888615560396802-FRCfoXpXMAEJYar.png" draggable="false">
   </div>
 </div>
 
@@ -347,7 +347,7 @@ Pas réussi à valider le problème D, mais je suis quand même très content de
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/live-tweet-swerc/1517889510780121088-FRCf_R7XMAAYqXD.png" draggable="false">
+  <img src="/images/blog/live-tweet-swerc/1517889510780121088-FRCf_R7XMAAYqXD.png" draggable="false">
   </div>
 </div>
 
@@ -355,7 +355,7 @@ Pas réussi à valider le problème D, mais je suis quand même très content de
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/live-tweet-swerc/1517890611399077890-FRChIAnXwAUIXgZ.png" draggable="false">
+  <img src="/images/blog/live-tweet-swerc/1517890611399077890-FRChIAnXwAUIXgZ.png" draggable="false">
   </div>
 </div>
 
@@ -367,7 +367,7 @@ Bonne surprise ! On a finalement une équipe d'insaliens qui a validé le probl�
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/live-tweet-swerc/1517898206260207620-FRCoXq-XoAIKVU_.jpg" draggable="false">
+  <img src="/images/blog/live-tweet-swerc/1517898206260207620-FRCoXq-XoAIKVU_.jpg" draggable="false">
   </div>
 </div>
 
@@ -377,7 +377,7 @@ Tous les ans on prie pour que ce soit open bar, au détriment de nos performance
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/live-tweet-swerc/1517917462599196672-FRC54OhWUAAzABc.jpg" draggable="false">
+  <img src="/images/blog/live-tweet-swerc/1517917462599196672-FRC54OhWUAAzABc.jpg" draggable="false">
   </div>
 </div>
 
@@ -385,7 +385,7 @@ Tous les ans on prie pour que ce soit open bar, au détriment de nos performance
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/live-tweet-swerc/1517919787392942083-FRC7cPkX0AI-TS2.jpg" draggable="false">
+  <img src="/images/blog/live-tweet-swerc/1517919787392942083-FRC7cPkX0AI-TS2.jpg" draggable="false">
   </div>
 </div>
 
@@ -393,7 +393,7 @@ Update : c'était open bar.
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/live-tweet-swerc/1517959233932779526-FRDf3zuXsAE0cg0.jpg" draggable="false">
+  <img src="/images/blog/live-tweet-swerc/1517959233932779526-FRDf3zuXsAE0cg0.jpg" draggable="false">
   </div>
 </div>
 
@@ -407,7 +407,7 @@ Mes 3 équipes sont prêtes !
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/live-tweet-swerc/1518113103111757825-FRFr0DFXMAADFQf.jpg" draggable="false">
+  <img src="/images/blog/live-tweet-swerc/1518113103111757825-FRFr0DFXMAADFQf.jpg" draggable="false">
   </div>
 </div>
 
@@ -417,7 +417,7 @@ Les coachs donnent un dernier mot d'encouragement avant de quitter les équipes 
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/live-tweet-swerc/1518114006573240321-FRFsohrX0AEGYw6.jpg" draggable="false">
+  <img src="/images/blog/live-tweet-swerc/1518114006573240321-FRFsohrX0AEGYw6.jpg" draggable="false">
   </div>
 </div>
 
@@ -433,7 +433,7 @@ Le scoreboard à T+45' se dessine, 4 équipes françaises dans le top 10 ! Les m
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/live-tweet-swerc/1518133935393357824-FRF-rEWXwAERNIX.png" draggable="false">
+  <img src="/images/blog/live-tweet-swerc/1518133935393357824-FRF-rEWXwAERNIX.png" draggable="false">
   </div>
 </div>
 
@@ -441,7 +441,7 @@ Update après 1h40 de compétition : les universités Harbour Space et Tel Aviv 
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/live-tweet-swerc/1518147808410447873-FRGLC6KXIAIdDHo.png" draggable="false">
+  <img src="/images/blog/live-tweet-swerc/1518147808410447873-FRGLC6KXIAIdDHo.png" draggable="false">
   </div>
 </div>
 
@@ -453,7 +453,7 @@ Les 5 régions d'Europe se partagent 15 places en finale, qui sont réparties no
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/live-tweet-swerc/1518174479859564544-FRGjohsXIAEDakA.jpg" draggable="false">
+  <img src="/images/blog/live-tweet-swerc/1518174479859564544-FRGjohsXIAEDakA.jpg" draggable="false">
   </div>
 </div>
 
@@ -463,7 +463,7 @@ Tel-Aviv pourrait reprendre le top 2 si les soumissions sont OK.
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/live-tweet-swerc/1518195113222156288-FRG1wD9XIAAB1Yt.png" draggable="false">
+  <img src="/images/blog/live-tweet-swerc/1518195113222156288-FRG1wD9XIAAB1Yt.png" draggable="false">
   </div>
 </div>
 
@@ -473,7 +473,7 @@ La meilleure équipe de l'INSA est 49e, mais ça risque de changer assez fort ap
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/live-tweet-swerc/1518203882287030272-FRG-YhcWUAAvIT7.jpg" draggable="false">
+  <img src="/images/blog/live-tweet-swerc/1518203882287030272-FRG-YhcWUAAvIT7.jpg" draggable="false">
   </div>
 </div>
 
@@ -487,7 +487,7 @@ Les coachs de l'école Harbour Space, spécialisée en prog compétitive, ont ex
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/live-tweet-swerc/1518222659682770946-FRHPdhWXsAIHCSW.jpg" draggable="false">
+  <img src="/images/blog/live-tweet-swerc/1518222659682770946-FRHPdhWXsAIHCSW.jpg" draggable="false">
   </div>
 </div>
 
@@ -499,8 +499,8 @@ Deux exos que j'ai bien aimés 👇
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/live-tweet-swerc/1518226274719879169-FRHSvYBWUAEv4Ms.jpg" draggable="false">
-  <img style="height:350px; object-fit:cover" src="/images/blog/live-tweet-swerc/1518226274719879169-FRHSwDEXMAIaZU6.jpg" draggable="false">
+  <img src="/images/blog/live-tweet-swerc/1518226274719879169-FRHSvYBWUAEv4Ms.jpg" draggable="false">
+  <img src="/images/blog/live-tweet-swerc/1518226274719879169-FRHSwDEXMAIaZU6.jpg" draggable="false">
   </div>
 </div>
 
@@ -512,7 +512,7 @@ Session de présentation des corrigés : le problème G, résolu par aucune équ
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/live-tweet-swerc/1518251921999544322-FRHqE6cWQAE-Qrn.jpg" draggable="false">
+  <img src="/images/blog/live-tweet-swerc/1518251921999544322-FRHqE6cWQAE-Qrn.jpg" draggable="false">
   </div>
 </div>
 
@@ -522,7 +522,7 @@ Le process est super stressant, on révèle le verdict des tentatives effectuée
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/live-tweet-swerc/1518256594789617664-FRHuU3bXIAI0UaP.jpg" draggable="false">
+  <img src="/images/blog/live-tweet-swerc/1518256594789617664-FRHuU3bXIAI0UaP.jpg" draggable="false">
   </div>
 </div>
 
@@ -532,7 +532,7 @@ Les 8 soumissions infructueuses sur le problème J ont ajouté une grosse pénal
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/live-tweet-swerc/1518257377048412160-FRHvCaAWQAIdTav.jpg" draggable="false">
+  <img src="/images/blog/live-tweet-swerc/1518257377048412160-FRHvCaAWQAIdTav.jpg" draggable="false">
   </div>
 </div>
 
@@ -540,7 +540,7 @@ C'est au tour de l'équipe INSA Lyon 3, deux soumissions pendant le freeze mais 
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/live-tweet-swerc/1518257679944368129-FRHvUBnXsAIF15B.jpg" draggable="false">
+  <img src="/images/blog/live-tweet-swerc/1518257679944368129-FRHvUBnXsAIF15B.jpg" draggable="false">
   </div>
 </div>
 
@@ -550,7 +550,7 @@ Bravo à eux, pas de bol pour les bugs sur le problème D et L parce qu'ils avai
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/live-tweet-swerc/1518258338311643137-FRHv6Y-XoAUZS7L.jpg" draggable="false">
+  <img src="/images/blog/live-tweet-swerc/1518258338311643137-FRHv6Y-XoAUZS7L.jpg" draggable="false">
   </div>
 </div>
 
@@ -562,7 +562,7 @@ Polytechnique (14e) récupère la première médaille de bronze.
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/live-tweet-swerc/1518260595283398656-FRHx9xjWQAMTHxy.jpg" draggable="false">
+  <img src="/images/blog/live-tweet-swerc/1518260595283398656-FRHx9xjWQAMTHxy.jpg" draggable="false">
   </div>
 </div>
 
@@ -582,7 +582,7 @@ Parmi les 10 meilleurs, on compte donc :
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/live-tweet-swerc/1518262778674520064-FRHz84SX0AEpn5E.jpg" draggable="false">
+  <img src="/images/blog/live-tweet-swerc/1518262778674520064-FRHz84SX0AEpn5E.jpg" draggable="false">
   </div>
 </div>
 
@@ -590,7 +590,7 @@ Polytechnique prend la dernière médaille de bronze, on entre dans le top 6 du 
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/live-tweet-swerc/1518264065973489665-FRH1HzhWUAEoPFW.jpg" draggable="false">
+  <img src="/images/blog/live-tweet-swerc/1518264065973489665-FRH1HzhWUAEoPFW.jpg" draggable="false">
   </div>
 </div>
 
@@ -600,7 +600,7 @@ Il n'y aura pas d'équipe française à la finale des championnats du monde d'al
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/live-tweet-swerc/1518266221942218753-FRH3EUdXsAU8lxC.jpg" draggable="false">
+  <img src="/images/blog/live-tweet-swerc/1518266221942218753-FRH3EUdXsAU8lxC.jpg" draggable="false">
   </div>
 </div>
 
@@ -610,7 +610,7 @@ La seule soumission sur le problème G, par l'équipe TAU++, est refusée. Cet e
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/live-tweet-swerc/1518267666468941824-FRH4ZGlWYAAp2jI.jpg" draggable="false">
+  <img src="/images/blog/live-tweet-swerc/1518267666468941824-FRH4ZGlWYAAp2jI.jpg" draggable="false">
   </div>
 </div>
 
@@ -618,7 +618,7 @@ Moment de suspense avant l'annonce du grand vainqueur de l'édition 2022 du cham
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/live-tweet-swerc/1518268418507649027-FRH5EpcWYAIv6Si.jpg" draggable="false">
+  <img src="/images/blog/live-tweet-swerc/1518268418507649027-FRH5EpcWYAIv6Si.jpg" draggable="false">
   </div>
 </div>
 
@@ -628,7 +628,7 @@ Félicitations à l'équipe de l'université Harbour Space (🇪🇸) qui rempor
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/live-tweet-swerc/1518270687093395457-FRH7Ir9XEAAyTfi.jpg" draggable="false">
+  <img src="/images/blog/live-tweet-swerc/1518270687093395457-FRH7Ir9XEAAyTfi.jpg" draggable="false">
   </div>
 </div>
 

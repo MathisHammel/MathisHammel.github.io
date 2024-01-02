@@ -12,7 +12,7 @@ Mais **il s'est passé quoi** au juste ?
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/panne-facebook/1445287188019752962-FA6xCdoXEAARzZI.jpg" draggable="false">
+  <img src="/images/blog/panne-facebook/1445287188019752962-FA6xCdoXEAARzZI.jpg" draggable="false">
   </div>
 </div>
 
@@ -24,7 +24,7 @@ Le DNS, c'est toute une organisation qui vous permet de retenir des adresses fac
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/panne-facebook/1445287194491604993-FA6xC17WEAIFcUh.jpg" draggable="false">
+  <img src="/images/blog/panne-facebook/1445287194491604993-FA6xC17WEAIFcUh.jpg" draggable="false">
   </div>
 </div>
 
@@ -38,7 +38,7 @@ Mais internet est un réseau complexe et l'annuaire est réparti sur de très no
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/panne-facebook/1445287200678191106-FA6xDK1XoAI4fZ3.jpg" draggable="false">
+  <img src="/images/blog/panne-facebook/1445287200678191106-FA6xDK1XoAI4fZ3.jpg" draggable="false">
   </div>
 </div>
 
@@ -50,7 +50,7 @@ Par exemple, tous les noms de domaine qui se terminent en ".fr" descendent du TL
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/panne-facebook/1445287206235553793-FA6xDhKXEAIUA0H.jpg" draggable="false">
+  <img src="/images/blog/panne-facebook/1445287206235553793-FA6xDhKXEAIUA0H.jpg" draggable="false">
   </div>
 </div>
 
@@ -60,7 +60,7 @@ Si par exexmple vous achetez un domaine chez OVH, c'est en fin de chaîne le ser
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/panne-facebook/1445287209855225860-FA6xDvXXIAUdMG7.jpg" draggable="false">
+  <img src="/images/blog/panne-facebook/1445287209855225860-FA6xDvXXIAUdMG7.jpg" draggable="false">
   </div>
 </div>
 
@@ -80,7 +80,7 @@ Le protocole BGP sert à **cartographier le réseau global** afin de choisir le 
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/panne-facebook/1445287220089401344-FA6xEUEWQAAQuG5.jpg" draggable="false">
+  <img src="/images/blog/panne-facebook/1445287220089401344-FA6xEUEWQAAQuG5.jpg" draggable="false">
   </div>
 </div>
 
@@ -96,7 +96,7 @@ Ici avec YouTube et Pakistan Telecom, 2008:
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/panne-facebook/1445287229367148545-FA6xE1KWQAk6Gy9.jpg" draggable="false">
+  <img src="/images/blog/panne-facebook/1445287229367148545-FA6xE1KWQAk6Gy9.jpg" draggable="false">
   </div>
 </div>
 
@@ -110,7 +110,7 @@ C'est pour ça que le DNS a été identifié (à tort) comme fautif dans l'affai
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/panne-facebook/1445287235885142020-FA6xFMcWEAIyqp9.jpg" draggable="false">
+  <img src="/images/blog/panne-facebook/1445287235885142020-FA6xFMcWEAIyqp9.jpg" draggable="false">
   </div>
 </div>
 
@@ -120,7 +120,7 @@ Premièrement, Facebook a adopté depuis le début de la crise sanitaire une pos
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/panne-facebook/1445287240557645827-FA6xFf1WUAMN6TU.jpg" draggable="false">
+  <img src="/images/blog/panne-facebook/1445287240557645827-FA6xFf1WUAMN6TU.jpg" draggable="false">
   </div>
 </div>
 
@@ -130,7 +130,7 @@ Pas simple de gérer une crise à distance sans connexion internet !
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/panne-facebook/1445287246999994368-FA6xF1tX0AgkadY.jpg" draggable="false">
+  <img src="/images/blog/panne-facebook/1445287246999994368-FA6xF1tX0AgkadY.jpg" draggable="false">
   </div>
 </div>
 

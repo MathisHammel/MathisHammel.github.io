@@ -20,7 +20,7 @@ Pendant quelques secondes, la page ressemble en gros à ça :
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/droite-au-coeur/1686367101735563264-F2cfoRUXwAApJdR.jpg" draggable="false">
+  <img src="/images/blog/droite-au-coeur/1686367101735563264-F2cfoRUXwAApJdR.jpg" draggable="false">
   </div>
 </div>
 
@@ -30,7 +30,7 @@ Pour ça, l'interface va utiliser une **API** : c'est un programme hébergé cô
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/droite-au-coeur/1686367104646467584-F2ck8TqWYAA_tEv.jpg" draggable="false">
+  <img src="/images/blog/droite-au-coeur/1686367104646467584-F2ck8TqWYAA_tEv.jpg" draggable="false">
   </div>
 </div>
 
@@ -58,7 +58,7 @@ Touche F12 &gt; onglet "réseau" &gt; choisissez la requête à examiner (search
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/droite-au-coeur/1686367128587530242-F2ct9WEb0AAGey0.jpg" draggable="false">
+  <img src="/images/blog/droite-au-coeur/1686367128587530242-F2ct9WEb0AAGey0.jpg" draggable="false">
   </div>
 </div>
 

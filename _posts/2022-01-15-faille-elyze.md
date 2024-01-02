@@ -10,7 +10,7 @@ Hier soir, j'ai découvert un problème de sécurité sur l'app Elyze (numéro 1
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/faille-elyze/1482393799456436228-FJJu4thWYAQyEvi.jpg" draggable="false">
+  <img src="/images/blog/faille-elyze/1482393799456436228-FJJu4thWYAQyEvi.jpg" draggable="false">
   </div>
 </div>
 
@@ -21,8 +21,8 @@ Hier soir, j'ai découvert un problème de sécurité sur l'app Elyze (numéro 1
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/faille-elyze/1482393804170801152-FJJxxSEXEAYW42y.jpg" draggable="false">
-  <img style="height:350px; object-fit:cover" src="/images/blog/faille-elyze/1482393804170801152-FJJyGbZXEAUjoaS.png" draggable="false">
+  <img src="/images/blog/faille-elyze/1482393804170801152-FJJxxSEXEAYW42y.jpg" draggable="false">
+  <img src="/images/blog/faille-elyze/1482393804170801152-FJJyGbZXEAUjoaS.png" draggable="false">
   </div>
 </div>
 
@@ -32,7 +32,7 @@ Après avoir chargé l'appli dans mon outil de décompilation Android (j'utilise
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/faille-elyze/1482393810390896645-FJJ0JriXEActYq4.png" draggable="false">
+  <img src="/images/blog/faille-elyze/1482393810390896645-FJJ0JriXEActYq4.png" draggable="false">
   </div>
 </div>
 
@@ -44,7 +44,7 @@ Autrement dit, c'est **illisible**.
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/faille-elyze/1482393816187523073-FJJ1618WUAE5zP0.png" draggable="false">
+  <img src="/images/blog/faille-elyze/1482393816187523073-FJJ1618WUAE5zP0.png" draggable="false">
   </div>
 </div>
 
@@ -56,8 +56,8 @@ En faisant des recherches, on tombe rapidement sur la liste qui nous permet de t
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/faille-elyze/1482393822365634566-FJJ4GSVXEAcpdth.png" draggable="false">
-  <img style="height:350px; object-fit:cover" src="/images/blog/faille-elyze/1482393822365634566-FJJ4uiJXwAEV0GO.png" draggable="false">
+  <img src="/images/blog/faille-elyze/1482393822365634566-FJJ4GSVXEAcpdth.png" draggable="false">
+  <img src="/images/blog/faille-elyze/1482393822365634566-FJJ4uiJXwAEV0GO.png" draggable="false">
   </div>
 </div>
 
@@ -69,7 +69,7 @@ Pour échanger des données avec le serveur, Elyze utilise principalement une in
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/faille-elyze/1482393828304867333-FJJ6etZXIAkOzsM.png" draggable="false">
+  <img src="/images/blog/faille-elyze/1482393828304867333-FJJ6etZXIAkOzsM.png" draggable="false">
   </div>
 </div>
 
@@ -79,8 +79,8 @@ Avec l'outil GraphQLmap de l'ami <a href="https://twitter.com/pentest_swissky" t
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/faille-elyze/1482393832469811205-FJJ7AUWWUAEceLJ.png" draggable="false">
-  <img style="height:350px; object-fit:cover" src="/images/blog/faille-elyze/1482393832469811205-FJJ7Gh1XIAEoR6-.png" draggable="false">
+  <img src="/images/blog/faille-elyze/1482393832469811205-FJJ7AUWWUAEceLJ.png" draggable="false">
+  <img src="/images/blog/faille-elyze/1482393832469811205-FJJ7Gh1XIAEoR6-.png" draggable="false">
   </div>
 </div>
 
@@ -90,8 +90,8 @@ Mais le souci justement, c'est que les permissions étaient mal configurées. To
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/faille-elyze/1482393838878658561-FJJ9VZ5WQAMvsGY.png" draggable="false">
-  <img style="height:350px; object-fit:cover" src="/images/blog/faille-elyze/1482393838878658561-FJJ9fooXwAMXYBL.jpg" draggable="false">
+  <img src="/images/blog/faille-elyze/1482393838878658561-FJJ9VZ5WQAMvsGY.png" draggable="false">
+  <img src="/images/blog/faille-elyze/1482393838878658561-FJJ9fooXwAMXYBL.jpg" draggable="false">
   </div>
 </div>
 
@@ -101,7 +101,7 @@ Heureusement, les autres parties de la base de données n'ont pas été affecté
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/faille-elyze/1482393845560233984-FJKB0ubXMAUVepV.jpg" draggable="false">
+  <img src="/images/blog/faille-elyze/1482393845560233984-FJKB0ubXMAUVepV.jpg" draggable="false">
   </div>
 </div>
 
@@ -109,7 +109,7 @@ On peut d'ailleurs se demander si l'engagement de confidentialité est bien resp
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/faille-elyze/1482393850765357069-FJJ-w-rXIAAJ8J1.png" draggable="false">
+  <img src="/images/blog/faille-elyze/1482393850765357069-FJJ-w-rXIAAJ8J1.png" draggable="false">
   </div>
 </div>
 

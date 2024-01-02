@@ -12,8 +12,8 @@ J'ai étudié le protocole cryptographique sous-jacent, et je vous propose un ar
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/scanning-apple/1425523073806110720-E8hbOeNWQAQ-J41.png" draggable="false">
-  <img style="height:350px; object-fit:cover" src="/images/blog/scanning-apple/1425523073806110720-E8hbiZwWUAQ9RPg.png" draggable="false">
+  <img src="/images/blog/scanning-apple/1425523073806110720-E8hbOeNWQAQ-J41.png" draggable="false">
+  <img src="/images/blog/scanning-apple/1425523073806110720-E8hbiZwWUAQ9RPg.png" draggable="false">
   </div>
 </div>
 
@@ -21,7 +21,7 @@ Je me suis paluché la publication scientifique d'Apple, 32 pages de notation ma
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/scanning-apple/1425523078579331081-E8hcpp3WYAAQeUJ.png" draggable="false">
+  <img src="/images/blog/scanning-apple/1425523078579331081-E8hcpp3WYAAQeUJ.png" draggable="false">
   </div>
 </div>
 
@@ -39,7 +39,7 @@ N.B. : on ne se penchera pas sur le 2e mécanisme de protection de l'enfance ann
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/scanning-apple/1425523089115426824-E8hdpPhWYA0GLUh.png" draggable="false">
+  <img src="/images/blog/scanning-apple/1425523089115426824-E8hdpPhWYA0GLUh.png" draggable="false">
   </div>
 </div>
 
@@ -49,7 +49,7 @@ On va étudier dans trois mini-chapitres les composants du protocole d'Apple, qu
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/scanning-apple/1425523096245706757-E8hxFaHX0AI-3U0.jpg" draggable="false">
+  <img src="/images/blog/scanning-apple/1425523096245706757-E8hxFaHX0AI-3U0.jpg" draggable="false">
   </div>
 </div>
 
@@ -57,7 +57,7 @@ NeuralHash est un algorithme de hachage d'images basé sur un réseau de neurone
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/scanning-apple/1425523101924794368-E8hfHMuWEAoecy1.png" draggable="false">
+  <img src="/images/blog/scanning-apple/1425523101924794368-E8hfHMuWEAoecy1.png" draggable="false">
   </div>
 </div>
 
@@ -65,7 +65,7 @@ Dans notre protocole, le réseau de neurones est entraîné pour créer un **has
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/scanning-apple/1425523106832134149-E8hfkKlWUAIWOk8.jpg" draggable="false">
+  <img src="/images/blog/scanning-apple/1425523106832134149-E8hfkKlWUAIWOk8.jpg" draggable="false">
   </div>
 </div>
 
@@ -75,7 +75,7 @@ Très similaire à word2vec pour ceux qui connaissent :
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/scanning-apple/1425523111596859393-E8hg7pLXIAM0bI0.png" draggable="false">
+  <img src="/images/blog/scanning-apple/1425523111596859393-E8hg7pLXIAM0bI0.png" draggable="false">
   </div>
 </div>
 
@@ -85,7 +85,7 @@ J'utilise aussi ce type de réseau de neurones dans un outil que je dévoilerai 
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/scanning-apple/1425523116579635209-E8hhrIKX0AETHMC.jpg" draggable="false">
+  <img src="/images/blog/scanning-apple/1425523116579635209-E8hhrIKX0AETHMC.jpg" draggable="false">
   </div>
 </div>
 
@@ -97,7 +97,7 @@ On en reparle au chapitre III 😉
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/scanning-apple/1425523123567403008-E8hijq4WUAElWkx.jpg" draggable="false">
+  <img src="/images/blog/scanning-apple/1425523123567403008-E8hijq4WUAElWkx.jpg" draggable="false">
   </div>
 </div>
 
@@ -109,7 +109,7 @@ Le principe sous-jacent au Threshold Secret Sharing ne date pas d'hier : en 1979
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/scanning-apple/1425523131242909698-E8hjiFUWYAk4CXm.png" draggable="false">
+  <img src="/images/blog/scanning-apple/1425523131242909698-E8hjiFUWYAk4CXm.png" draggable="false">
   </div>
 </div>
 
@@ -119,7 +119,7 @@ Quand je meurs, je veux que ma famille ait accès à mon compte Twitter pour con
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/scanning-apple/1425523136590721026-E8hwJSaWEAI0Cbc.jpg" draggable="false">
+  <img src="/images/blog/scanning-apple/1425523136590721026-E8hwJSaWEAI0Cbc.jpg" draggable="false">
   </div>
 </div>
 
@@ -127,7 +127,7 @@ Quand je meurs, je veux que ma famille ait accès à mon compte Twitter pour con
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/scanning-apple/1425523141015740422-E8hrP0NWQAgzUeQ.jpg" draggable="false">
+  <img src="/images/blog/scanning-apple/1425523141015740422-E8hrP0NWQAgzUeQ.jpg" draggable="false">
   </div>
 </div>
 
@@ -135,7 +135,7 @@ Le système Threshold Secret Sharing fonctionne à peu près de la même manièr
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/scanning-apple/1425523145092571143-E8hvqo2XEAQ1FJk.jpg" draggable="false">
+  <img src="/images/blog/scanning-apple/1425523145092571143-E8hvqo2XEAQ1FJk.jpg" draggable="false">
   </div>
 </div>
 
@@ -143,7 +143,7 @@ Apple n'a initialement pas cette clé et ne peut donc déchiffrer aucune métado
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/scanning-apple/1425523149395963907-E8hwQbNXsAYkwZ4.jpg" draggable="false">
+  <img src="/images/blog/scanning-apple/1425523149395963907-E8hwQbNXsAYkwZ4.jpg" draggable="false">
   </div>
 </div>
 
@@ -153,7 +153,7 @@ Un autre mécanisme permet aussi de cacher à Apple le nombre exact de matchs : 
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/scanning-apple/1425523155343380481-E8hw1kJXIAIq9J1.jpg" draggable="false">
+  <img src="/images/blog/scanning-apple/1425523155343380481-E8hw1kJXIAIq9J1.jpg" draggable="false">
   </div>
 </div>
 
@@ -170,7 +170,7 @@ Apple commence par calculer les NeuralHashs des images qui l'intéressent, puis 
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/scanning-apple/1425524714626224140-E8h56gnXMAMdSDz.jpg" draggable="false">
+  <img src="/images/blog/scanning-apple/1425524714626224140-E8h56gnXMAMdSDz.jpg" draggable="false">
   </div>
 </div>
 
@@ -178,7 +178,7 @@ Ces NeuralHashs sont ensuite masqués (blinded) à l'aide d'une clé détenue pa
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/scanning-apple/1425524718468272129-E8h6CYOXoAsJdKL.jpg" draggable="false">
+  <img src="/images/blog/scanning-apple/1425524718468272129-E8h6CYOXoAsJdKL.jpg" draggable="false">
   </div>
 </div>
 
@@ -190,7 +190,7 @@ Chacune des photos va donc être traitée de la manière suivante : on calcule d
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/scanning-apple/1425524726013829120-E8h6PldXMAQ-Ck6.jpg" draggable="false">
+  <img src="/images/blog/scanning-apple/1425524726013829120-E8h6PldXMAQ-Ck6.jpg" draggable="false">
   </div>
 </div>
 
@@ -198,7 +198,7 @@ Cette clé nous sert à chiffrer le duo de {métadonnées image + fragment de cl
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/scanning-apple/1425524730279387136-E8h6WIpWEAM4WSi.jpg" draggable="false">
+  <img src="/images/blog/scanning-apple/1425524730279387136-E8h6WIpWEAM4WSi.jpg" draggable="false">
   </div>
 </div>
 
@@ -206,7 +206,7 @@ Des propriétés super chouettes des courbes elliptiques permettent à Apple de 
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/scanning-apple/1425524734339518468-E8h6brUX0AgGOeS.jpg" draggable="false">
+  <img src="/images/blog/scanning-apple/1425524734339518468-E8h6brUX0AgGOeS.jpg" draggable="false">
   </div>
 </div>
 
@@ -221,7 +221,7 @@ Pour résumer, le protocole d'Apple est basé sur une sécurité à deux couches
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/scanning-apple/1425524741490847748-E8h6tqvXIAcQbFK.jpg" draggable="false">
+  <img src="/images/blog/scanning-apple/1425524741490847748-E8h6tqvXIAcQbFK.jpg" draggable="false">
   </div>
 </div>
 
@@ -231,7 +231,7 @@ La première attaque qui me vient à l'esprit est basée sur des **attaques anta
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/scanning-apple/1425524747522166796-E8h7CLpWYAUvMZn.jpg" draggable="false">
+  <img src="/images/blog/scanning-apple/1425524747522166796-E8h7CLpWYAUvMZn.jpg" draggable="false">
   </div>
 </div>
 

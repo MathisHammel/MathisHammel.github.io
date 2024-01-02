@@ -14,7 +14,7 @@ Mais qu'est-ce que c'est que cette signature, et pourquoi on ne peut pas juste l
 
 <div class="gallery-box">
   <div class="gallery">
-<video style="height:350px; object-fit:cover" autoplay loop>  <source src="/images/blog/crypto-pass-covid/1419268017242918913-E7JAu9zXMAA2bR9.mp4" type="video/mp4"></video>  </div>
+<video autoplay loop>  <source src="/images/blog/crypto-pass-covid/1419268017242918913-E7JAu9zXMAA2bR9.mp4" type="video/mp4"></video>  </div>
 </div>
 
 Tout d'abord, on va prendre un exemple que j'utilise souvent pour illustrer la signature cryptographique : vous allez à la mairie pour faire certifier un document papier.
@@ -25,7 +25,7 @@ Quand vous allez faire certifier une signature en mairie, vous apportez un docum
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/crypto-pass-covid/1419268024998277120-E7IbVg3WEAMgfxn.png" draggable="false">
+  <img src="/images/blog/crypto-pass-covid/1419268024998277120-E7IbVg3WEAMgfxn.png" draggable="false">
   </div>
 </div>
 
@@ -48,7 +48,7 @@ C'est par exemple ce que votre ordi utilise dans le protocole **HTTPS** (le peti
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/crypto-pass-covid/1419268036171866114-E7IicuWWUAQyljH.png" draggable="false">
+  <img src="/images/blog/crypto-pass-covid/1419268036171866114-E7IicuWWUAQyljH.png" draggable="false">
   </div>
 </div>
 
@@ -58,7 +58,7 @@ Tout d'abord, on va parler des clés asymétriques. On a deux clés A et B, lié
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/crypto-pass-covid/1419268038399086592-E7I3oHeX0AExDRe.jpg" draggable="false">
+  <img src="/images/blog/crypto-pass-covid/1419268038399086592-E7I3oHeX0AExDRe.jpg" draggable="false">
   </div>
 </div>
 
@@ -70,7 +70,7 @@ Si vous comprenez ce schéma, vous avez fait le plus dur 😉
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/crypto-pass-covid/1419268045508390916-E7I3uMSXoAIPDeM.jpg" draggable="false">
+  <img src="/images/blog/crypto-pass-covid/1419268045508390916-E7I3uMSXoAIPDeM.jpg" draggable="false">
   </div>
 </div>
 
@@ -84,7 +84,7 @@ Ensuite, voici comment se déroule la création d'un certificat de vaccination :
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/crypto-pass-covid/1419268053922160640-E7I3zbNWEAYcvqf.jpg" draggable="false">
+  <img src="/images/blog/crypto-pass-covid/1419268053922160640-E7I3zbNWEAYcvqf.jpg" draggable="false">
   </div>
 </div>
 
@@ -94,7 +94,7 @@ Pour vérifier la validité d'un pass sanitaire, l'appli TousAntiCovid Vérif ut
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/crypto-pass-covid/1419268058972147713-E7I35ScWUAMNNkb.jpg" draggable="false">
+  <img src="/images/blog/crypto-pass-covid/1419268058972147713-E7I35ScWUAMNNkb.jpg" draggable="false">
   </div>
 </div>
 
@@ -104,7 +104,7 @@ Pour en revenir au parallèle de la certification de signature, ici le tampon ma
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/crypto-pass-covid/1419268066525995014-E7I4vphWUAASLjM.png" draggable="false">
+  <img src="/images/blog/crypto-pass-covid/1419268066525995014-E7I4vphWUAASLjM.png" draggable="false">
   </div>
 </div>
 
@@ -121,7 +121,7 @@ Il est théoriquement possible de recréer la clé privée à partir de la clé 
 
 <div class="gallery-box">
   <div class="gallery">
-<video style="height:350px; object-fit:cover" autoplay loop>  <source src="/images/blog/crypto-pass-covid/1419268080723714052-E7JAyoQWYAYo2N-.mp4" type="video/mp4"></video>  </div>
+<video autoplay loop>  <source src="/images/blog/crypto-pass-covid/1419268080723714052-E7JAyoQWYAYo2N-.mp4" type="video/mp4"></video>  </div>
 </div>
 
 Donc les deux options qui restent sont de corrompre un soignant ou de voler le pass de quelqu'un d'autre, mais ces problèmes ne relèvent pas de la cybersécurité et sont difficiles à éliminer quel que soit le système (papier ou électronique) choisi 😉
@@ -132,7 +132,7 @@ De par sa nature, le certificat de vaccination DOIT contenir des informations pe
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/crypto-pass-covid/1419268089498284032-E7I8jhoXIAE4ynf.png" draggable="false">
+  <img src="/images/blog/crypto-pass-covid/1419268089498284032-E7I8jhoXIAE4ynf.png" draggable="false">
   </div>
 </div>
 

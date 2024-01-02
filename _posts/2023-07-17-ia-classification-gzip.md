@@ -14,7 +14,7 @@ Explications ⤵️
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/ia-classification-gzip/1680901570156806145-F1O_BqwWIAAE4Wz.jpg" draggable="false">
+  <img src="/images/blog/ia-classification-gzip/1680901570156806145-F1O_BqwWIAAE4Wz.jpg" draggable="false">
   </div>
 </div>
 
@@ -22,7 +22,7 @@ La **classification de texte** est l'un des domaines de recherche les plus actif
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/ia-classification-gzip/1680901573931675648-F1O_XxpWIAAmGMR.jpg" draggable="false">
+  <img src="/images/blog/ia-classification-gzip/1680901573931675648-F1O_XxpWIAAmGMR.jpg" draggable="false">
   </div>
 </div>
 
@@ -32,7 +32,7 @@ L'un des plus connus est basé sur 1.4 millions de questions posées sur le site
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/ia-classification-gzip/1680901577266085888-F1O_wGHWAAE5r_D.jpg" draggable="false">
+  <img src="/images/blog/ia-classification-gzip/1680901577266085888-F1O_wGHWAAE5r_D.jpg" draggable="false">
   </div>
 </div>
 
@@ -42,7 +42,7 @@ On va ensuite le mettre à l'épreuve avec 60 000 questions non-étiquetées sur
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/ia-classification-gzip/1680901580499869696-F1PAQm5WcAAmAon.jpg" draggable="false">
+  <img src="/images/blog/ia-classification-gzip/1680901580499869696-F1PAQm5WcAAmAon.jpg" draggable="false">
   </div>
 </div>
 
@@ -56,7 +56,7 @@ Cependant, le mot français est peu utilisé car ambigu avec le terme anglais "p
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/ia-classification-gzip/1680901587097509888-F1PAsRCWYAAnwLr.jpg" draggable="false">
+  <img src="/images/blog/ia-classification-gzip/1680901587097509888-F1PAsRCWYAAnwLr.jpg" draggable="false">
   </div>
 </div>
 
@@ -70,7 +70,7 @@ Regardons de plus près son fonctionnement.
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/ia-classification-gzip/1680901592998879232-F1PBDx1XsAAfTZu.jpg" draggable="false">
+  <img src="/images/blog/ia-classification-gzip/1680901592998879232-F1PBDx1XsAAfTZu.jpg" draggable="false">
   </div>
 </div>
 
@@ -78,7 +78,7 @@ Dans l'algo présenté, on repère quelques opérations de la forme len(gzip.com
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/ia-classification-gzip/1680901599462400003-F1O7we1WwAA7ISM.jpg" draggable="false">
+  <img src="/images/blog/ia-classification-gzip/1680901599462400003-F1O7we1WwAA7ISM.jpg" draggable="false">
   </div>
 </div>
 
@@ -86,7 +86,7 @@ Gzip est un utilitaire de **compression de fichiers** basé sur le même algorit
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/ia-classification-gzip/1680901602494881792-F1O73brWwAAI48X.jpg" draggable="false">
+  <img src="/images/blog/ia-classification-gzip/1680901602494881792-F1O73brWwAAI48X.jpg" draggable="false">
   </div>
 </div>
 
@@ -96,7 +96,7 @@ J'ai compressé 1000 caractères de la page Wikipédia "réseaux de neurones art
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/ia-classification-gzip/1680901606282350592-F1O8JXOWIAAQb85.jpg" draggable="false">
+  <img src="/images/blog/ia-classification-gzip/1680901606282350592-F1O8JXOWIAAQb85.jpg" draggable="false">
   </div>
 </div>
 
@@ -106,7 +106,7 @@ De même, la concaténation de deux textes se compressera **plus facilement** si
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/ia-classification-gzip/1680901610673958913-F1O8ShsWYAE1rVD.jpg" draggable="false">
+  <img src="/images/blog/ia-classification-gzip/1680901610673958913-F1O8ShsWYAE1rVD.jpg" draggable="false">
   </div>
 </div>
 
@@ -116,7 +116,7 @@ La formule ci-dessous est celle qui est utilisée par les chercheurs dans leur a
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/ia-classification-gzip/1680901614033313794-F1O8ZJ4WwAI0x_L.jpg" draggable="false">
+  <img src="/images/blog/ia-classification-gzip/1680901614033313794-F1O8ZJ4WwAI0x_L.jpg" draggable="false">
   </div>
 </div>
 
@@ -126,7 +126,7 @@ Sûrement des concepts inventés par les chercheurs pour se la péter en soirée
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/ia-classification-gzip/1680901616864489475-F1O8f-wXsAEC_hc.jpg" draggable="false">
+  <img src="/images/blog/ia-classification-gzip/1680901616864489475-F1O8f-wXsAEC_hc.jpg" draggable="false">
   </div>
 </div>
 
@@ -146,7 +146,7 @@ Les deux textes sont très proches, on souhaite donc que leur distance soit 0.
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/ia-classification-gzip/1680901621503475713-F1O8sIYXoAA6yTI.jpg" draggable="false">
+  <img src="/images/blog/ia-classification-gzip/1680901621503475713-F1O8sIYXoAA6yTI.jpg" draggable="false">
   </div>
 </div>
 
@@ -158,7 +158,7 @@ Ici, on veut donner une distance élevée (donc 1) à cette paire de textes.
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/ia-classification-gzip/1680901624712003587-F1O9ahPWwAA9W47.jpg" draggable="false">
+  <img src="/images/blog/ia-classification-gzip/1680901624712003587-F1O9ahPWwAA9W47.jpg" draggable="false">
   </div>
 </div>
 
@@ -166,7 +166,7 @@ Bien sûr, ces deux cas sont extrêmes et ne se produisent pas en pratique, mais
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/ia-classification-gzip/1680901627950104576-F1O9g0eXgAEj5zy.jpg" draggable="false">
+  <img src="/images/blog/ia-classification-gzip/1680901627950104576-F1O9g0eXgAEj5zy.jpg" draggable="false">
   </div>
 </div>
 
@@ -176,7 +176,7 @@ La seule différence est l'utilisation des fonctions min et max, qui permettent 
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/ia-classification-gzip/1680901631087345664-F1O9oE6WAAARvHS.jpg" draggable="false">
+  <img src="/images/blog/ia-classification-gzip/1680901631087345664-F1O9oE6WAAARvHS.jpg" draggable="false">
   </div>
 </div>
 
@@ -186,7 +186,7 @@ Il est probable que la catégorie de x1 soit la même que x2.
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/ia-classification-gzip/1680901634090516480-F1O9vt8XgAEVvo1.jpg" draggable="false">
+  <img src="/images/blog/ia-classification-gzip/1680901634090516480-F1O9vt8XgAEVvo1.jpg" draggable="false">
   </div>
 </div>
 
@@ -204,7 +204,7 @@ La première est une erreur algorithmique que j'ai trouvée dans le code publié
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/ia-classification-gzip/1680901642265194498-F1O-MC-WwAE3ltS.jpg" draggable="false">
+  <img src="/images/blog/ia-classification-gzip/1680901642265194498-F1O-MC-WwAE3ltS.jpg" draggable="false">
   </div>
 </div>
 
@@ -216,7 +216,7 @@ Pour calculer les k plus proches voisins, l'implémentation du papier de recherc
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/ia-classification-gzip/1680901647159918594-F1O-ZYNXgAEDxBG.jpg" draggable="false">
+  <img src="/images/blog/ia-classification-gzip/1680901647159918594-F1O-ZYNXgAEDxBG.jpg" draggable="false">
   </div>
 </div>
 
@@ -226,7 +226,7 @@ En utilisant un tas binaire, structure de données spécialisée, on peut grande
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/ia-classification-gzip/1680902608393781249-F1PDYErXgAAYYla.jpg" draggable="false">
+  <img src="/images/blog/ia-classification-gzip/1680902608393781249-F1PDYErXgAAYYla.jpg" draggable="false">
   </div>
 </div>
 

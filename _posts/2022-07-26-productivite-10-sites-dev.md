@@ -16,7 +16,7 @@ Créez et partagez des morceaux de code source en images. Incroyablement utile p
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/productivite-10-sites-dev/1551945450034438144-FYlpaRQX0AIjbme.jpg" draggable="false">
+  <img src="/images/blog/productivite-10-sites-dev/1551945450034438144-FYlpaRQX0AIjbme.jpg" draggable="false">
   </div>
 </div>
 
@@ -28,7 +28,7 @@ Besoin de tester ou de comprendre le fonctionnement d'une regex compliquée ? Re
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/productivite-10-sites-dev/1551945452597268480-FYlwZirXwAAKnck.jpg" draggable="false">
+  <img src="/images/blog/productivite-10-sites-dev/1551945452597268480-FYlwZirXwAAKnck.jpg" draggable="false">
   </div>
 </div>
 
@@ -42,7 +42,7 @@ Fun fact : c'est développé par le GCHQ ! (homologue britannique de la NSA)
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/productivite-10-sites-dev/1551945458485952518-FYltkbyWYAATI4k.jpg" draggable="false">
+  <img src="/images/blog/productivite-10-sites-dev/1551945458485952518-FYltkbyWYAATI4k.jpg" draggable="false">
   </div>
 </div>
 
@@ -56,7 +56,7 @@ Curl Converter le transforme dans le langage de votre choix 😀
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/productivite-10-sites-dev/1551945460998365184-FYl1CzpWIAQVwtI.jpg" draggable="false">
+  <img src="/images/blog/productivite-10-sites-dev/1551945460998365184-FYl1CzpWIAQVwtI.jpg" draggable="false">
   </div>
 </div>
 
@@ -68,7 +68,7 @@ CoderPad est un IDE dans le cloud pour faire passer des entretiens techniques. S
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/productivite-10-sites-dev/1551945465473732608-FYl6eWRWYAEB58j.png" draggable="false">
+  <img src="/images/blog/productivite-10-sites-dev/1551945465473732608-FYl6eWRWYAEB58j.png" draggable="false">
   </div>
 </div>
 
@@ -82,7 +82,7 @@ Coolors génère automatiquement 5 couleurs qui vont bien ensemble, verrouillez 
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/productivite-10-sites-dev/1551945470485954561-FYl7JyWXwAAUr5o.jpg" draggable="false">
+  <img src="/images/blog/productivite-10-sites-dev/1551945470485954561-FYl7JyWXwAAUr5o.jpg" draggable="false">
   </div>
 </div>
 
@@ -94,7 +94,7 @@ En manque d'inspiration pour créer une visualisation de données qui marquera l
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/productivite-10-sites-dev/1551945472889307141-FYmMuaLWQAALIfY.jpg" draggable="false">
+  <img src="/images/blog/productivite-10-sites-dev/1551945472889307141-FYmMuaLWQAALIfY.jpg" draggable="false">
   </div>
 </div>
 
@@ -106,7 +106,7 @@ Un éditeur de design et d'images assez complet, c'est ce que j'utilise pour ill
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/productivite-10-sites-dev/1551945475514933250-FYmRVurWIAAvZso.jpg" draggable="false">
+  <img src="/images/blog/productivite-10-sites-dev/1551945475514933250-FYmRVurWIAAvZso.jpg" draggable="false">
   </div>
 </div>
 
@@ -118,7 +118,7 @@ Si vous avez besoin d'exposer à internet une appli qui tourne sur un port local
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/productivite-10-sites-dev/1551945480837398528-FYmYPlIWAAAxgIz.jpg" draggable="false">
+  <img src="/images/blog/productivite-10-sites-dev/1551945480837398528-FYmYPlIWAAAxgIz.jpg" draggable="false">
   </div>
 </div>
 
@@ -132,7 +132,7 @@ Mes jeux préférés, à essayer absolument : Clash of Code, et le Coding Escape
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/productivite-10-sites-dev/1551945485270794240-FYmZKEcWAAAmH6P.jpg" draggable="false">
+  <img src="/images/blog/productivite-10-sites-dev/1551945485270794240-FYmZKEcWAAAmH6P.jpg" draggable="false">
   </div>
 </div>
 

@@ -16,7 +16,7 @@ Même s'il existe plein de types de blockchain, ce thread va se concentrer sur l
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/bitcoin-blockchain/1464164329100566530-FFG7YrdX0AoLm0S.jpg" draggable="false">
+  <img src="/images/blog/bitcoin-blockchain/1464164329100566530-FFG7YrdX0AoLm0S.jpg" draggable="false">
   </div>
 </div>
 
@@ -28,7 +28,7 @@ Perso j'aurais fait un Google Docs, mais on va vite avoir des soucis de synchro 
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/bitcoin-blockchain/1464164335350173700-FFG7sZdWQAM8W-7.png" draggable="false">
+  <img src="/images/blog/bitcoin-blockchain/1464164335350173700-FFG7sZdWQAM8W-7.png" draggable="false">
   </div>
 </div>
 
@@ -40,7 +40,7 @@ C'est exactement comme ça que fonctionne une blockchain : chaque groupe de vire
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/bitcoin-blockchain/1464164342010728485-FFG8mqYXsAAAWxS.png" draggable="false">
+  <img src="/images/blog/bitcoin-blockchain/1464164342010728485-FFG8mqYXsAAAWxS.png" draggable="false">
   </div>
 </div>
 
@@ -48,7 +48,7 @@ Chaque bloc contient le hash (un "résumé" cryptographique) du bloc précédent
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/bitcoin-blockchain/1464164346280529953-FFG8-wnX0A8g8mT.jpg" draggable="false">
+  <img src="/images/blog/bitcoin-blockchain/1464164346280529953-FFG8-wnX0A8g8mT.jpg" draggable="false">
   </div>
 </div>
 
@@ -58,7 +58,7 @@ Pour éviter d'avoir des blocs trop petits et des évolutions dans tous les sens
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/bitcoin-blockchain/1464164352848810010-FFG9OihX0AE4ysU.png" draggable="false">
+  <img src="/images/blog/bitcoin-blockchain/1464164352848810010-FFG9OihX0AE4ysU.png" draggable="false">
   </div>
 </div>
 
@@ -70,7 +70,7 @@ Mais pourquoi les gens s'embêteraient-ils à dépenser du temps de calcul et de
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/bitcoin-blockchain/1464164360054583300-FFG9clgX0AQ5DcX.jpg" draggable="false">
+  <img src="/images/blog/bitcoin-blockchain/1464164360054583300-FFG9clgX0AQ5DcX.jpg" draggable="false">
   </div>
 </div>
 
@@ -82,7 +82,7 @@ Avoir plein d'ordinateurs (appelés mineurs) qui travaillent en parallèle sur l
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/bitcoin-blockchain/1464164367054917642-FFG9-YbXEAIdTpw.jpg" draggable="false">
+  <img src="/images/blog/bitcoin-blockchain/1464164367054917642-FFG9-YbXEAIdTpw.jpg" draggable="false">
   </div>
 </div>
 
@@ -94,7 +94,7 @@ Comme c'est toujours **la chaîne la plus longue qui fait foi**, l'alternative l
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/bitcoin-blockchain/1464164373354762256-FFG-SbSXEAACXbt.jpg" draggable="false">
+  <img src="/images/blog/bitcoin-blockchain/1464164373354762256-FFG-SbSXEAACXbt.jpg" draggable="false">
   </div>
 </div>
 
@@ -110,7 +110,7 @@ Une transaction est un message qui transmet une certaine quantité de fonds d'un
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/bitcoin-blockchain/1464164383651778592-FFG_a_hXoAQk4VI.jpg" draggable="false">
+  <img src="/images/blog/bitcoin-blockchain/1464164383651778592-FFG_a_hXoAQk4VI.jpg" draggable="false">
   </div>
 </div>
 
@@ -118,7 +118,7 @@ Dans chaque virement créé, l'émetteur inclut aussi **un pourboire** (les fees
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/bitcoin-blockchain/1464164388374564889-FFHAhTQX0AE_rNI.jpg" draggable="false">
+  <img src="/images/blog/bitcoin-blockchain/1464164388374564889-FFHAhTQX0AE_rNI.jpg" draggable="false">
   </div>
 </div>
 
@@ -132,7 +132,7 @@ Compression ultra efficace ? Non, **arbres de Merkle** !
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/bitcoin-blockchain/1464164396977082377-FFHAyziX0CIELKO.jpg" draggable="false">
+  <img src="/images/blog/bitcoin-blockchain/1464164396977082377-FFHAyziX0CIELKO.jpg" draggable="false">
   </div>
 </div>
 
@@ -140,7 +140,7 @@ Un arbre de Merkle est une structure optimisée pour calculer et vérifier un ha
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/bitcoin-blockchain/1464164401305600000-FFHA6FlXwAAl20F.jpg" draggable="false">
+  <img src="/images/blog/bitcoin-blockchain/1464164401305600000-FFHA6FlXwAAl20F.jpg" draggable="false">
   </div>
 </div>
 
@@ -148,7 +148,7 @@ Ensuite on calcule le hash de chaque paire de hashs, et on recommence l'opérati
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/bitcoin-blockchain/1464164405847941121-FFHBGpOWQAEC0UK.jpg" draggable="false">
+  <img src="/images/blog/bitcoin-blockchain/1464164405847941121-FFHBGpOWQAEC0UK.jpg" draggable="false">
   </div>
 </div>
 
@@ -164,7 +164,7 @@ Si la blockchain utilisait le hash de toutes les transactions du bloc qui était
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/bitcoin-blockchain/1464166067690000403-FFHCLk0X0BsGzhM.jpg" draggable="false">
+  <img src="/images/blog/bitcoin-blockchain/1464166067690000403-FFHCLk0X0BsGzhM.jpg" draggable="false">
   </div>
 </div>
 
@@ -174,7 +174,7 @@ Avec seulement ces 4 données, je peux prouver **de manière irréfutable** que 
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/bitcoin-blockchain/1464166071565496320-FFHCRylXoAAvHU0.jpg" draggable="false">
+  <img src="/images/blog/bitcoin-blockchain/1464166071565496320-FFHCRylXoAAvHU0.jpg" draggable="false">
   </div>
 </div>
 
@@ -201,7 +201,7 @@ Le principe est simple : après avoir payé une Ferrari en bitcoins, on reprend 
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/bitcoin-blockchain/1464166082642685952-FFHCmvPX0AcB1eN.jpg" draggable="false">
+  <img src="/images/blog/bitcoin-blockchain/1464166082642685952-FFHCmvPX0AcB1eN.jpg" draggable="false">
   </div>
 </div>
 
@@ -211,7 +211,7 @@ Et comme c'est la plus longue chaîne qui est reconnue, on peut réécrire l'his
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/bitcoin-blockchain/1464166086308515875-FFHCzZyXsAAblZl.png" draggable="false">
+  <img src="/images/blog/bitcoin-blockchain/1464166086308515875-FFHCzZyXsAAblZl.png" draggable="false">
   </div>
 </div>
 
@@ -219,7 +219,7 @@ Une autre famille d'attaques cool implique l'utilisation d'un **ordinateur quant
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/bitcoin-blockchain/1464166090582511644-FFHC3IFX0B4z5kt.jpg" draggable="false">
+  <img src="/images/blog/bitcoin-blockchain/1464166090582511644-FFHC3IFX0B4z5kt.jpg" draggable="false">
   </div>
 </div>
 
@@ -229,7 +229,7 @@ En utilisant l'**algorithme de Shor** sur un ordinateur quantique, il est possib
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/bitcoin-blockchain/1464166096597143582-FFHDG2sXEAIV_Si.jpg" draggable="false">
+  <img src="/images/blog/bitcoin-blockchain/1464166096597143582-FFHDG2sXEAIV_Si.jpg" draggable="false">
   </div>
 </div>
 

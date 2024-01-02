@@ -12,8 +12,8 @@ Dans ce thread, je vous livre les secrets qui m'ont permis de rejoindre tout en 
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/conseils-algo-cyber/1478009056187109380-FILaInTWQAIKdLo.png" draggable="false">
-  <img style="height:350px; object-fit:cover" src="/images/blog/conseils-algo-cyber/1478009056187109380-FILkc3WWUAAwaQ0.jpg" draggable="false">
+  <img src="/images/blog/conseils-algo-cyber/1478009056187109380-FILaInTWQAIKdLo.png" draggable="false">
+  <img src="/images/blog/conseils-algo-cyber/1478009056187109380-FILkc3WWUAAwaQ0.jpg" draggable="false">
   </div>
 </div>
 
@@ -23,7 +23,7 @@ Parfois ces conseils s'appliquent à des cas spécifiques, donc gardez juste ce 
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/conseils-algo-cyber/1478009062100983809-FILnhaXXIAUR-6A.png" draggable="false">
+  <img src="/images/blog/conseils-algo-cyber/1478009062100983809-FILnhaXXIAUR-6A.png" draggable="false">
   </div>
 </div>
 
@@ -39,7 +39,7 @@ Le plus important à mon avis est d'avoir un **esprit logique** : en algo avanc�
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/conseils-algo-cyber/1478009073262120967-FILoMrGXwAAgyc5.jpg" draggable="false">
+  <img src="/images/blog/conseils-algo-cyber/1478009073262120967-FILoMrGXwAAgyc5.jpg" draggable="false">
   </div>
 </div>
 
@@ -53,7 +53,7 @@ J'étais dans l'organisation de la finale en 2017 quand je bossais chez Google !
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/conseils-algo-cyber/1478009079159267328-FILqAguXoAUULHh.jpg" draggable="false">
+  <img src="/images/blog/conseils-algo-cyber/1478009079159267328-FILqAguXoAUULHh.jpg" draggable="false">
   </div>
 </div>
 
@@ -61,7 +61,7 @@ Autre géant de la tech qui s'intéresse au code compétitif, la **Facebook Hack
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/conseils-algo-cyber/1478009083433205766-FILqW1LXEAUsvQl.jpg" draggable="false">
+  <img src="/images/blog/conseils-algo-cyber/1478009083433205766-FILqW1LXEAUsvQl.jpg" draggable="false">
   </div>
 </div>
 
@@ -69,7 +69,7 @@ Pour les étudiants, il y a aussi le célèbre **SWERC** (souvent surnommé cham
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/conseils-algo-cyber/1478009091108876297-FILqq1DXEAA8lVK.png" draggable="false">
+  <img src="/images/blog/conseils-algo-cyber/1478009091108876297-FILqq1DXEAA8lVK.png" draggable="false">
   </div>
 </div>
 
@@ -79,7 +79,7 @@ Pour finir, le **Google Hash Code** (encore eux !) est un format spécial : au l
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/conseils-algo-cyber/1478009099501592576-FILrivdWUAAZRXG.png" draggable="false">
+  <img src="/images/blog/conseils-algo-cyber/1478009099501592576-FILrivdWUAAZRXG.png" draggable="false">
   </div>
 </div>
 
@@ -89,7 +89,7 @@ Pour finir, le **Google Hash Code** (encore eux !) est un format spécial : au l
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/conseils-algo-cyber/1478009105231101954-FILrzp9XIAcqu7F.jpg" draggable="false">
+  <img src="/images/blog/conseils-algo-cyber/1478009105231101954-FILrzp9XIAcqu7F.jpg" draggable="false">
   </div>
 </div>
 
@@ -103,7 +103,7 @@ Gros coup de coeur sur le mode **Clash of Code**, des duels en 15 minutes chrono
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/conseils-algo-cyber/1478009111925202946-FILsYcKWQAYZTv9.jpg" draggable="false">
+  <img src="/images/blog/conseils-algo-cyber/1478009111925202946-FILsYcKWQAYZTv9.jpg" draggable="false">
   </div>
 </div>
 
@@ -115,7 +115,7 @@ Des mini-compétitions très intéressantes plusieurs fois par semaine, et on pe
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/conseils-algo-cyber/1478009118048854016-FILsnG6WQAUALWx.jpg" draggable="false">
+  <img src="/images/blog/conseils-algo-cyber/1478009118048854016-FILsnG6WQAUALWx.jpg" draggable="false">
   </div>
 </div>
 
@@ -127,7 +127,7 @@ Les 100 premiers exos de l'archive sont assez sympa et permettent d'aborder plei
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/conseils-algo-cyber/1478009123572752389-FILs8JDXsAE4ACP.png" draggable="false">
+  <img src="/images/blog/conseils-algo-cyber/1478009123572752389-FILs8JDXsAE4ACP.png" draggable="false">
   </div>
 </div>
 
@@ -137,7 +137,7 @@ La plupart des annales des championnats du monde sont sur **Kattis**, un site tr
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/conseils-algo-cyber/1478009129562222603-FILta3VWQAoike1.jpg" draggable="false">
+  <img src="/images/blog/conseils-algo-cyber/1478009129562222603-FILta3VWQAoike1.jpg" draggable="false">
   </div>
 </div>
 
@@ -147,7 +147,7 @@ Un dernier pour la route : pour pratiquer le format particulier du Google Hash C
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/conseils-algo-cyber/1478009135610400770-FILtl15X0AEKZdJ.jpg" draggable="false">
+  <img src="/images/blog/conseils-algo-cyber/1478009135610400770-FILtl15X0AEKZdJ.jpg" draggable="false">
   </div>
 </div>
 
@@ -155,7 +155,7 @@ Un dernier pour la route : pour pratiquer le format particulier du Google Hash C
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/conseils-algo-cyber/1478009141042065408-FILt5cxWQAEQ7tJ.jpg" draggable="false">
+  <img src="/images/blog/conseils-algo-cyber/1478009141042065408-FILt5cxWQAEQ7tJ.jpg" draggable="false">
   </div>
 </div>
 
@@ -169,7 +169,7 @@ Il est généralement recommandé en fin de licence, et je pense que comme tout 
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/conseils-algo-cyber/1478009147098550283-FILuF1AX0AEKvlG.jpg" draggable="false">
+  <img src="/images/blog/conseils-algo-cyber/1478009147098550283-FILuF1AX0AEKvlG.jpg" draggable="false">
   </div>
 </div>
 
@@ -181,7 +181,7 @@ Mon coup de coeur ? Les "war stories" qui relatent des histoires vraies de l'aut
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/conseils-algo-cyber/1478009150596599816-FILuaorWYAQD9NK.jpg" draggable="false">
+  <img src="/images/blog/conseils-algo-cyber/1478009150596599816-FILuaorWYAQD9NK.jpg" draggable="false">
   </div>
 </div>
 
@@ -193,7 +193,7 @@ Je trouve que c'est une bonne alternative aux deux précédents si les livres é
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/conseils-algo-cyber/1478009156703502336-FILu3n7WQAcjHHF.png" draggable="false">
+  <img src="/images/blog/conseils-algo-cyber/1478009156703502336-FILu3n7WQAcjHHF.png" draggable="false">
   </div>
 </div>
 
@@ -209,7 +209,7 @@ Et si vous préparez des entretiens pour un poste de dev (notamment chez les GAF
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/conseils-algo-cyber/1478009169055780871-FILvxA0XwAEWikO.png" draggable="false">
+  <img src="/images/blog/conseils-algo-cyber/1478009169055780871-FILvxA0XwAEWikO.png" draggable="false">
   </div>
 </div>
 
@@ -217,7 +217,7 @@ Et si vous préparez des entretiens pour un poste de dev (notamment chez les GAF
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/conseils-algo-cyber/1478009178656583681-FILv4FdXsAUMayu.jpg" draggable="false">
+  <img src="/images/blog/conseils-algo-cyber/1478009178656583681-FILv4FdXsAUMayu.jpg" draggable="false">
   </div>
 </div>
 
@@ -227,7 +227,7 @@ Ici, pas question de pirater des sites ou des comptes réels : on a entre 10 et 
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/conseils-algo-cyber/1478009188341190660-FILwa9TXMAEwObo.jpg" draggable="false">
+  <img src="/images/blog/conseils-algo-cyber/1478009188341190660-FILwa9TXMAEwObo.jpg" draggable="false">
   </div>
 </div>
 
@@ -235,7 +235,7 @@ Contrairement aux challenges d'algo qui sont très individuels, la cyber se joue
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/conseils-algo-cyber/1478009194733314050-FILwkTaWUAIZgGu.png" draggable="false">
+  <img src="/images/blog/conseils-algo-cyber/1478009194733314050-FILwkTaWUAIZgGu.png" draggable="false">
   </div>
 </div>
 
@@ -245,7 +245,7 @@ Pour tout ce qui est CTF, le site de référence c'est **CTFtime** : vous avez l
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/conseils-algo-cyber/1478011056391962630-FILxrX_WQAQeiV1.png" draggable="false">
+  <img src="/images/blog/conseils-algo-cyber/1478011056391962630-FILxrX_WQAQeiV1.png" draggable="false">
   </div>
 </div>
 
@@ -262,7 +262,7 @@ Il y a plein d'events par chez nous, et on passe souvent des moments mémorables
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/conseils-algo-cyber/1478011062654017547-FILx2fzWUAE-QlL.png" draggable="false">
+  <img src="/images/blog/conseils-algo-cyber/1478011062654017547-FILx2fzWUAE-QlL.png" draggable="false">
   </div>
 </div>
 
@@ -276,7 +276,7 @@ Je suis pas très calé en plateformes de bug bounty, mais j'ai déjà testé Ye
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/conseils-algo-cyber/1478011072636506113-FILyJhqWUAErBqf.jpg" draggable="false">
+  <img src="/images/blog/conseils-algo-cyber/1478011072636506113-FILyJhqWUAErBqf.jpg" draggable="false">
   </div>
 </div>
 
@@ -284,7 +284,7 @@ Je suis pas très calé en plateformes de bug bounty, mais j'ai déjà testé Ye
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/conseils-algo-cyber/1478011078177181698-FILyPxuWUAAU4bo.jpg" draggable="false">
+  <img src="/images/blog/conseils-algo-cyber/1478011078177181698-FILyPxuWUAAU4bo.jpg" draggable="false">
   </div>
 </div>
 
@@ -296,7 +296,7 @@ La plateforme #1 de challenges cyber en France, c'est **Root Me**. Les épreuves
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/conseils-algo-cyber/1478011083654840320-FILyh5DXsAMQ6OA.jpg" draggable="false">
+  <img src="/images/blog/conseils-algo-cyber/1478011083654840320-FILyh5DXsAMQ6OA.jpg" draggable="false">
   </div>
 </div>
 
@@ -312,7 +312,7 @@ Et pour celles et ceux d'entre vous qui veulent découvrir des cas pratiques, vo
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/conseils-algo-cyber/1478011094782431233-FILy1lkXEAEvVIX.jpg" draggable="false">
+  <img src="/images/blog/conseils-algo-cyber/1478011094782431233-FILy1lkXEAEvVIX.jpg" draggable="false">
   </div>
 </div>
 
@@ -320,7 +320,7 @@ Et pour celles et ceux d'entre vous qui veulent découvrir des cas pratiques, vo
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/conseils-algo-cyber/1478011100369141761-FILy8gOXMAEFWgq.jpg" draggable="false">
+  <img src="/images/blog/conseils-algo-cyber/1478011100369141761-FILy8gOXMAEFWgq.jpg" draggable="false">
   </div>
 </div>
 
@@ -332,7 +332,7 @@ Pour les CTFs, foncez voir l'excellent travail de <a href="https://twitter.com/L
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/conseils-algo-cyber/1478011106018959360-FILzEyoWYAQl7xz.jpg" draggable="false">
+  <img src="/images/blog/conseils-algo-cyber/1478011106018959360-FILzEyoWYAQl7xz.jpg" draggable="false">
   </div>
 </div>
 
@@ -342,7 +342,7 @@ Si vous cherchez une bonne source de contenus cyber en français, tournez-vous v
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/conseils-algo-cyber/1478011112255799300-FILzNw1XIAY98Xn.jpg" draggable="false">
+  <img src="/images/blog/conseils-algo-cyber/1478011112255799300-FILzNw1XIAY98Xn.jpg" draggable="false">
   </div>
 </div>
 
@@ -350,7 +350,7 @@ Je vous parlais plus haut de CTFtime, le site qui centralise quasiment tous les 
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/conseils-algo-cyber/1478011539382841344-FILzj8nX0AYNHLD.jpg" draggable="false">
+  <img src="/images/blog/conseils-algo-cyber/1478011539382841344-FILzj8nX0AYNHLD.jpg" draggable="false">
   </div>
 </div>
 
@@ -358,7 +358,7 @@ Je vous parlais plus haut de CTFtime, le site qui centralise quasiment tous les 
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/conseils-algo-cyber/1478011545045147648-FILzp9aX0AEWuoK.png" draggable="false">
+  <img src="/images/blog/conseils-algo-cyber/1478011545045147648-FILzp9aX0AEWuoK.png" draggable="false">
   </div>
 </div>
 
@@ -376,7 +376,7 @@ Pas d'inquiétude s'il manque des spécialités dans l'équipe, ça vient assez 
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/conseils-algo-cyber/1478012231271034881-FILz9rEXMAUMXKm.png" draggable="false">
+  <img src="/images/blog/conseils-algo-cyber/1478012231271034881-FILz9rEXMAUMXKm.png" draggable="false">
   </div>
 </div>
 
@@ -401,7 +401,7 @@ Cybersécurité :
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/conseils-algo-cyber/1478012239814828038-FIL0M34WYAEpbi3.png" draggable="false">
+  <img src="/images/blog/conseils-algo-cyber/1478012239814828038-FIL0M34WYAEpbi3.png" draggable="false">
   </div>
 </div>
 

@@ -20,7 +20,7 @@ Pour calculer ce score, les chercheurs ont posé 500 questions à ChatGPT de typ
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/chatgpt-performance-maths/1682716031070896129-F1o1UBlWIAI1pUH.jpg" draggable="false">
+  <img src="/images/blog/chatgpt-performance-maths/1682716031070896129-F1o1UBlWIAI1pUH.jpg" draggable="false">
   </div>
 </div>
 
@@ -34,7 +34,7 @@ Pour son évaluation, l'article de Stanford se base sur un autre papier de reche
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/chatgpt-performance-maths/1682716040252252161-F1o1UiBXoAAPsPi.jpg" draggable="false">
+  <img src="/images/blog/chatgpt-performance-maths/1682716040252252161-F1o1UiBXoAAPsPi.jpg" draggable="false">
   </div>
 </div>
 
@@ -48,7 +48,7 @@ Il fait semblant de vérifier tous les diviseurs, puis affirme sans aucune hési
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/chatgpt-performance-maths/1682716049546833922-F1o1VD9XgAETLiC.jpg" draggable="false">
+  <img src="/images/blog/chatgpt-performance-maths/1682716049546833922-F1o1VD9XgAETLiC.jpg" draggable="false">
   </div>
 </div>
 
@@ -58,7 +58,7 @@ Ici, la conclusion est claire : **ChatGPT n'est pas devenu mauvais, il l'a toujo
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/chatgpt-performance-maths/1682716055804817409-F1o1Va7WYAAyx2b.jpg" draggable="false">
+  <img src="/images/blog/chatgpt-performance-maths/1682716055804817409-F1o1Va7WYAAyx2b.jpg" draggable="false">
   </div>
 </div>
 
@@ -66,7 +66,7 @@ Je trouve ça vraiment dommage que cette fausse information soit reprise massive
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/chatgpt-performance-maths/1682716063094431749-F1o1V06X0AEVPNv.jpg" draggable="false">
+  <img src="/images/blog/chatgpt-performance-maths/1682716063094431749-F1o1V06X0AEVPNv.jpg" draggable="false">
   </div>
 </div>
 

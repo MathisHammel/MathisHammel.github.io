@@ -18,7 +18,7 @@ La dernière fois qu'une faille critique a été découverte dans ce logiciel, c
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/faille-openssl/1587129371730612226-FgadNp4XEAMWLQ7.png" draggable="false">
+  <img src="/images/blog/faille-openssl/1587129371730612226-FgadNp4XEAMWLQ7.png" draggable="false">
   </div>
 </div>
 
@@ -28,8 +28,8 @@ L'attaque permettait à n'importe qui de récupérer très simplement des donné
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/faille-openssl/1587129377313230848-FgaWDlQXkAEbWfp.png" draggable="false">
-  <img style="height:350px; object-fit:cover" src="/images/blog/faille-openssl/1587129377313230848-FgaWHaeWAAEt-KD.png" draggable="false">
+  <img src="/images/blog/faille-openssl/1587129377313230848-FgaWDlQXkAEbWfp.png" draggable="false">
+  <img src="/images/blog/faille-openssl/1587129377313230848-FgaWHaeWAAEt-KD.png" draggable="false">
   </div>
 </div>
 
@@ -39,7 +39,7 @@ Mais tout laisse à penser qu'il ne faudra pas perdre de temps pour patcher 😅
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/faille-openssl/1587129381155213325-FgadVG1WQAI4Z7R.png" draggable="false">
+  <img src="/images/blog/faille-openssl/1587129381155213325-FgadVG1WQAI4Z7R.png" draggable="false">
   </div>
 </div>
 
@@ -57,7 +57,7 @@ En effet, une faille critique présente généralement ces aspects :
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/faille-openssl/1587129384854605824-Fgadc9eXEAAXxys.png" draggable="false">
+  <img src="/images/blog/faille-openssl/1587129384854605824-Fgadc9eXEAAXxys.png" draggable="false">
   </div>
 </div>
 
@@ -67,7 +67,7 @@ Alors on a quand même une bonne nouvelle : OpenSSL a annoncé que la version 3.
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/faille-openssl/1587129388562251777-FgadlDnWIAIDyo7.png" draggable="false">
+  <img src="/images/blog/faille-openssl/1587129388562251777-FgadlDnWIAIDyo7.png" draggable="false">
   </div>
 </div>
 

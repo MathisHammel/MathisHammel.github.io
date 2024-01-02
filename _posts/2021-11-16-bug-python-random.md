@@ -14,7 +14,7 @@ C'est un RNG (Random Number Generator) très rapide et qui offre une entropie de
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/bug-python-random/1460600999194812419-FEUW3OZWQAE7aWj.png" draggable="false">
+  <img src="/images/blog/bug-python-random/1460600999194812419-FEUW3OZWQAE7aWj.png" draggable="false">
   </div>
 </div>
 
@@ -22,7 +22,7 @@ Mais le MT19937 n'est pas sécurisé contre les attaques cryptographiques : comm
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/bug-python-random/1460601004538404871-FEUW9tFX0AE41QI.jpg" draggable="false">
+  <img src="/images/blog/bug-python-random/1460601004538404871-FEUW9tFX0AE41QI.jpg" draggable="false">
   </div>
 </div>
 
@@ -32,7 +32,7 @@ Cette vulnérabilité est bien connue, et c'est pour ça qu'il faut absolument u
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/bug-python-random/1460601011068968963-FEUXJXlXEAQMJmZ.jpg" draggable="false">
+  <img src="/images/blog/bug-python-random/1460601011068968963-FEUXJXlXEAQMJmZ.jpg" draggable="false">
   </div>
 </div>
 
@@ -42,7 +42,7 @@ En général, les challenges qui demandent une attaque sur Mersenne Twister on l
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/bug-python-random/1460601018283143178-FEUXQUzXEAAsIsI.jpg" draggable="false">
+  <img src="/images/blog/bug-python-random/1460601018283143178-FEUXQUzXEAAsIsI.jpg" draggable="false">
   </div>
 </div>
 
@@ -52,7 +52,7 @@ Par exemple, saviez-vous que pour mélanger de manière parfaitement uniforme un
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/bug-python-random/1460601025061081088-FEUXaxzXsAscEPn.jpg" draggable="false">
+  <img src="/images/blog/bug-python-random/1460601025061081088-FEUXaxzXsAscEPn.jpg" draggable="false">
   </div>
 </div>
 
@@ -76,7 +76,7 @@ Pour comprendre comment fonctionne randbelow, il faut d'abord que je vous parle 
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/bug-python-random/1460601038885560333-FEUXqjxWUAkks83.jpg" draggable="false">
+  <img src="/images/blog/bug-python-random/1460601038885560333-FEUXqjxWUAkks83.jpg" draggable="false">
   </div>
 </div>
 
@@ -84,7 +84,7 @@ On peut par exemple choisir une coordonnée x aléatoire entre -1 et 1 puis une 
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/bug-python-random/1460601043620962312-FEUXv5iXMAYtVTu.jpg" draggable="false">
+  <img src="/images/blog/bug-python-random/1460601043620962312-FEUXv5iXMAYtVTu.jpg" draggable="false">
   </div>
 </div>
 
@@ -92,7 +92,7 @@ Cependant, on va rencontrer un problème : on a ici autant de chances de tomber 
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/bug-python-random/1460601048029011977-FEUXz54XoAgKBvc.jpg" draggable="false">
+  <img src="/images/blog/bug-python-random/1460601048029011977-FEUXz54XoAgKBvc.jpg" draggable="false">
   </div>
 </div>
 
@@ -100,7 +100,7 @@ La méthode par rejet permet quant à elle de faire des tirages aléatoires comp
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/bug-python-random/1460601053083316224-FEUYBDvXIAM1i9a.png" draggable="false">
+  <img src="/images/blog/bug-python-random/1460601053083316224-FEUYBDvXIAM1i9a.png" draggable="false">
   </div>
 </div>
 
@@ -110,7 +110,7 @@ Si c'est le cas, on a notre point aléatoire sur le disque, et sinon on recommen
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/bug-python-random/1460601058061950983-FEUYCq5XoAMIqTj.jpg" draggable="false">
+  <img src="/images/blog/bug-python-random/1460601058061950983-FEUYCq5XoAMIqTj.jpg" draggable="false">
   </div>
 </div>
 
@@ -124,7 +124,7 @@ Pour assurer un tirage le plus uniforme possible, **Python va ainsi utiliser la 
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/bug-python-random/1460601069088743433-FEUYSoRWQAQRZuE.jpg" draggable="false">
+  <img src="/images/blog/bug-python-random/1460601069088743433-FEUYSoRWQAQRZuE.jpg" draggable="false">
   </div>
 </div>
 
@@ -136,7 +136,7 @@ Pour calculer le nombre de bits à tirer aléatoirement, on va appeler la foncti
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/bug-python-random/1460601077959643139-FEUYhC_XEAMf_TA.jpg" draggable="false">
+  <img src="/images/blog/bug-python-random/1460601077959643139-FEUYhC_XEAMf_TA.jpg" draggable="false">
   </div>
 </div>
 
@@ -146,7 +146,7 @@ Comme pour tout projet titanesque, la procédure est assez lourde : il faut cré
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/bug-python-random/1460601744510132225-FEUZD13XsAY1wrV.png" draggable="false">
+  <img src="/images/blog/bug-python-random/1460601744510132225-FEUZD13XsAY1wrV.png" draggable="false">
   </div>
 </div>
 
@@ -156,7 +156,7 @@ Mais petit souci : y a des dizaines de tests unitaires qui ne passent pas !
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/bug-python-random/1460601748368809989-FEUZKrlXwAQNIV2.jpg" draggable="false">
+  <img src="/images/blog/bug-python-random/1460601748368809989-FEUZKrlXwAQNIV2.jpg" draggable="false">
   </div>
 </div>
 
@@ -164,7 +164,7 @@ En effet, le module random de Python doit respecter la **reproductibilité** : p
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/bug-python-random/1460601752596717576-FEUZOMUXoAcdwcA.png" draggable="false">
+  <img src="/images/blog/bug-python-random/1460601752596717576-FEUZOMUXoAcdwcA.png" draggable="false">
   </div>
 </div>
 

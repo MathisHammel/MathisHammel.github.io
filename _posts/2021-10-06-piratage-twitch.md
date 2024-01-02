@@ -12,7 +12,7 @@ Aujourd'hui, Twitch s'est fait pirater et une grande partie de ses fichiers sont
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/piratage-twitch/1445802873087041538-FBBlzEbVgBIViSo.jpg" draggable="false">
+  <img src="/images/blog/piratage-twitch/1445802873087041538-FBBlzEbVgBIViSo.jpg" draggable="false">
   </div>
 </div>
 
@@ -26,7 +26,7 @@ La méthode la plus simple est de stocker directement le mot de passe de l'utili
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/piratage-twitch/1445802878807908364-FBBmjyEVEBAJmFm.jpg" draggable="false">
+  <img src="/images/blog/piratage-twitch/1445802878807908364-FBBmjyEVEBAJmFm.jpg" draggable="false">
   </div>
 </div>
 
@@ -38,7 +38,7 @@ Pour authentifier un utilisateur, c'est tout simple : on récupère en base de d
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/piratage-twitch/1445802884684263426-FBBn7sJUUAcaMKO.jpg" draggable="false">
+  <img src="/images/blog/piratage-twitch/1445802884684263426-FBBn7sJUUAcaMKO.jpg" draggable="false">
   </div>
 </div>
 
@@ -50,7 +50,7 @@ En plus, si vous utilisez ce mdp sur un autre site (email, banque, etc.), l'atta
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/piratage-twitch/1445802890296127489-FBBtejWVQAgyXky.png" draggable="false">
+  <img src="/images/blog/piratage-twitch/1445802890296127489-FBBtejWVQAgyXky.png" draggable="false">
   </div>
 </div>
 
@@ -64,7 +64,7 @@ Une même donnée en entrée donnera toujours le même hash en sortie. Ici, quel
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/piratage-twitch/1445802896851750921-FBBxRaOWQAAc_W0.png" draggable="false">
+  <img src="/images/blog/piratage-twitch/1445802896851750921-FBBxRaOWQAAc_W0.png" draggable="false">
   </div>
 </div>
 
@@ -72,7 +72,7 @@ Une propriété de certains algos de hachage dits "cryptographiques" est que cet
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/piratage-twitch/1445802901457104901-FBB_pMBWUAAuujT.jpg" draggable="false">
+  <img src="/images/blog/piratage-twitch/1445802901457104901-FBB_pMBWUAAuujT.jpg" draggable="false">
   </div>
 </div>
 
@@ -82,7 +82,7 @@ Le mot de passe en clair ne figure jamais dans les bases de données, on le subs
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/piratage-twitch/1445802905840148491-FBBzeU2VIA0nygM.jpg" draggable="false">
+  <img src="/images/blog/piratage-twitch/1445802905840148491-FBBzeU2VIA0nygM.jpg" draggable="false">
   </div>
 </div>
 
@@ -90,7 +90,7 @@ Quand un utilisateur souhaite s'authentifier, il fournit son mot de passe en cla
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/piratage-twitch/1445802912282648585-FBB083vVUAcA5Fi.jpg" draggable="false">
+  <img src="/images/blog/piratage-twitch/1445802912282648585-FBB083vVUAcA5Fi.jpg" draggable="false">
   </div>
 </div>
 
@@ -102,7 +102,7 @@ Ces rainbow tables sont basées sur des **mots de passe faibles**, et parfois de
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/piratage-twitch/1445802920331526162-FBB4iBMXMAI1zao.png" draggable="false">
+  <img src="/images/blog/piratage-twitch/1445802920331526162-FBB4iBMXMAI1zao.png" draggable="false">
   </div>
 </div>
 
@@ -121,7 +121,7 @@ Dans le cas de Twitch, il semblerait que les attaquants aient eu accès à l'int
 
 <div class="gallery-box">
   <div class="gallery">
-<video style="height:350px; object-fit:cover" autoplay loop>  <source src="/images/blog/piratage-twitch/1445802944402702336-FBCGGx-UYAsopj5.mp4" type="video/mp4"></video>  </div>
+<video autoplay loop>  <source src="/images/blog/piratage-twitch/1445802944402702336-FBCGGx-UYAsopj5.mp4" type="video/mp4"></video>  </div>
 </div>
 
 Souvenez-vous du schéma d'authentification : le serveur reçoit toujours le mot de passe **en clair**, c'est très rare que le hachage se fasse côté utilisateur.
@@ -130,7 +130,7 @@ Il suffit donc à l'attaquant d'installer une backdoor bien placée pour interce
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/piratage-twitch/1445802949133967364-FBB8Y-PXsAIcjEV.jpg" draggable="false">
+  <img src="/images/blog/piratage-twitch/1445802949133967364-FBB8Y-PXsAIcjEV.jpg" draggable="false">
   </div>
 </div>
 
@@ -147,7 +147,7 @@ Utilisez un mot de passe FORT et UNIQUE sur chaque site, pour limiter les fuites
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/piratage-twitch/1445802960517095425-FBCBOiuUcAII_8o.jpg" draggable="false">
+  <img src="/images/blog/piratage-twitch/1445802960517095425-FBCBOiuUcAII_8o.jpg" draggable="false">
   </div>
 </div>
 

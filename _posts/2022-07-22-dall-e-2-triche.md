@@ -12,7 +12,7 @@ Dans ce thread, on va parler des biais algorithmiques dans l'intelligence artifi
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/dall-e-2-triche/1550426475794501632-FYQy4suWYAAN8CF.jpg" draggable="false">
+  <img src="/images/blog/dall-e-2-triche/1550426475794501632-FYQy4suWYAAN8CF.jpg" draggable="false">
   </div>
 </div>
 
@@ -22,7 +22,7 @@ Quelques exemples :
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/dall-e-2-triche/1550426483570753537-FYQzAq5XoAA98Xc.jpg" draggable="false">
+  <img src="/images/blog/dall-e-2-triche/1550426483570753537-FYQzAq5XoAA98Xc.jpg" draggable="false">
   </div>
 </div>
 
@@ -36,7 +36,7 @@ Ils apparaissent généralement au cours d'un processus d'apprentissage automati
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/dall-e-2-triche/1550426491929993216-FYQz3HAWYAIqO1Z.jpg" draggable="false">
+  <img src="/images/blog/dall-e-2-triche/1550426491929993216-FYQz3HAWYAIqO1Z.jpg" draggable="false">
   </div>
 </div>
 
@@ -50,7 +50,7 @@ Supposons que vous vouliez ouvrir un restaurant dans votre ville : si votre étu
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/dall-e-2-triche/1550426503489413126-FYQ0s12WYAMDl8q.jpg" draggable="false">
+  <img src="/images/blog/dall-e-2-triche/1550426503489413126-FYQ0s12WYAMDl8q.jpg" draggable="false">
   </div>
 </div>
 
@@ -60,7 +60,7 @@ En 2015, l'IA de Google Photos chargée de catégoriser chaque prise de vue a mi
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/dall-e-2-triche/1550426509290217473-FYQ01IpXgAAtpfa.png" draggable="false">
+  <img src="/images/blog/dall-e-2-triche/1550426509290217473-FYQ01IpXgAAtpfa.png" draggable="false">
   </div>
 </div>
 
@@ -70,7 +70,7 @@ Avec une probable **sous-représentation de personnes noires** dans le dataset d
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/dall-e-2-triche/1550426514281312257-FYQ1pCIXoAAw426.png" draggable="false">
+  <img src="/images/blog/dall-e-2-triche/1550426514281312257-FYQ1pCIXoAAw426.png" draggable="false">
   </div>
 </div>
 
@@ -78,7 +78,7 @@ On se souviendra aussi de **Tay**, l'intelligence artificielle créée par Micro
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/dall-e-2-triche/1550426518416932866-FYQ1W9dXoAAmkjK.jpg" draggable="false">
+  <img src="/images/blog/dall-e-2-triche/1550426518416932866-FYQ1W9dXoAAmkjK.jpg" draggable="false">
   </div>
 </div>
 
@@ -94,7 +94,7 @@ En passant de l'anglais au français, on force l'algorithme à faire un choix po
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/dall-e-2-triche/1550426525438197761-FYQ18wNWQAAHYRh.jpg" draggable="false">
+  <img src="/images/blog/dall-e-2-triche/1550426525438197761-FYQ18wNWQAAHYRh.jpg" draggable="false">
   </div>
 </div>
 
@@ -106,7 +106,7 @@ Ici, la problématique n'est pas uniquement technologique, on entre dans un **d�
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/dall-e-2-triche/1550426529624215552-FYQ2q1NXgAE1maL.jpg" draggable="false">
+  <img src="/images/blog/dall-e-2-triche/1550426529624215552-FYQ2q1NXgAE1maL.jpg" draggable="false">
   </div>
 </div>
 
@@ -122,7 +122,7 @@ Pendant la version alpha de DALL·E, l'entreprise a tout fait pour protéger ses
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/dall-e-2-triche/1550426542936887297-FYQ3hmYWAAAnrA-.jpg" draggable="false">
+  <img src="/images/blog/dall-e-2-triche/1550426542936887297-FYQ3hmYWAAAnrA-.jpg" draggable="false">
   </div>
 </div>
 
@@ -132,7 +132,7 @@ La plupart des images contenant des humains représentaient des personnes **blan
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/dall-e-2-triche/1550426549010186242-FYQ3tAKXwAIIiZn.jpg" draggable="false">
+  <img src="/images/blog/dall-e-2-triche/1550426549010186242-FYQ3tAKXwAIIiZn.jpg" draggable="false">
   </div>
 </div>
 
@@ -142,7 +142,7 @@ Aucun détail fourni, mais de belles images pour montrer l'avant/après.
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/dall-e-2-triche/1550426554483761160-FYQ39PoXkAEWMJK.jpg" draggable="false">
+  <img src="/images/blog/dall-e-2-triche/1550426554483761160-FYQ39PoXkAEWMJK.jpg" draggable="false">
   </div>
 </div>
 
@@ -156,7 +156,7 @@ La plupart du temps, les images générées ont un texte incompréhensible car D
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/dall-e-2-triche/1550426564663431168-FYQ4P5vWIAEBW6m.jpg" draggable="false">
+  <img src="/images/blog/dall-e-2-triche/1550426564663431168-FYQ4P5vWIAEBW6m.jpg" draggable="false">
   </div>
 </div>
 
@@ -164,7 +164,7 @@ Mais de temps en temps, quand OpenAI choisit aléatoirement d'ajouter un mot à 
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/dall-e-2-triche/1550426570401226753-FYQ4cZTWIAgHUPk.jpg" draggable="false">
+  <img src="/images/blog/dall-e-2-triche/1550426570401226753-FYQ4cZTWIAgHUPk.jpg" draggable="false">
   </div>
 </div>
 
@@ -176,7 +176,7 @@ Pire, dans certaines situations le biais se retrouve amplifié à cause de ces a
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/dall-e-2-triche/1550427880114589696-FYQ5J6BWQAAzHVc.png" draggable="false">
+  <img src="/images/blog/dall-e-2-triche/1550427880114589696-FYQ5J6BWQAAzHVc.png" draggable="false">
   </div>
 </div>
 
@@ -186,7 +186,7 @@ Dans ce test, vous devez classer rapidement des mots dans deux catégories : art
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/dall-e-2-triche/1550427887383224323-FYQ5UYxXkAEnyxS.jpg" draggable="false">
+  <img src="/images/blog/dall-e-2-triche/1550427887383224323-FYQ5UYxXkAEnyxS.jpg" draggable="false">
   </div>
 </div>
 
@@ -194,7 +194,7 @@ Et ensuite, on mélange les catégories ! D'un côté masculin + art, de l'autre
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/dall-e-2-triche/1550427892580061184-FYQ5cFtXwAEeO6M.jpg" draggable="false">
+  <img src="/images/blog/dall-e-2-triche/1550427892580061184-FYQ5cFtXwAEeO6M.jpg" draggable="false">
   </div>
 </div>
 
@@ -210,7 +210,7 @@ Alors, ça calme hein ?
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/dall-e-2-triche/1550427899332804608-FYQ5rgPWQAcU2L4.png" draggable="false">
+  <img src="/images/blog/dall-e-2-triche/1550427899332804608-FYQ5rgPWQAcU2L4.png" draggable="false">
   </div>
 </div>
 

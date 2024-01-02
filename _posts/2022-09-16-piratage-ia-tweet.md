@@ -16,7 +16,7 @@ L'IA en question est le célèbre GPT-3, développé par la société OpenAI (qu
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/piratage-ia-tweet/1570803945655906312-FcyX6olXwAMb1ah.jpg" draggable="false">
+  <img src="/images/blog/piratage-ia-tweet/1570803945655906312-FcyX6olXwAMb1ah.jpg" draggable="false">
   </div>
 </div>
 
@@ -26,7 +26,7 @@ Pour enseigner à GPT-3 la manière répondre, on va lui donner plusieurs exempl
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/piratage-ia-tweet/1570803951032999937-FcyM9fKXoAE2XW-.jpg" draggable="false">
+  <img src="/images/blog/piratage-ia-tweet/1570803951032999937-FcyM9fKXoAE2XW-.jpg" draggable="false">
   </div>
 </div>
 
@@ -36,7 +36,7 @@ Par exemple sur cette requête, GPT-3 nous dira "La réponse est xxx" (je vous l
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/piratage-ia-tweet/1570803956254912515-FcyOfYFXgAACWni.jpg" draggable="false">
+  <img src="/images/blog/piratage-ia-tweet/1570803956254912515-FcyOfYFXgAACWni.jpg" draggable="false">
   </div>
 </div>
 
@@ -44,7 +44,7 @@ Au passage, ce réseau de neurones est archi puissant : en lui donnant seulement
 
 <div class="gallery-box">
   <div class="gallery">
-<video style="height:350px; object-fit:cover" controls>  <source src="/images/blog/piratage-ia-tweet/1570803986403557376-wVhngSSBQoF4FDZI.mp4" type="video/mp4"></video>  </div>
+<video controls>  <source src="/images/blog/piratage-ia-tweet/1570803986403557376-wVhngSSBQoF4FDZI.mp4" type="video/mp4"></video>  </div>
 </div>
 
 Cependant, cet apprentissage peut être **détourné** si la dernière question est contrôlée par l'utilisateur.
@@ -53,7 +53,7 @@ Prenons un exemple où GPT-3 serait intégré à une interface où n'importe qui
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/piratage-ia-tweet/1570803992221061120-FcyRiUdXEAABRPo.jpg" draggable="false">
+  <img src="/images/blog/piratage-ia-tweet/1570803992221061120-FcyRiUdXEAABRPo.jpg" draggable="false">
   </div>
 </div>
 
@@ -65,7 +65,7 @@ Et l'utilisateur peut donc exploiter cette vulnérabilité en envoyant un faux e
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/piratage-ia-tweet/1570803999242358786-FcyVEVdXgAE9fP7.jpg" draggable="false">
+  <img src="/images/blog/piratage-ia-tweet/1570803999242358786-FcyVEVdXgAE9fP7.jpg" draggable="false">
   </div>
 </div>
 
@@ -75,7 +75,7 @@ Il n'aura donc fallu que 3 jours pour que certains petits malins de Twitter ne t
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/piratage-ia-tweet/1570804005101772806-FcyZDiWWAAUVMTn.jpg" draggable="false">
+  <img src="/images/blog/piratage-ia-tweet/1570804005101772806-FcyZDiWWAAUVMTn.jpg" draggable="false">
   </div>
 </div>
 

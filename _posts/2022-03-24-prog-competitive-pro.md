@@ -12,7 +12,7 @@ Je vous explique.
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/prog-competitive-pro/1507015516354846736-FOn-oBPUYBIbqev.jpg" draggable="false">
+  <img src="/images/blog/prog-competitive-pro/1507015516354846736-FOn-oBPUYBIbqev.jpg" draggable="false">
   </div>
 </div>
 
@@ -22,7 +22,7 @@ Pour chaque exo, le code est évalué sur un ensemble de tests cachés qui véri
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/prog-competitive-pro/1507015523413868559-FOn-oaxVsBcOyT8.jpg" draggable="false">
+  <img src="/images/blog/prog-competitive-pro/1507015523413868559-FOn-oaxVsBcOyT8.jpg" draggable="false">
   </div>
 </div>
 
@@ -30,7 +30,7 @@ Une fois que tous les tests sont au vert, on archive son code source dans un dos
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/prog-competitive-pro/1507015530409910272-FOn-oz5VcBY1bt-.png" draggable="false">
+  <img src="/images/blog/prog-competitive-pro/1507015530409910272-FOn-oz5VcBY1bt-.png" draggable="false">
   </div>
 </div>
 
@@ -38,7 +38,7 @@ Mais les attentes du monde de l'entreprise sont largement différentes : un proj
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/prog-competitive-pro/1507015542149812225-FOn-pdLVsAAb2Wi.jpg" draggable="false">
+  <img src="/images/blog/prog-competitive-pro/1507015542149812225-FOn-pdLVsAAb2Wi.jpg" draggable="false">
   </div>
 </div>
 
@@ -64,8 +64,8 @@ Prenons par exemple le problème où on cherche dans une liste de nombres le k-i
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/prog-competitive-pro/1507015558771793933-FOn-qODVsAoNaIv.jpg" draggable="false">
-  <img style="height:350px; object-fit:cover" src="/images/blog/prog-competitive-pro/1507015558771793933-FOn-qdUVcAE9CdD.jpg" draggable="false">
+  <img src="/images/blog/prog-competitive-pro/1507015558771793933-FOn-qODVsAoNaIv.jpg" draggable="false">
+  <img src="/images/blog/prog-competitive-pro/1507015558771793933-FOn-qdUVcAE9CdD.jpg" draggable="false">
   </div>
 </div>
 
@@ -75,7 +75,7 @@ En compétition de code on peut facilement trouver une utilité à cet algo, mai
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/prog-competitive-pro/1507015568003526677-FOn-rBjVkA4g1Rn.jpg" draggable="false">
+  <img src="/images/blog/prog-competitive-pro/1507015568003526677-FOn-rBjVkA4g1Rn.jpg" draggable="false">
   </div>
 </div>
 
@@ -83,7 +83,7 @@ Donc oui, quand on identifie au travail un problème qui a une solution optimale
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/prog-competitive-pro/1507015575859449857-FOn-rb-VUAgKphD.jpg" draggable="false">
+  <img src="/images/blog/prog-competitive-pro/1507015575859449857-FOn-rb-VUAgKphD.jpg" draggable="false">
   </div>
 </div>
 
@@ -97,7 +97,7 @@ Mais il y a aussi des avantages réels :
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/prog-competitive-pro/1507015589256065033-FOn-sJ1VEA835x7.jpg" draggable="false">
+  <img src="/images/blog/prog-competitive-pro/1507015589256065033-FOn-sJ1VEA835x7.jpg" draggable="false">
   </div>
 </div>
 
@@ -105,7 +105,7 @@ Mais il y a aussi des avantages réels :
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/prog-competitive-pro/1507015596017274897-FOn-spHVIA4Ujkl.jpg" draggable="false">
+  <img src="/images/blog/prog-competitive-pro/1507015596017274897-FOn-spHVIA4Ujkl.jpg" draggable="false">
   </div>
 </div>
 
@@ -115,7 +115,7 @@ Et dans ces 3% de cas, c'est très pratique d'avoir des bases en algo. Quand on 
 
 <div class="gallery-box">
   <div class="gallery">
-<video style="height:350px; object-fit:cover" autoplay loop>  <source src="/images/blog/prog-competitive-pro/1507015614497390597-FOn-s-iVQAkElaG.mp4" type="video/mp4"></video>  </div>
+<video autoplay loop>  <source src="/images/blog/prog-competitive-pro/1507015614497390597-FOn-s-iVQAkElaG.mp4" type="video/mp4"></video>  </div>
 </div>
 
 Pour conclure : à quelques exceptions près (recherche, hardware, low-level, ...) l'algorithmique de performance devrait donc vous servir d'**arme secrète** plutôt que d'outil principal de travail.
@@ -124,8 +124,8 @@ N'oubliez pas : quand on a un marteau, tous les problèmes ressemblent à des cl
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/prog-competitive-pro/1507015627499737096-FOn-uUmUcAIx_-6.jpg" draggable="false">
-  <img style="height:350px; object-fit:cover" src="/images/blog/prog-competitive-pro/1507015627499737096-FOn-ufqVUAIKfPp.jpg" draggable="false">
+  <img src="/images/blog/prog-competitive-pro/1507015627499737096-FOn-uUmUcAIx_-6.jpg" draggable="false">
+  <img src="/images/blog/prog-competitive-pro/1507015627499737096-FOn-ufqVUAIKfPp.jpg" draggable="false">
   </div>
 </div>
 

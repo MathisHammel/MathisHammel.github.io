@@ -12,7 +12,7 @@ Mini-article pour vous expliquer la faille la plus importante de 2021.
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/log4shell-explications/1469719525671194626-FGVVMggWYAY81Mw.jpg" draggable="false">
+  <img src="/images/blog/log4shell-explications/1469719525671194626-FGVVMggWYAY81Mw.jpg" draggable="false">
   </div>
 </div>
 
@@ -26,7 +26,7 @@ On peut voir ici la vulnérabilité déclenchée sur la page de login Twitter :
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/log4shell-explications/1469719531820093450-FGVw9U5XwAMTaaN.png" draggable="false">
+  <img src="/images/blog/log4shell-explications/1469719531820093450-FGVw9U5XwAMTaaN.png" draggable="false">
   </div>
 </div>
 
@@ -38,7 +38,7 @@ Si vous utilisez Log4j en production (spoiler alert : c'est probablement le cas 
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/log4shell-explications/1469719537922846732-FGV2PgyWYAIM3Ey.png" draggable="false">
+  <img src="/images/blog/log4shell-explications/1469719537922846732-FGV2PgyWYAIM3Ey.png" draggable="false">
   </div>
 </div>
 
@@ -48,7 +48,7 @@ Heureusement, il est facile de se protéger, je vous fais une petite liste.
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/log4shell-explications/1469719540095406083-FGV4bzoXwAkcFDl.jpg" draggable="false">
+  <img src="/images/blog/log4shell-explications/1469719540095406083-FGV4bzoXwAkcFDl.jpg" draggable="false">
   </div>
 </div>
 
@@ -62,7 +62,7 @@ Précision : utiliser une JRE à jour ne suffit pas pour être protégé, seulem
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/log4shell-explications/1469732334324879364-FGWJxDfX0AYlK3x.jpg" draggable="false">
+  <img src="/images/blog/log4shell-explications/1469732334324879364-FGWJxDfX0AYlK3x.jpg" draggable="false">
   </div>
 </div>
 

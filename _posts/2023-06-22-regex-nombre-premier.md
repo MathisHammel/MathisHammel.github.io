@@ -20,7 +20,7 @@ Commençons par un exemple plus simple :
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/regex-nombre-premier/1671913145487556610-FzPS5umWIAIGzyl.jpg" draggable="false">
+  <img src="/images/blog/regex-nombre-premier/1671913145487556610-FzPS5umWIAIGzyl.jpg" draggable="false">
   </div>
 </div>
 
@@ -32,7 +32,7 @@ La sous-partie en jaune ci-dessous nous indique qu'il faut chercher un motif de 
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/regex-nombre-premier/1671913148943679493-FzPTAwNWcFEpnzb.jpg" draggable="false">
+  <img src="/images/blog/regex-nombre-premier/1671913148943679493-FzPTAwNWcFEpnzb.jpg" draggable="false">
   </div>
 </div>
 
@@ -40,7 +40,7 @@ En mettant ce groupe entre parenthèses et en ajoutant un {5} à la suite, ça i
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/regex-nombre-premier/1671913153016352776-FzO99BkaEA0iZ78.jpg" draggable="false">
+  <img src="/images/blog/regex-nombre-premier/1671913153016352776-FzO99BkaEA0iZ78.jpg" draggable="false">
   </div>
 </div>
 
@@ -56,7 +56,7 @@ On a donc créé un vérificateur de numéros de téléphone !
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/regex-nombre-premier/1671913159228104705-FzPEYkWakAkHTGx.jpg" draggable="false">
+  <img src="/images/blog/regex-nombre-premier/1671913159228104705-FzPEYkWakAkHTGx.jpg" draggable="false">
   </div>
 </div>
 
@@ -66,7 +66,7 @@ Ici encore, on va la découper en sous-parties pour y voir plus clair.
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/regex-nombre-premier/1671913163393040390-FzPEe6eaEAAAGnt.jpg" draggable="false">
+  <img src="/images/blog/regex-nombre-premier/1671913163393040390-FzPEe6eaEAAAGnt.jpg" draggable="false">
   </div>
 </div>
 
@@ -76,7 +76,7 @@ Pour savoir si 12 est un nombre premier (spoiler : non), il faudra donc exécute
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/regex-nombre-premier/1671913181189484545-FzPFDLAaUAErCIN.jpg" draggable="false">
+  <img src="/images/blog/regex-nombre-premier/1671913181189484545-FzPFDLAaUAErCIN.jpg" draggable="false">
   </div>
 </div>
 
@@ -84,7 +84,7 @@ Ici, on a deux motifs séparés par un caractère `|` qui indique que notre text
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/regex-nombre-premier/1671913196964179972-FzPG58maUAE4uq0.jpg" draggable="false">
+  <img src="/images/blog/regex-nombre-premier/1671913196964179972-FzPG58maUAE4uq0.jpg" draggable="false">
   </div>
 </div>
 
@@ -98,7 +98,7 @@ En gros, on va matcher uniquement si le texte est une chaîne vide (N=0) ou un s
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/regex-nombre-premier/1671913200793649155-FzPIViIakAE4H_d.jpg" draggable="false">
+  <img src="/images/blog/regex-nombre-premier/1671913200793649155-FzPIViIakAE4H_d.jpg" draggable="false">
   </div>
 </div>
 
@@ -110,7 +110,7 @@ La partie ci-dessous indique qu'on cherche un 1 suivi d'au moins un autre 1 (don
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/regex-nombre-premier/1671913229243621378-FzPJ8OhaMAAld_n.jpg" draggable="false">
+  <img src="/images/blog/regex-nombre-premier/1671913229243621378-FzPJ8OhaMAAld_n.jpg" draggable="false">
   </div>
 </div>
 
@@ -120,7 +120,7 @@ Pour finir, on a \1+ : au moins une répétition du premier **groupe capturé**.
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/regex-nombre-premier/1671913247568543747-FzPLIC5aQAAC85a.jpg" draggable="false">
+  <img src="/images/blog/regex-nombre-premier/1671913247568543747-FzPLIC5aQAAC85a.jpg" draggable="false">
   </div>
 </div>
 
@@ -130,7 +130,7 @@ Le motif de droite nous indique donc qu'il faut un motif d'au moins 2 caractère
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/regex-nombre-premier/1671913251309846530-FzPPBqyagAAj7Y_.jpg" draggable="false">
+  <img src="/images/blog/regex-nombre-premier/1671913251309846530-FzPPBqyagAAj7Y_.jpg" draggable="false">
   </div>
 </div>
 
@@ -140,7 +140,7 @@ Pour conclure, les seuls nombres validés par notre expression régulière sont 
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/regex-nombre-premier/1671913269022408705-FzPUP49XwBQ65PU.jpg" draggable="false">
+  <img src="/images/blog/regex-nombre-premier/1671913269022408705-FzPUP49XwBQ65PU.jpg" draggable="false">
   </div>
 </div>
 
@@ -153,7 +153,7 @@ Quelques ressources complémentaires :
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/regex-nombre-premier/1671915949602099200-FzPWn6pWIAUmWi6.png" draggable="false">
+  <img src="/images/blog/regex-nombre-premier/1671915949602099200-FzPWn6pWIAUmWi6.png" draggable="false">
   </div>
 </div>
 

@@ -12,7 +12,7 @@ Attention, c'est pas beau à voir.
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/manipulation-politique-zemmour/1512490147635474434-FP1v-fKX0AQMsVp.jpg" draggable="false">
+  <img src="/images/blog/manipulation-politique-zemmour/1512490147635474434-FP1v-fKX0AQMsVp.jpg" draggable="false">
   </div>
 </div>
 
@@ -24,7 +24,7 @@ Cette affiliation semble être **volontairement dissimulée**, que ce soit dans 
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/manipulation-politique-zemmour/1512490151980769280-FP1TnIEXEAgVDLi.jpg" draggable="false">
+  <img src="/images/blog/manipulation-politique-zemmour/1512490151980769280-FP1TnIEXEAgVDLi.jpg" draggable="false">
   </div>
 </div>
 
@@ -50,7 +50,7 @@ On imagine bien que c'est **malhonnête et biaisé**, mais là vous êtes pas pr
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/manipulation-politique-zemmour/1512490161183109125-FP1w8MtWQAkYJ1p.png" draggable="false">
+  <img src="/images/blog/manipulation-politique-zemmour/1512490161183109125-FP1w8MtWQAkYJ1p.png" draggable="false">
   </div>
 </div>
 
@@ -58,7 +58,7 @@ Le site est construit de manière très simple, ce qui facilite le reverse-engin
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/manipulation-politique-zemmour/1512490171220078600-FP1gSp2WUAsqynK.png" draggable="false">
+  <img src="/images/blog/manipulation-politique-zemmour/1512490171220078600-FP1gSp2WUAsqynK.png" draggable="false">
   </div>
 </div>
 
@@ -72,7 +72,7 @@ Le fonctionnement de l'algo de recommandation est assez simple : chacune des 10 
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/manipulation-politique-zemmour/1512490180753739781-FP1hjUNWUAMI9JK.jpg" draggable="false">
+  <img src="/images/blog/manipulation-politique-zemmour/1512490180753739781-FP1hjUNWUAMI9JK.jpg" draggable="false">
   </div>
 </div>
 
@@ -86,7 +86,7 @@ L'image affichée en page d'accueil est donc assez ironique, **ni Arthaud ni Mac
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/manipulation-politique-zemmour/1512490185254215683-FP1jcNYXwAYwlFP.png" draggable="false">
+  <img src="/images/blog/manipulation-politique-zemmour/1512490185254215683-FP1jcNYXwAYwlFP.png" draggable="false">
   </div>
 </div>
 
@@ -94,7 +94,7 @@ Et bien sûr, une totale neutralité dans les sujets choisis... Petit exemple av
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/manipulation-politique-zemmour/1512490190111129601-FP1irJ9XEAkkys1.jpg" draggable="false">
+  <img src="/images/blog/manipulation-politique-zemmour/1512490190111129601-FP1irJ9XEAkkys1.jpg" draggable="false">
   </div>
 </div>
 
@@ -102,7 +102,7 @@ Mais comme si le fait d'avoir **60% des propositions en faveur de son candidat**
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/manipulation-politique-zemmour/1512490196952129539-FP1ktL8XIAEE878.jpg" draggable="false">
+  <img src="/images/blog/manipulation-politique-zemmour/1512490196952129539-FP1ktL8XIAEE878.jpg" draggable="false">
   </div>
 </div>
 
@@ -112,8 +112,8 @@ Cette hypothèse est clairement irréaliste vu l'écart ridicule entre les quest
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/manipulation-politique-zemmour/1512490205357477894-FP1nt4bWYA0x2tR.png" draggable="false">
-  <img style="height:350px; object-fit:cover" src="/images/blog/manipulation-politique-zemmour/1512490205357477894-FP1nzblXEAc-f7L.png" draggable="false">
+  <img src="/images/blog/manipulation-politique-zemmour/1512490205357477894-FP1nt4bWYA0x2tR.png" draggable="false">
+  <img src="/images/blog/manipulation-politique-zemmour/1512490205357477894-FP1nzblXEAc-f7L.png" draggable="false">
   </div>
 </div>
 
@@ -125,7 +125,7 @@ Le verdict tombe : sur ce site de conseils de vote à l'apparence neutre mais en
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/manipulation-politique-zemmour/1512490212731113479-FP1quLeX0AQvR9Z.jpg" draggable="false">
+  <img src="/images/blog/manipulation-politique-zemmour/1512490212731113479-FP1quLeX0AQvR9Z.jpg" draggable="false">
   </div>
 </div>
 
@@ -135,7 +135,7 @@ Beaucoup de drapeaux 🇺🇸 pour un gars qui tient tant à la souveraineté nu
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/manipulation-politique-zemmour/1512490218070454282-FP1tjXWWYAM_5WH.png" draggable="false">
+  <img src="/images/blog/manipulation-politique-zemmour/1512490218070454282-FP1tjXWWYAM_5WH.png" draggable="false">
   </div>
 </div>
 

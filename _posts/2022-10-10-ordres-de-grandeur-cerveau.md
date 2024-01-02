@@ -12,7 +12,7 @@ Aujourd'hui, je vais vous faire remettre en question votre vision du monde, avec
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/ordres-de-grandeur-cerveau/1579496394649653249-Fet-tWnXEAEOqKm.png" draggable="false">
+  <img src="/images/blog/ordres-de-grandeur-cerveau/1579496394649653249-Fet-tWnXEAEOqKm.png" draggable="false">
   </div>
 </div>
 
@@ -22,7 +22,7 @@ Un jeu de 52 cartes admet 52! ordres possibles.
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/ordres-de-grandeur-cerveau/1579496398097371136-Fet-1coWYAABwxy.jpg" draggable="false">
+  <img src="/images/blog/ordres-de-grandeur-cerveau/1579496398097371136-Fet-1coWYAABwxy.jpg" draggable="false">
   </div>
 </div>
 
@@ -32,7 +32,7 @@ Considérons que vous avez envie de mélanger un paquet de cartes de toutes les 
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/ordres-de-grandeur-cerveau/1579496401402494978-Fet-5MlWYAE_zWX.jpg" draggable="false">
+  <img src="/images/blog/ordres-de-grandeur-cerveau/1579496401402494978-Fet-5MlWYAE_zWX.jpg" draggable="false">
   </div>
 </div>
 
@@ -42,7 +42,7 @@ Un peu avant votre 6e pas, le système solaire atteindra sa fin de vie et aura e
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/ordres-de-grandeur-cerveau/1579496404682440706-Fet-9UMWAAILNqY.jpg" draggable="false">
+  <img src="/images/blog/ordres-de-grandeur-cerveau/1579496404682440706-Fet-9UMWAAILNqY.jpg" draggable="false">
   </div>
 </div>
 
@@ -56,7 +56,7 @@ Ensuite, vous continuez au même rythme qu'avant, en attendant un milliard d'ann
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/ordres-de-grandeur-cerveau/1579496409895927809-Fet_B-WWAAErRNh.jpg" draggable="false">
+  <img src="/images/blog/ordres-de-grandeur-cerveau/1579496409895927809-Fet_B-WWAAErRNh.jpg" draggable="false">
   </div>
 </div>
 
@@ -70,7 +70,7 @@ Recommencez votre vidange des océans, en ajoutant une nouvelle feuille sur le t
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/ordres-de-grandeur-cerveau/1579496415570853888-Fet_GVJWAAAXp0m.png" draggable="false">
+  <img src="/images/blog/ordres-de-grandeur-cerveau/1579496415570853888-Fet_GVJWAAAXp0m.png" draggable="false">
   </div>
 </div>
 
@@ -82,7 +82,7 @@ Normalement, vous aurez fini d'énumérer tous les différents mélanges de votr
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/ordres-de-grandeur-cerveau/1579496420566249473-Fet_NO8XEAIJNNE.png" draggable="false">
+  <img src="/images/blog/ordres-de-grandeur-cerveau/1579496420566249473-Fet_NO8XEAIJNNE.png" draggable="false">
   </div>
 </div>
 
@@ -96,7 +96,7 @@ Et si vous remportez le jackpot, lancez un grain de sable dans le Grand Canyon.
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/ordres-de-grandeur-cerveau/1579496425976893445-Fet_V1HX0AMcMsA.jpg" draggable="false">
+  <img src="/images/blog/ordres-de-grandeur-cerveau/1579496425976893445-Fet_V1HX0AMcMsA.jpg" draggable="false">
   </div>
 </div>
 
@@ -106,7 +106,7 @@ Quand le Grand Canyon est rempli à ras bord de sable tout le long de ses 450 ki
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/ordres-de-grandeur-cerveau/1579496433434361856-Fet83uSX0AUEWJ7.jpg" draggable="false">
+  <img src="/images/blog/ordres-de-grandeur-cerveau/1579496433434361856-Fet83uSX0AUEWJ7.jpg" draggable="false">
   </div>
 </div>
 
@@ -120,7 +120,7 @@ VSauce a fait une super vidéo à ce sujet : [https://www.youtube.com/watch?v=..
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/ordres-de-grandeur-cerveau/1579496442439569408-Fet9fGIXgAIwuC7.jpg" draggable="false">
+  <img src="/images/blog/ordres-de-grandeur-cerveau/1579496442439569408-Fet9fGIXgAIwuC7.jpg" draggable="false">
   </div>
 </div>
 

@@ -10,7 +10,7 @@ Bon, j'ai trouvé une manière de cracker le nouveau shadowban Twitter 🥳
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/contournement-shadowban-twitter/1677364553213177857-F0cmvGKWwAEdCgf.jpg" draggable="false">
+  <img src="/images/blog/contournement-shadowban-twitter/1677364553213177857-F0cmvGKWwAEdCgf.jpg" draggable="false">
   </div>
 </div>
 
@@ -22,7 +22,7 @@ Normal de vouloir éviter que les utilisateurs se barrent chez la concurrence, m
 
 <div class="gallery-box">
   <div class="gallery">
-  <img style="height:350px; object-fit:cover" src="/images/blog/contournement-shadowban-twitter/1677364557709287442-F0crPGBXoAUNZai.png" draggable="false">
+  <img src="/images/blog/contournement-shadowban-twitter/1677364557709287442-F0crPGBXoAUNZai.png" draggable="false">
   </div>
 </div>
 
