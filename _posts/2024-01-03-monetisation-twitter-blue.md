@@ -22,7 +22,7 @@ Mon compte principal étant largement éligible selon ces conditions, j'ai déci
   </div>
 </div>
 
-Je ne me suis jamais caché de m'être abonné à Blue, mais je fais tout mon possible pour ne pas encourager d'autres personnes à le faire sans avoir de bonnes raisons. J'ai notamment désativé la fameuse coche bleue, et je n'utilise pas les fonctionnalités réservées aux comptes payants (tweets longs, édition, etc.)
+Je ne me suis jamais caché de m'être abonné à Blue, mais je fais tout mon possible pour ne pas encourager d'autres personnes à le faire sans avoir de bonnes raisons. J'ai notamment désactivé la fameuse coche bleue, et je n'utilise pas les fonctionnalités réservées aux comptes payants (tweets longs, édition, etc.)
 
 ### Les stats !
 
