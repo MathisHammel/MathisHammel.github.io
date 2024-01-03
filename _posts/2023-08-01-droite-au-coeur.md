@@ -2,7 +2,7 @@
 layout: post
 title:  "Droite au Coeur&nbsp;: la pire faille de sécurité au monde"
 date:   2023-08-01 15:23:42 +0200
-image:  '/images/blog/droite-au-coeur/header.png'
+image:  '/images/blog/droite-au-coeur/header.jpg'
 tags:   [Cybersécurité]
 ---
 

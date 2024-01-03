@@ -2,7 +2,7 @@
 layout: post
 title:  "Reverse-engineering et problèmes juridiques autour de l'appli Crush"
 date:   2023-11-08 19:23:36 +0100
-image:  '/images/blog/securite-crush/header.png'
+image:  '/images/blog/securite-crush/header.jpg'
 tags:   [Cybersécurité]
 ---
 
