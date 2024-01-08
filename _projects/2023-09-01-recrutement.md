@@ -1,6 +1,6 @@
 ---
 title: Conseil en recrutement technique
-date: 2023-09-01 08:00:05 +0100
+date: 2023-09-01 08:00:06 +0100
 subtitle: Création d'entretiens sur mesure et sélection de candidatures.
 image: '/images/project-recrutement.jpg'
 tags: [Recrutement, Algo, Cybersécurité]

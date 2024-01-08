@@ -1,6 +1,6 @@
 ---
 title: Publications sponsorisées
-date: 2023-09-01 08:00:06 +0100
+date: 2023-09-01 08:00:05 +0100
 subtitle: Créations de contenus sur-mesure pour une communauté de 50 000 développeurs et développeuses francophones.
 image: '/images/project-sponso.jpg'
 tags: [IA, Cybersécurité]
