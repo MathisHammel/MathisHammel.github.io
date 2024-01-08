@@ -1,12 +1,12 @@
 ---
 title: Publications sponsorisées
 date: 2023-09-01 08:00:05 +0100
-subtitle: Créations de contenus sur-mesure pour une communauté de 50 000 développeurs et développeuses francophones.
+subtitle: Créations de contenus sur-mesure pour une communauté de plus de 60 000 développeurs et développeuses francophones.
 image: '/images/project-sponso.jpg'
 tags: [IA, Cybersécurité]
 ---
 
-Sur l'année 2022, mes publications sur Twitter ont reçu un total de **63 millions de vues**. En sponsorisant une publication ou un thread, vous m'aidez à financer mon activité de vulgarisation tout en accordant de la visibilité à votre marque.
+Sur l'année 2023, mes publications sur Twitter ont accumulé **68 millions de vues** au total. En sponsorisant une publication ou un thread, vous m'aidez à financer mon activité de vulgarisation tout en accordant de la visibilité à votre marque.
 
 Le format thread est de loin le plus populaire sur mon compte Twitter : nous choisissons ensemble un sujet technique à vulgariser parmi mes domaine d'expertise, et je mets en avant votre entreprise (ou l'un de ses produits, événements, ...) à une ou plusieurs reprises dans le thread.
 
