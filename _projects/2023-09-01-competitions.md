@@ -81,6 +81,6 @@ Je suis l'une des personnes ayant le plus d'expérience sur l'organisation de ch
 
 Je suis un passionné de challenges techniques : je me place régulièrement dans le top 0.1% des classements sur des compétitions nationales et internationales, notamment sur CodeForces où j'ai longtemps fait partie des 10 meilleurs développeurs en France. Je participe également aux championnats mondiaux de programmation (ICPC) chaque année depuis 2016, d'abord en tant que participant puis en tant que coach sur les 4 dernières éditions. 
 
-J'ai été sélectionné par l'ANSSI pour rejoindre l'équipe de France de cybersécurité en 2019 et 2020. La sélection regroupe chaque année plus de 3000 personnes en compétition pour décrocher l'une des 10 places dans l'équipe.
+J'ai été sélectionné à deux reprises par l'ANSSI pour rejoindre l'équipe de France de cybersécurité en 2019 et 2020. La sélection regroupe chaque année plus de 3000 personnes en compétition pour décrocher l'une des 10 places dans l'équipe. Je suis aujourd'hui entraîneur de l'équipe de France pour WorldSkills, une autre compétition internationale qui opposera 65 pays cette année.
 
 La création de contenus ludiques et engageants pour l'apprentissage est ma spécialité : j'ai notamment travaillé pour la startup CodinGame et participé à la création du [Sogeti Cyber Escape](https://sogeti-cyber-escape.bemyapp.com/), premier escape game de cybersécurité en France.

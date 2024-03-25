@@ -60,6 +60,6 @@ Je suis ingénieur diplômé de l'INSA Lyon avec une spécialisation en Machine 
 
 J'ai 2 années d'expérience professionnelle en tant qu'ingénieur R&D en intelligence artificielle auprès du ministère des Armées, et je pratique une veille active dans cette discipline depuis près de 10 ans.
 
-En 2022, Google m'a décerné la prestigieuse distinction "Google Developer Expert - Machine Learning". Ce titre n'est détenu que par 4 personnes en France.
+En 2022, Google m'a décerné la prestigieuse distinction "Google Developer Expert - Machine Learning". Ce titre n'est détenu que par 4 personnes en France. J'ai également été nommé Microsoft MVP en 2024.
 
 Mes formations et conférences sont très populaires : à titre d'exemple, ma conférence "[Comment j'ai développé le détecteur de deepfakes le plus puissant du monde](https://www.youtube.com/watch?v=GiVP80dPhHU)" a été élue 5e meilleure conférence à Devoxx Belgium 2022, parmi les 230 sessions de cet événement mondialement reconnu.

@@ -56,7 +56,9 @@ Les participant·es doivent être capables de coder de manière autonome sur au 
 
 Après l'obtention de mon diplôme d'ingénieur à l'INSA Lyon, j'ai travaillé pendant plus de 2 ans en tant que CTO adjoint à la cybersécurité pour le groupe Capgemini France. J'y ai notamment dirigé le laboratoire R&D en cybersécurité (20 personnels à temps plein) et fondé la première équipe semi-professionnelle de Capture The Flag en France, les Capgemini Aces of Spades.
 
-J'ai été sélectionné par l'ANSSI pour rejoindre l'équipe de France de cybersécurité en 2019 et 2020. La sélection regroupe chaque année plus de 3000 personnes en compétition pour décrocher l'une des 10 places dans l'équipe.
+L'ANSSI m'a sélectionné à deux reprises dans l'équipe de France de cybersécurité en 2019 et 2020. La sélection regroupe chaque année plus de 3000 personnes en compétition pour décrocher l'une des 10 places dans l'équipe qui représente la france à l'ECSC. Je suis aujourd'hui entraîneur de l'équipe de France de cybersécurité pour WorldSkills, une autre compétition internationale qui opposera 65 pays cette année.
+
+Je suis titulaire des prestigieuses distinctions Google Developer Expert et Microsoft MVP.
 
 La création de contenus ludiques et engageants pour l'apprentissage est ma spécialité : j'ai notamment travaillé pour la startup CodinGame et participé à la création du [Sogeti Cyber Escape](https://sogeti-cyber-escape.bemyapp.com/), premier escape game de cybersécurité en France.
 
