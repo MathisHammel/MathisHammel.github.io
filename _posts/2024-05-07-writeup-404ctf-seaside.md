@@ -169,7 +169,7 @@ Sur la capture de droite ci-dessus, on peut voit plusieurs motifs très repérab
   </div>
 </div>
 
-La durée du cycle Velu est difficile à mesurer puisqu'on ne voit pas bien la séparation entre celui-ci et la phase "régularisation" qui le  (en bleu clair ci-dessus). Cependant, en regardant la forme de la courbe juste avant le début de la phase "P+1/4", on distingue clairement deux groupes qui doivent donc correspondre à deux types d'isogénies différents. Je les note ici A et B (on remarquera que seulement deux des trois isogénies possibles sont utilisées dans la clé).
+La durée du cycle Velu est difficile à mesurer puisqu'on ne voit pas bien la séparation entre celui-ci et la phase "régularisation" qui le précède (en bleu clair ci-dessus). Cependant, en regardant la forme de la courbe juste avant le début de la phase "P+1/4", on distingue clairement deux groupes qui doivent donc correspondre à deux types d'isogénies différents. Je les note ici A et B (on remarquera que seulement deux des trois isogénies possibles sont utilisées dans la clé).
 
 <div class="gallery-box">
   <div class="gallery">
@@ -177,7 +177,7 @@ La durée du cycle Velu est difficile à mesurer puisqu'on ne voit pas bien la s
   </div>
 </div>
 
-Comme les seules isogénies possibles sont 3, 5 et 7 et que le flag sera forcément au format `404CTF{ABBBABBABA}`, ça nous fait seulement 6 flags possibles à essayer, le flag correct est `404CTF{5333533533}`. 
+Comme les seules isogénies possibles sont 3, 5 et 7 et que le flag sera forcément au format `404CTF{ABBBABBABA}`, ça nous fait seulement 6 flags possibles à essayer, le flag correct est `404CTF{5333533535}`. 
 
 En pratique j'ai éliminé 3 de ces 6 possibilités en me basant aussi sur la durée de la division euclidienne qui était également très simple à visualiser sur la courbe, mais ce n'était pas nécessaire.
 
