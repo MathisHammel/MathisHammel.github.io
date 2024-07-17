@@ -75,7 +75,7 @@ En quelque sorte, CLIP **invente sa propre langue** optimisée pour décrire des
 Pour être utiles, il faut donc que les deux réseaux de neurones respectent des contraintes sur les embeddings :
 
 - Si l'image correspond au texte, leurs embeddings doivent être **quasi-identiques**
-- Si elle ne correspond pas, leurs embeddings doivent être **très différents **
+- Si elle ne correspond pas, leurs embeddings doivent être **très différents**
 
 <div class="gallery-box">
   <div class="gallery">
