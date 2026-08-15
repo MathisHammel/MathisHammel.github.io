@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Explore camping spots alongside Luxembourg's public forests."
+    />
+    <title>Lux Camping Atlas</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&amp;family=DM+Serif+Display&amp;display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+      integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+      crossorigin=""
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main class="map-panel" aria-label="Interactive map of the Mullerthal region">
+      <div id="map"></div>
+      <div class="map-key" aria-label="Map legend">
+        <span><i class="boundary-swatch"></i>Mullerthal region</span>
+        <span><i class="forest-swatch domain"></i>Domaine forest</span>
+        <span><i class="forest-swatch communal"></i>Communal forest</span>
+        <span><i class="trail-swatch"></i>Mullerthal Trail</span>
+        <span><i class="point-swatch fireplace"></i>Fireplace</span>
+        <span><i class="point-swatch picnic"></i>No fireplace</span>
+      </div>
+      <div class="map-status" id="map-status" role="status" hidden></div>
+    </main>
+
+    <script
+      src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+      integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+      crossorigin=""
+    ></script>
+    <script src="app.js"></script>
+  </body>
+</html>
